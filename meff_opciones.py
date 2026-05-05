@@ -8,27 +8,21 @@ import glob
 import smtplib
 from email.message import EmailMessage
 
-# ── EMAIL ────────────────────────────────────────────────────────────────
 EMAIL_ORIGEN = os.getenv("EMAIL_ORIGEN")
 EMAIL_DESTINO = os.getenv("EMAIL_DESTINO")
 PASSWORD_APP = os.getenv("PASSWORD_APP")
 
-# ── CARPETA ──────────────────────────────────────────────────────────────
 CARPETA = "data"
 os.makedirs(CARPETA, exist_ok=True)
 
-# ── ROTACIÓN CSV ─────────────────────────────────────────────────────────
 def mantener_ultimos_20():
     archivos = sorted(glob.glob(f"{CARPETA}/meff_opciones_*.csv"))
     if len(archivos) > 20:
         for f in archivos[:-20]:
             os.remove(f)
-            print(f"Borrado antiguo: {f}")
 
-# ── EMAIL ────────────────────────────────────────────────────────────────
 def enviar_email(txt_file):
     if not EMAIL_ORIGEN:
-        print("Email no configurado")
         return
 
     msg = EmailMessage()
@@ -44,7 +38,6 @@ def enviar_email(txt_file):
         smtp.login(EMAIL_ORIGEN, PASSWORD_APP)
         smtp.send_message(msg)
 
-# ── URLs ─────────────────────────────────────────────────────────────────
 URLS = {
     "lunes":     "https://www.meff.es/docs/Ficheros/boletin/esp/boletinpmon.htm",
     "martes":    "https://www.meff.es/docs/Ficheros/boletin/esp/boletinptue.htm",
@@ -53,20 +46,16 @@ URLS = {
     "viernes":   "https://www.meff.es/docs/Ficheros/boletin/esp/boletinpfri.htm",
 }
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0",
-    "Accept-Language": "es-ES,es;q=0.9"
-}
+HEADERS = {"User-Agent": "Mozilla/5.0"}
 
-# ── FUNCIONES SCRAPING ───────────────────────────────────────────────────
 def fetch_page(url):
     r = requests.get(url, headers=HEADERS, timeout=30)
     r.raise_for_status()
     r.encoding = r.apparent_encoding or "iso-8859-1"
     return BeautifulSoup(r.text, "html.parser")
 
-def limpiar(texto):
-    return re.sub(r"\s+", " ", texto.strip().replace("\xa0", " "))
+def limpiar(t):
+    return re.sub(r"\s+", " ", t.strip().replace("\xa0", " "))
 
 def es_vacio(v):
     return v.strip() in ("", "-", "–", "—", "N/A")
@@ -125,17 +114,14 @@ def extraer_tabla(tabla: Tag, accion: str, tipo: str):
 def scrapear(url):
     soup = fetch_page(url)
 
+    # 🔹 FECHA BOLETÍN (ROBUSTO)
     fecha_boletin = ""
-
-# buscar en todo el HTML una fecha tipo dd/mm/aaaa cerca de BOLETIN
-textos = soup.stripped_strings
-
-for t in textos:
-    if re.search(r"BOLET", t, re.IGNORECASE):
-        m = re.search(r"(\d{2}/\d{2}/\d{2,4})", t)
-        if m:
-            fecha_boletin = m.group(1)
-            break
+    for t in soup.stripped_strings:
+        if "BOLET" in t.upper():
+            m = re.search(r"(\d{2}/\d{2}/\d{2,4})", t)
+            if m:
+                fecha_boletin = m.group(1)
+                break
 
     todos = []
     PAT_CIERRE = re.compile(r"^Cierre\s+(?!anterior\b)(.+)$", re.IGNORECASE)
@@ -170,7 +156,6 @@ for t in textos:
     df["fecha_boletin"] = fecha_boletin
     return df
 
-# ── MAIN ─────────────────────────────────────────────────────────────────
 def main():
 
     dia_semana = datetime.today().weekday()
@@ -200,11 +185,8 @@ def main():
 
     top10 = df.sort_values("vol_num", ascending=False).head(10)
 
-    # ── FORMATO TXT BONITO ────────────────────────────────────────────────
-    COLS = ["fecha_boletin", "accion", "tipo", "fecha_vencimiento",
-            "strike", "volumen_contratos", "posicion_abierta"]
-
-    top10 = top10[[c for c in COLS if c in top10.columns]]
+    COLS = ["fecha_boletin","accion","tipo","fecha_vencimiento","strike","volumen_contratos","posicion_abierta"]
+    top10 = top10[COLS]
 
     anchos = {c: max(len(c), top10[c].astype(str).str.len().max()) for c in top10.columns}
     separador = "  ".join("-" * anchos[c] for c in top10.columns)
@@ -233,8 +215,6 @@ def main():
         f.write("\n".join(lineas))
 
     enviar_email(nombre_txt)
-
-    print("OK")
 
 if __name__ == "__main__":
     main()
