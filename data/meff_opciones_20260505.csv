@@ -1,0 +1,7106 @@
+accion;tipo;fecha_vencimiento;strike;volumen_contratos;posicion_abierta
+NA;CALL;IBEX - 35;;8.467;-
+NA;CALL;MINI IBEX-35;;4.369;1,41
+NA;CALL;MICRO IBEX-35;;-;-
+NA;CALL;IBEX BANCOS;;-;-
+NA;CALL;IBEX ENERGIA;;-;-
+NA;CALL;IBEX - 35 Impacto DIV;;-;-
+NA;CALL;BONO 10;;-;-
+NA;CALL;ACCIONES;;46.536;0,05
+NA;CALL;DIVIDENDOS;;-;-
+NA;CALL;IBEX - 35;;-;46.466
+NA;CALL;MINI IBEX-35;;40.317;95.054
+NA;CALL;MICRO IBEX-35;;-;-
+NA;CALL;IBEX BANCOS;;-;-
+NA;CALL;IBEX ENERGIA;;-;-
+NA;CALL;IBEX - 35 Impacto DIV;;-;2.900
+NA;CALL;BONO 10;;-;-
+NA;CALL;ACCIONES;;4.356.918;7.559.846
+NA;CALL;DIVIDENDOS;;-;28.726
+NA;CALL;;;;ACS
+NA;CALL;;;;AMADEUS
+NA;CALL;;;;AUDAX RENOV
+NA;CALL;;;;BANKINTER
+NA;CALL;;;;CELLNEX
+NA;CALL;;;;D. FELGUERA
+NA;CALL;;;;ENCE
+NA;CALL;;;;FCC
+NA;CALL;;;;GESTAMP
+NA;CALL;;;;GRIFOLS B
+NA;CALL;;;;IBERDROLA
+NA;CALL;;;;LABORAT. ROVI
+NA;CALL;;;;MAPFRE
+NA;CALL;;;;NATURGY
+NA;CALL;;;;PROSEGUR
+NA;CALL;;;;REPSOL
+NA;CALL;;;;SOLARIA
+NA;CALL;;;;UNICAJA
+NA;CALL;;;;BBVA DIV
+NA;CALL;;;;CAIXABANK DIV25
+NA;CALL;;;;IBERDROLA DIV
+NA;CALL;;;;INDITEX DIV25
+NA;CALL;;;;SANTANDER DIV
+NA;CALL;;;;TELEFONICA DIV25
+NA;CALL;Lunes;;Jueves;Viernes
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;8.459;46.454
+NA;CALL;19-Jun-26;;8;12
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;08-May-26;;-;-
+NA;CALL;15-May-26;;3.636;4.363
+NA;CALL;22-May-26;;-;-
+NA;CALL;29-May-26;;-;-
+NA;CALL;19-Jun-26;;83;100
+NA;CALL;17-Jul-26;;2;3
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Dic-26;;-;2.175
+NA;CALL;17-Dic-27;;-;275
+NA;CALL;15-Dic-28;;-;350
+NA;CALL;21-Dic-29;;-;50
+NA;CALL;20-Dic-30;;-;50
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;50
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;10
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;19;910
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;33
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;6;86
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;63
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;30;70
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;18;43
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;08-May-26;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;22-May-26;;-;-
+NA;CALL;29-May-26;;-;-
+NA;CALL;19-Jun-26;;19;23.168
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;5.000
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;319
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;48
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;100
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;50
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;7.500
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;2;43
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;390
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;1;175
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;30
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;10
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;08-May-26;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;22-May-26;;-;-
+NA;CALL;29-May-26;;-;-
+NA;CALL;19-Jun-26;;100;6.942
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;08-May-26;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;22-May-26;;-;-
+NA;CALL;29-May-26;;-;-
+NA;CALL;19-Jun-26;;5;7.104
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;433
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;1
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;34
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;12
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;5.000
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;175
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;64
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;08-May-26;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;22-May-26;;-;-
+NA;CALL;29-May-26;;-;-
+NA;CALL;19-Jun-26;;1;290
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;15.000
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;3
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;9
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;08-May-26;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;22-May-26;;-;-
+NA;CALL;29-May-26;;-;-
+NA;CALL;19-Jun-26;;65;204.309
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;10.000
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;1.307.400
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;20
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;08-May-26;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;22-May-26;;-;-
+NA;CALL;29-May-26;;-;-
+NA;CALL;19-Jun-26;;-;20.210
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;10
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;18-Jun-27;;-;-
+NA;CALL;17-Sep-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;17-Mar-28;;-;-
+NA;CALL;16-Jun-28;;-;-
+NA;CALL;15-Sep-28;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;15-Jun-29;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;21-Jun-30;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;31-Dic-99;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;600
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;15-Dic-28;;-;50
+NA;CALL;21-Dic-29;;-;100
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;500
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;50
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;17-Dic-27;;-;50
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;1.600
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;21-Dic-29;;-;216
+NA;CALL;20-Dic-30;;-;85
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;20.500
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;1.050
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;17-Dic-27;;-;50
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;21-Dic-29;;-;50
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;3.775
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;50
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;15-May-26;;-;-
+NA;CALL;19-Jun-26;;-;-
+NA;CALL;17-Jul-26;;-;-
+NA;CALL;18-Sep-26;;-;-
+NA;CALL;18-Dic-26;;-;-
+NA;CALL;19-Mar-27;;-;-
+NA;CALL;17-Dic-27;;-;-
+NA;CALL;15-Dic-28;;-;-
+NA;CALL;21-Dic-29;;-;-
+NA;CALL;20-Dic-30;;-;-
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26 w2   17.500;;1;1
+NA;CALL;May-26 w2   17.600;;1;1
+NA;CALL;May-26 w2   17.800;;-;1
+NA;CALL;May-26 w2   17.950;;-;1
+NA;CALL;May-26 w2   18.000;;7;4
+NA;CALL;May-26 w2   18.025;;1;1
+NA;CALL;May-26 w2   18.100;;2;2
+NA;CALL;May-26 w2   18.150;;1;2
+NA;CALL;May-26 w2   18.200;;1;2
+NA;CALL;May-26 w2   18.250;;-;1
+NA;CALL;May-26 w2   18.400;;1;3
+NA;CALL;May-26 w2   18.500;;-;3
+NA;CALL;May-26 w2   18.600;;5;5
+NA;CALL;May-26 w2   18.700;;-;2
+NA;CALL;May-26 w2   18.750;;-;1
+NA;CALL;May-26 w2   18.800;;-;1
+NA;CALL;May-26   15.500;;-;4
+NA;CALL;May-26   16.000;;-;2
+NA;CALL;May-26   16.150;;-;2
+NA;CALL;May-26   16.200;;-;1
+NA;CALL;May-26   16.300;;-;3
+NA;CALL;May-26   16.400;;-;100
+NA;CALL;May-26   16.500;;-;1
+NA;CALL;May-26   16.600;;-;100
+NA;CALL;May-26   16.750;;-;1
+NA;CALL;May-26   16.800;;-;100
+NA;CALL;May-26   16.850;;-;9
+NA;CALL;May-26   16.950;;-;1
+NA;CALL;May-26   17.000;;-;3
+NA;CALL;May-26   17.100;;-;2
+NA;CALL;May-26   17.150;;-;100
+NA;CALL;May-26   17.200;;1;1
+NA;CALL;May-26   17.300;;-;102
+NA;CALL;May-26   17.400;;1;2
+NA;CALL;May-26   17.450;;-;1
+NA;CALL;May-26   17.500;;1;8
+NA;CALL;May-26   17.600;;76;77
+NA;CALL;May-26   17.650;;76;76
+NA;CALL;May-26   17.700;;3;4
+NA;CALL;May-26   17.750;;8;7
+NA;CALL;May-26   17.800;;4;15
+NA;CALL;May-26   17.850;;-;1
+NA;CALL;May-26   17.900;;2;3
+NA;CALL;May-26   17.950;;-;2
+NA;CALL;May-26   18.000;;112;378
+NA;CALL;May-26   18.050;;-;1
+NA;CALL;May-26   18.100;;-;9
+NA;CALL;May-26   18.150;;-;100
+NA;CALL;May-26   18.200;;23;10.024
+NA;CALL;May-26   18.250;;-;4
+NA;CALL;May-26   18.300;;6;15
+NA;CALL;May-26   18.350;;-;2
+NA;CALL;May-26   18.400;;1;6
+NA;CALL;May-26   18.450;;-;1
+NA;CALL;May-26   18.500;;8;28
+NA;CALL;May-26   18.600;;-;9
+NA;CALL;May-26   18.650;;-;3
+NA;CALL;May-26   18.700;;-;4
+NA;CALL;May-26   18.800;;-;8
+NA;CALL;May-26   18.900;;-;11
+NA;CALL;May-26   19.000;;2;18
+NA;CALL;May-26   19.050;;-;2
+NA;CALL;May-26   19.100;;-;7
+NA;CALL;May-26   19.150;;-;1
+NA;CALL;May-26   19.200;;-;2
+NA;CALL;May-26   19.250;;-;10
+NA;CALL;May-26   19.300;;-;3
+NA;CALL;May-26   19.400;;-;5
+NA;CALL;May-26   19.500;;-;9
+NA;CALL;May-26   19.900;;-;1
+NA;CALL;May-26 w4   18.400;;1;1
+NA;CALL;Jun-26   7.400;;-;3
+NA;CALL;Jun-26   11.400;;-;32
+NA;CALL;Jun-26   12.100;;-;3
+NA;CALL;Jun-26   12.200;;-;9
+NA;CALL;Jun-26   12.700;;-;5
+NA;CALL;Jun-26   13.400;;-;1
+NA;CALL;Jun-26   13.500;;-;1
+NA;CALL;Jun-26   13.700;;-;4
+NA;CALL;Jun-26   14.000;;-;2
+NA;CALL;Jun-26   14.500;;-;2
+NA;CALL;Jun-26   14.600;;-;1
+NA;CALL;Jun-26   14.900;;-;2
+NA;CALL;Jun-26   15.000;;-;1
+NA;CALL;Jun-26   15.100;;-;1
+NA;CALL;Jun-26   15.200;;-;1
+NA;CALL;Jun-26   15.300;;-;3
+NA;CALL;Jun-26   15.700;;-;1
+NA;CALL;Jun-26   15.800;;-;1
+NA;CALL;Jun-26   16.000;;-;3
+NA;CALL;Jun-26   16.300;;-;2
+NA;CALL;Jun-26   16.450;;-;1
+NA;CALL;Jun-26   16.500;;-;2
+NA;CALL;Jun-26   16.700;;-;1
+NA;CALL;Jun-26   16.800;;-;1
+NA;CALL;Jun-26   17.000;;-;2
+NA;CALL;Jun-26   17.050;;-;1
+NA;CALL;Jun-26   17.100;;-;3
+NA;CALL;Jun-26   17.200;;-;4
+NA;CALL;Jun-26   17.300;;-;3
+NA;CALL;Jun-26   17.350;;-;80
+NA;CALL;Jun-26   17.400;;-;3
+NA;CALL;Jun-26   17.500;;1;8
+NA;CALL;Jun-26   17.600;;2;100
+NA;CALL;Jun-26   17.700;;1;106
+NA;CALL;Jun-26   17.800;;-;1
+NA;CALL;Jun-26   17.850;;1;1
+NA;CALL;Jun-26   17.900;;-;2
+NA;CALL;Jun-26   17.950;;1;2
+NA;CALL;Jun-26   18.000;;-;11
+NA;CALL;Jun-26   18.100;;-;6
+NA;CALL;Jun-26   18.150;;1;5
+NA;CALL;Jun-26   18.200;;-;7
+NA;CALL;Jun-26   18.300;;1;67
+NA;CALL;Jun-26   18.400;;1;6
+NA;CALL;Jun-26   18.500;;2;107
+NA;CALL;Jun-26   18.600;;-;5
+NA;CALL;Jun-26   18.650;;3;2
+NA;CALL;Jun-26   18.700;;5;105
+NA;CALL;Jun-26   18.800;;-;7
+NA;CALL;Jun-26   18.900;;-;3
+NA;CALL;Jun-26   19.000;;-;95
+NA;CALL;Jun-26   19.050;;1;1
+NA;CALL;Jun-26   19.100;;-;1
+NA;CALL;Jun-26   19.200;;-;1
+NA;CALL;Jun-26   19.300;;-;1
+NA;CALL;Jun-26   19.400;;-;2
+NA;CALL;Jun-26   19.500;;-;1
+NA;CALL;Jun-26   20.000;;-;1
+NA;CALL;Jun-26   20.200;;-;1
+NA;CALL;Jul-26   16.500;;-;1
+NA;CALL;Jul-26   18.000;;-;1
+NA;CALL;Jul-26   18.100;;1;101
+NA;CALL;Jul-26   18.150;;-;100
+NA;CALL;Jul-26   18.200;;-;1
+NA;CALL;Jul-26   18.700;;1;1
+NA;CALL;Jul-26   18.800;;2;2
+NA;CALL;Jul-26   19.000;;-;1
+NA;CALL;Jul-26   19.100;;2;2
+NA;CALL;Jul-26   19.200;;-;1
+NA;CALL;Sep-26   12.200;;-;32
+NA;CALL;Sep-26   15.500;;-;1
+NA;CALL;Sep-26   16.500;;-;1
+NA;CALL;Sep-26   16.700;;-;9
+NA;CALL;Sep-26   17.000;;-;1
+NA;CALL;Sep-26   17.300;;-;5
+NA;CALL;Sep-26   17.400;;-;3
+NA;CALL;Sep-26   17.500;;2;6
+NA;CALL;Sep-26   17.600;;1;3
+NA;CALL;Sep-26   18.000;;-;100
+NA;CALL;Sep-26   18.100;;-;1
+NA;CALL;Sep-26   18.200;;-;4
+NA;CALL;Sep-26   18.400;;1;1
+NA;CALL;Sep-26   18.500;;-;1
+NA;CALL;Sep-26   18.600;;-;1
+NA;CALL;Sep-26   18.700;;-;2
+NA;CALL;Sep-26   18.800;;-;23
+NA;CALL;Sep-26   18.900;;-;1
+NA;CALL;Sep-26   19.000;;-;7
+NA;CALL;Sep-26   19.100;;-;3
+NA;CALL;Sep-26   19.400;;-;2
+NA;CALL;Sep-26   19.500;;-;1
+NA;CALL;Sep-26   20.000;;-;1
+NA;CALL;Sep-26   20.300;;-;1
+NA;CALL;Sep-26   20.400;;-;1
+NA;CALL;Sep-26   20.800;;-;3
+NA;CALL;Dic-26   8.300;;-;655
+NA;CALL;Dic-26   8.600;;-;1.250
+NA;CALL;Dic-26   10.500;;-;30
+NA;CALL;Dic-26   12.000;;-;12
+NA;CALL;Dic-26   12.200;;-;32
+NA;CALL;Dic-26   13.000;;-;1
+NA;CALL;Dic-26   14.800;;-;32
+NA;CALL;Dic-26   15.300;;-;1
+NA;CALL;Dic-26   16.000;;-;10
+NA;CALL;Dic-26   16.400;;-;6.000
+NA;CALL;Dic-26   16.700;;-;1.500
+NA;CALL;Dic-26   16.900;;-;5
+NA;CALL;Dic-26   17.000;;2;19
+NA;CALL;Dic-26   17.100;;-;5
+NA;CALL;Dic-26   17.200;;-;1
+NA;CALL;Dic-26   17.300;;-;1
+NA;CALL;Dic-26   17.400;;-;3
+NA;CALL;Dic-26   17.500;;-;1.006
+NA;CALL;Dic-26   17.600;;-;7
+NA;CALL;Dic-26   17.700;;-;5.005
+NA;CALL;Dic-26   17.800;;-;92
+NA;CALL;Dic-26   17.900;;-;5.007
+NA;CALL;Dic-26   18.000;;-;6
+NA;CALL;Dic-26   18.100;;-;1
+NA;CALL;Dic-26   18.300;;-;5
+NA;CALL;Dic-26   18.400;;-;1
+NA;CALL;Dic-26   18.500;;-;6.044
+NA;CALL;Dic-26   18.600;;-;1
+NA;CALL;Dic-26   18.900;;-;1
+NA;CALL;Dic-26   19.000;;-;2
+NA;CALL;Dic-26   19.100;;-;1
+NA;CALL;Dic-26   19.200;;-;4
+NA;CALL;Dic-26   19.400;;-;2.000
+NA;CALL;Dic-26   19.500;;-;4
+NA;CALL;Dic-26   19.600;;-;1
+NA;CALL;Dic-26   19.800;;-;1
+NA;CALL;Dic-26   19.900;;-;6
+NA;CALL;Dic-26   20.000;;-;6
+NA;CALL;Dic-26   20.100;;-;1
+NA;CALL;Dic-26   20.200;;-;1
+NA;CALL;Dic-26   20.500;;-;6.043
+NA;CALL;Dic-26   20.600;;-;4
+NA;CALL;Dic-26   21.000;;-;1
+NA;CALL;Mar-27   12.600;;-;1
+NA;CALL;Mar-27   13.000;;-;2
+NA;CALL;Mar-27   17.000;;-;2
+NA;CALL;Mar-27   18.000;;-;750
+NA;CALL;Jun-27   18.500;;2;2
+NA;CALL;Dic-27   14.000;;-;2
+NA;CALL;Dic-27   16.200;;-;32
+NA;CALL;Dic-27   16.300;;-;96
+NA;CALL;Dic-27   16.400;;-;32
+NA;CALL;Dic-27   16.500;;-;32
+NA;CALL;Dic-27   16.700;;-;32
+NA;CALL;Dic-28   16.800;;-;1.800
+NA;CALL;May-26 w2   16.200;;-;1
+NA;CALL;May-26 w2   16.300;;-;1
+NA;CALL;May-26 w2   16.400;;-;1
+NA;CALL;May-26 w2   16.500;;-;3
+NA;CALL;May-26 w2   16.600;;1;3
+NA;CALL;May-26 w2   16.650;;-;1
+NA;CALL;May-26 w2   16.700;;-;2
+NA;CALL;May-26 w2   16.750;;1;1
+NA;CALL;May-26 w2   16.900;;1;2
+NA;CALL;May-26 w2   16.950;;1;1
+NA;CALL;May-26 w2   17.000;;2;2
+NA;CALL;May-26 w2   17.100;;-;2
+NA;CALL;May-26 w2   17.200;;2;3
+NA;CALL;May-26 w2   17.250;;-;1
+NA;CALL;May-26 w2   17.300;;-;3
+NA;CALL;May-26 w2   17.350;;-;2
+NA;CALL;May-26 w2   17.400;;-;1
+NA;CALL;May-26 w2   17.500;;1;8
+NA;CALL;May-26 w2   17.600;;2;5
+NA;CALL;May-26 w2   17.625;;-;1
+NA;CALL;May-26 w2   17.650;;-;3
+NA;CALL;May-26 w2   17.700;;-;2
+NA;CALL;May-26 w2   17.750;;2;3
+NA;CALL;May-26 w2   17.800;;3;5
+NA;CALL;May-26 w2   17.850;;-;1
+NA;CALL;May-26 w2   17.900;;1;2
+NA;CALL;May-26 w2   17.950;;-;3
+NA;CALL;May-26 w2   18.225;;-;2
+NA;CALL;May-26 w2   18.250;;-;5
+NA;CALL;May-26   14.100;;-;11
+NA;CALL;May-26   14.300;;-;1
+NA;CALL;May-26   14.400;;-;2
+NA;CALL;May-26   14.500;;-;240
+NA;CALL;May-26   14.600;;-;1
+NA;CALL;May-26   14.700;;-;2
+NA;CALL;May-26   14.800;;-;10
+NA;CALL;May-26   15.500;;-;459
+NA;CALL;May-26   15.600;;-;5
+NA;CALL;May-26   15.650;;-;3
+NA;CALL;May-26   15.700;;-;12
+NA;CALL;May-26   15.750;;-;6
+NA;CALL;May-26   15.800;;-;5
+NA;CALL;May-26   15.850;;-;1
+NA;CALL;May-26   15.900;;2;21
+NA;CALL;May-26   16.000;;-;9
+NA;CALL;May-26   16.050;;-;1
+NA;CALL;May-26   16.100;;-;14
+NA;CALL;May-26   16.150;;-;1
+NA;CALL;May-26   16.200;;3;13
+NA;CALL;May-26   16.300;;-;7
+NA;CALL;May-26   16.350;;-;78
+NA;CALL;May-26   16.400;;1;104
+NA;CALL;May-26   16.450;;-;2
+NA;CALL;May-26   16.500;;-;115
+NA;CALL;May-26   16.550;;-;4
+NA;CALL;May-26   16.600;;1;9
+NA;CALL;May-26   16.650;;-;5
+NA;CALL;May-26   16.700;;76;27
+NA;CALL;May-26   16.750;;2;13
+NA;CALL;May-26   16.800;;-;1
+NA;CALL;May-26   16.850;;1;10
+NA;CALL;May-26   16.900;;-;20
+NA;CALL;May-26   17.000;;1;410
+NA;CALL;May-26   17.100;;2;14
+NA;CALL;May-26   17.200;;-;3
+NA;CALL;May-26   17.250;;3;3
+NA;CALL;May-26   17.300;;2;7
+NA;CALL;May-26   17.350;;1;2
+NA;CALL;May-26   17.400;;12;16
+NA;CALL;May-26   17.450;;11;20
+NA;CALL;May-26   17.500;;2;106
+NA;CALL;May-26   17.550;;3;103
+NA;CALL;May-26   17.600;;3;104
+NA;CALL;May-26   17.650;;-;101
+NA;CALL;May-26   17.700;;4;13
+NA;CALL;May-26   17.750;;1;2
+NA;CALL;May-26   17.800;;-;13
+NA;CALL;May-26   17.850;;2;16
+NA;CALL;May-26   17.900;;2;12
+NA;CALL;May-26   17.950;;-;2
+NA;CALL;May-26   18.000;;2;16
+NA;CALL;May-26   18.050;;-;2
+NA;CALL;May-26   18.100;;-;9
+NA;CALL;May-26   18.150;;2;1
+NA;CALL;May-26   18.200;;-;10.002
+NA;CALL;May-26   18.250;;-;1
+NA;CALL;May-26   18.300;;-;2
+NA;CALL;May-26   18.350;;-;11
+NA;CALL;May-26   18.400;;-;1
+NA;CALL;May-26   18.500;;-;12
+NA;CALL;May-26   18.600;;-;1
+NA;CALL;May-26   18.700;;-;1
+NA;CALL;May-26 w4   16.000;;1;1
+NA;CALL;May-26 w4   16.100;;1;1
+NA;CALL;May-26 w4   16.500;;2;2
+NA;CALL;May-26 w4   16.900;;-;1
+NA;CALL;May-26 w4   17.000;;1;1
+NA;CALL;May-26 w4   17.100;;-;1
+NA;CALL;May-26 w4   17.200;;-;1
+NA;CALL;May-26 w4   17.300;;1;1
+NA;CALL;May-26 w4   17.350;;1;1
+NA;CALL;Jun-26   7.700;;-;1
+NA;CALL;Jun-26   8.000;;-;300
+NA;CALL;Jun-26   9.500;;-;350
+NA;CALL;Jun-26   9.900;;-;1
+NA;CALL;Jun-26   10.200;;-;1
+NA;CALL;Jun-26   10.900;;-;1
+NA;CALL;Jun-26   11.300;;-;32
+NA;CALL;Jun-26   11.400;;-;32
+NA;CALL;Jun-26   11.500;;-;32
+NA;CALL;Jun-26   11.600;;-;32
+NA;CALL;Jun-26   12.000;;-;2
+NA;CALL;Jun-26   12.100;;-;1
+NA;CALL;Jun-26   12.200;;-;1
+NA;CALL;Jun-26   12.300;;-;2
+NA;CALL;Jun-26   12.400;;-;1
+NA;CALL;Jun-26   12.500;;-;1
+NA;CALL;Jun-26   12.600;;-;1
+NA;CALL;Jun-26   12.700;;-;1
+NA;CALL;Jun-26   13.000;;-;8
+NA;CALL;Jun-26   13.100;;-;2
+NA;CALL;Jun-26   13.200;;-;1
+NA;CALL;Jun-26   13.300;;-;1
+NA;CALL;Jun-26   13.400;;-;3
+NA;CALL;Jun-26   13.500;;-;6
+NA;CALL;Jun-26   13.800;;-;9
+NA;CALL;Jun-26   14.000;;-;18
+NA;CALL;Jun-26   14.100;;40;42
+NA;CALL;Jun-26   14.200;;-;3
+NA;CALL;Jun-26   14.300;;-;6
+NA;CALL;Jun-26   14.400;;-;5
+NA;CALL;Jun-26   14.500;;-;7
+NA;CALL;Jun-26   14.600;;29;29
+NA;CALL;Jun-26   14.700;;-;7
+NA;CALL;Jun-26   14.800;;-;3
+NA;CALL;Jun-26   14.900;;-;22
+NA;CALL;Jun-26   15.000;;1;125
+NA;CALL;Jun-26   15.100;;-;4
+NA;CALL;Jun-26   15.200;;-;2
+NA;CALL;Jun-26   15.300;;-;1
+NA;CALL;Jun-26   15.400;;-;2
+NA;CALL;Jun-26   15.450;;-;3
+NA;CALL;Jun-26   15.500;;-;52
+NA;CALL;Jun-26   15.550;;-;3
+NA;CALL;Jun-26   15.600;;2;37
+NA;CALL;Jun-26   15.650;;-;1
+NA;CALL;Jun-26   15.700;;-;5
+NA;CALL;Jun-26   15.800;;-;1
+NA;CALL;Jun-26   15.850;;-;2
+NA;CALL;Jun-26   15.900;;-;3
+NA;CALL;Jun-26   16.000;;-;121
+NA;CALL;Jun-26   16.100;;8;25
+NA;CALL;Jun-26   16.200;;-;5
+NA;CALL;Jun-26   16.300;;1;5
+NA;CALL;Jun-26   16.350;;-;1
+NA;CALL;Jun-26   16.400;;-;3
+NA;CALL;Jun-26   16.500;;1;5
+NA;CALL;Jun-26   16.600;;-;70
+NA;CALL;Jun-26   16.700;;-;1
+NA;CALL;Jun-26   16.750;;-;1
+NA;CALL;Jun-26   16.800;;-;24
+NA;CALL;Jun-26   16.900;;-;20
+NA;CALL;Jun-26   17.000;;3;297
+NA;CALL;Jun-26   17.100;;1;6
+NA;CALL;Jun-26   17.200;;-;69
+NA;CALL;Jun-26   17.300;;-;103
+NA;CALL;Jun-26   17.350;;1;181
+NA;CALL;Jun-26   17.400;;1;103
+NA;CALL;Jun-26   17.500;;1;8
+NA;CALL;Jun-26   17.550;;-;100
+NA;CALL;Jun-26   17.600;;2;207
+NA;CALL;Jun-26   17.650;;-;103
+NA;CALL;Jun-26   17.700;;-;2
+NA;CALL;Jun-26   17.800;;-;102
+NA;CALL;Jun-26   17.850;;-;100
+NA;CALL;Jun-26   17.900;;3;102
+NA;CALL;Jun-26   17.950;;-;1
+NA;CALL;Jun-26   18.000;;1;8
+NA;CALL;Jun-26   18.100;;-;2
+NA;CALL;Jun-26   18.200;;-;3
+NA;CALL;Jun-26   18.300;;-;100
+NA;CALL;Jun-26   18.400;;-;100
+NA;CALL;Jun-26   18.500;;-;100
+NA;CALL;Jul-26   15.000;;1;4
+NA;CALL;Jul-26   15.500;;-;1
+NA;CALL;Jul-26   15.600;;-;1
+NA;CALL;Jul-26   16.000;;-;1
+NA;CALL;Jul-26   16.700;;-;1
+NA;CALL;Sep-26   13.000;;-;1
+NA;CALL;Sep-26   13.100;;-;2
+NA;CALL;Sep-26   13.500;;-;2
+NA;CALL;Sep-26   13.600;;-;1
+NA;CALL;Sep-26   13.700;;-;2
+NA;CALL;Sep-26   13.900;;-;1
+NA;CALL;Sep-26   14.000;;-;7
+NA;CALL;Sep-26   14.100;;-;2
+NA;CALL;Sep-26   14.200;;-;1
+NA;CALL;Sep-26   14.300;;-;3
+NA;CALL;Sep-26   14.400;;2;2
+NA;CALL;Sep-26   14.500;;-;4
+NA;CALL;Sep-26   14.600;;-;5
+NA;CALL;Sep-26   14.700;;1;3
+NA;CALL;Sep-26   15.000;;-;11
+NA;CALL;Sep-26   15.200;;-;2
+NA;CALL;Sep-26   15.400;;-;5
+NA;CALL;Sep-26   15.500;;-;27
+NA;CALL;Sep-26   15.600;;-;1
+NA;CALL;Sep-26   15.700;;-;4
+NA;CALL;Sep-26   15.800;;1;1
+NA;CALL;Sep-26   15.900;;-;7
+NA;CALL;Sep-26   16.000;;-;6
+NA;CALL;Sep-26   16.100;;-;1
+NA;CALL;Sep-26   16.200;;-;1
+NA;CALL;Sep-26   16.300;;-;1
+NA;CALL;Sep-26   16.400;;-;3
+NA;CALL;Sep-26   16.500;;-;1
+NA;CALL;Sep-26   16.700;;-;1
+NA;CALL;Sep-26   16.800;;1;1
+NA;CALL;Sep-26   17.000;;-;1
+NA;CALL;Sep-26   17.200;;-;2
+NA;CALL;Sep-26   17.400;;1;3
+NA;CALL;Sep-26   17.500;;-;1
+NA;CALL;Sep-26   17.600;;-;2
+NA;CALL;Sep-26   17.700;;-;2
+NA;CALL;Sep-26   17.800;;-;2
+NA;CALL;Sep-26   18.000;;-;3
+NA;CALL;Sep-26   18.100;;-;2
+NA;CALL;Sep-26   18.200;;-;2
+NA;CALL;Sep-26   18.300;;1;2
+NA;CALL;Sep-26   18.400;;-;3
+NA;CALL;Sep-26   19.400;;-;14
+NA;CALL;Dic-26   8.600;;-;1.250
+NA;CALL;Dic-26   10.900;;-;1
+NA;CALL;Dic-26   11.300;;-;1
+NA;CALL;Dic-26   11.500;;-;2
+NA;CALL;Dic-26   12.200;;-;2
+NA;CALL;Dic-26   12.300;;-;5
+NA;CALL;Dic-26   12.400;;-;1
+NA;CALL;Dic-26   12.500;;-;8
+NA;CALL;Dic-26   12.600;;-;6
+NA;CALL;Dic-26   12.900;;-;7
+NA;CALL;Dic-26   13.000;;-;7
+NA;CALL;Dic-26   13.100;;-;1
+NA;CALL;Dic-26   13.200;;-;1
+NA;CALL;Dic-26   13.500;;-;504
+NA;CALL;Dic-26   13.600;;-;4
+NA;CALL;Dic-26   13.700;;-;2
+NA;CALL;Dic-26   14.000;;-;1.023
+NA;CALL;Dic-26   14.200;;-;3
+NA;CALL;Dic-26   14.300;;-;1
+NA;CALL;Dic-26   14.500;;-;1
+NA;CALL;Dic-26   14.800;;-;1
+NA;CALL;Dic-26   14.900;;2;3
+NA;CALL;Dic-26   15.000;;-;2
+NA;CALL;Dic-26   15.500;;-;1
+NA;CALL;Dic-26   15.600;;-;32
+NA;CALL;Dic-26   15.700;;-;2
+NA;CALL;Dic-26   15.800;;-;1
+NA;CALL;Dic-26   16.000;;-;1
+NA;CALL;Dic-26   16.300;;-;10
+NA;CALL;Dic-26   16.400;;-;6.000
+NA;CALL;Dic-26   16.500;;-;1
+NA;CALL;Dic-26   16.600;;-;1
+NA;CALL;Dic-26   16.700;;-;1.505
+NA;CALL;Dic-26   16.800;;-;4
+NA;CALL;Dic-26   16.900;;-;4
+NA;CALL;Dic-26   17.000;;-;9
+NA;CALL;Dic-26   17.100;;-;5
+NA;CALL;Dic-26   17.200;;-;5
+NA;CALL;Dic-26   17.300;;-;4
+NA;CALL;Dic-26   17.400;;-;6
+NA;CALL;Dic-26   17.500;;-;1.000
+NA;CALL;Dic-26   17.600;;-;1
+NA;CALL;Dic-26   17.700;;-;5.011
+NA;CALL;Dic-26   17.800;;-;5
+NA;CALL;Dic-26   17.900;;-;5.001
+NA;CALL;Dic-26   18.000;;-;4
+NA;CALL;Dic-26   18.100;;-;2
+NA;CALL;Dic-26   18.200;;-;7
+NA;CALL;Dic-26   18.500;;-;1
+NA;CALL;Dic-26   18.800;;-;1
+NA;CALL;Dic-26   19.100;;-;1
+NA;CALL;Dic-26   19.400;;-;1
+NA;CALL;Dic-26   19.700;;-;1
+NA;CALL;Dic-26   20.000;;-;1
+NA;CALL;Mar-27   13.000;;1;3
+NA;CALL;Mar-27   13.800;;-;32
+NA;CALL;Mar-27   16.500;;-;1
+NA;CALL;Mar-27   17.500;;-;20
+NA;CALL;Mar-27   18.000;;-;750
+NA;CALL;Mar-27   21.600;;-;1
+NA;CALL;Jun-27   13.000;;-;2
+NA;CALL;Sep-27   12.100;;-;32
+NA;CALL;Sep-27   12.200;;-;32
+NA;CALL;Sep-27   12.300;;-;32
+NA;CALL;Sep-27   12.400;;-;32
+NA;CALL;Sep-27   14.200;;-;32
+NA;CALL;Dic-27   13.400;;-;250
+NA;CALL;Dic-27   14.700;;-;1
+NA;CALL;Dic-27   15.400;;-;32
+NA;CALL;Dic-27   15.700;;-;32
+NA;CALL;Dic-27   15.800;;-;32
+NA;CALL;Dic-28   16.800;;-;1.800
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   210,00;;-;1
+NA;CALL;May-26   230,00;;-;6
+NA;CALL;May-26   240,00;;-;5
+NA;CALL;May-26   250,00;;-;3
+NA;CALL;Jun-26   135,00;;-;1
+NA;CALL;Jun-26   155,00;;-;1
+NA;CALL;Jun-26   160,00;;-;1
+NA;CALL;Jun-26   195,00;;-;5
+NA;CALL;Jun-26   220,00;;-;2
+NA;CALL;Sep-26   200,00;;-;1
+NA;CALL;Sep-26   210,00;;-;8
+NA;CALL;Sep-26   220,00;;-;5
+NA;CALL;Sep-26   260,00;;-;15
+NA;CALL;Dic-26   210,00;;-;2
+NA;CALL;Dic-26   230,00;;-;5
+NA;CALL;Dic-26   260,00;;-;2
+NA;CALL;Mar-27   200,00;;-;1
+NA;CALL;May-26   190,00;;-;1
+NA;CALL;May-26   195,00;;-;1
+NA;CALL;May-26   210,00;;-;1
+NA;CALL;May-26   220,00;;-;1
+NA;CALL;May-26   240,00;;-;1
+NA;CALL;Jun-26   120,00;;-;1
+NA;CALL;Jun-26   220,00;;-;1
+NA;CALL;Sep-26   120,00;;-;1
+NA;CALL;Sep-26   170,00;;-;1
+NA;CALL;Sep-26   200,00;;-;10
+NA;CALL;Dic-26   175,00;;-;2
+NA;CALL;Dic-26   210,00;;-;2
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;Jun-26   22,00;;-;1
+NA;CALL;Jun-26   23,00;;-;2
+NA;CALL;Dic-26   24,00;;-;3
+NA;CALL;Dic-26   30,00;;-;1
+NA;CALL;Jun-26   19,00;;-;1
+NA;CALL;Jun-26   21,00;;-;1
+NA;CALL;Sep-26   20,00;;-;3
+NA;CALL;Dic-26   18,00;;-;2
+NA;CALL;Dic-26   19,00;;-;3
+NA;CALL;Dic-26   21,00;;-;15
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   12,00;;-;10
+NA;CALL;May-26   12,50;;-;1
+NA;CALL;May-26   13,00;;-;11
+NA;CALL;May-26   13,50;;-;13
+NA;CALL;May-26   14,00;;30;70
+NA;CALL;May-26   14,50;;-;8
+NA;CALL;Jun-26   10,00;;-;10
+NA;CALL;Jun-26   11,00;;-;10
+NA;CALL;Jun-26   11,50;;-;31
+NA;CALL;Jun-26   12,00;;-;14
+NA;CALL;Jun-26   12,50;;-;40
+NA;CALL;Jun-26   13,00;;-;5
+NA;CALL;Jun-26   13,50;;-;275
+NA;CALL;Jun-26   14,00;;-;27
+NA;CALL;Jun-26   14,50;;-;164
+NA;CALL;Jun-26   15,00;;-;1
+NA;CALL;Sep-26   9,00;;-;1
+NA;CALL;Sep-26   12,00;;-;11
+NA;CALL;Sep-26   13,00;;-;14
+NA;CALL;Sep-26   13,50;;-;151
+NA;CALL;Sep-26   14,00;;-;271
+NA;CALL;Sep-26   14,50;;-;150
+NA;CALL;Sep-26   15,00;;-;3
+NA;CALL;Sep-26   16,00;;-;11
+NA;CALL;Sep-26   17,00;;-;1
+NA;CALL;Sep-26   18,00;;-;1
+NA;CALL;Dic-26   9,25;;-;1
+NA;CALL;Dic-26   9,75;;-;2
+NA;CALL;Dic-26   10,50;;-;1
+NA;CALL;Dic-26   11,00;;-;10
+NA;CALL;Dic-26   13,00;;-;1
+NA;CALL;Dic-26   13,50;;-;20
+NA;CALL;Dic-26   15,00;;-;2
+NA;CALL;Mar-27   11,00;;-;5
+NA;CALL;Mar-27   13,00;;-;1
+NA;CALL;Mar-27   13,50;;-;5
+NA;CALL;Mar-27   14,00;;-;5
+NA;CALL;Mar-27   14,50;;-;150
+NA;CALL;Mar-27   15,50;;-;150
+NA;CALL;Mar-27   16,00;;-;150
+NA;CALL;Mar-27   17,00;;-;150
+NA;CALL;Sep-27   13,50;;-;5
+NA;CALL;Dic-27   11,00;;-;10
+NA;CALL;Dic-27   12,00;;-;1
+NA;CALL;Dic-27   13,00;;-;10
+NA;CALL;May-26   10,50;;-;2
+NA;CALL;May-26   11,00;;-;5
+NA;CALL;May-26   12,00;;-;6
+NA;CALL;May-26   12,50;;-;10
+NA;CALL;May-26   13,00;;-;30
+NA;CALL;May-26   13,50;;-;2
+NA;CALL;Jun-26   8,50;;-;20
+NA;CALL;Jun-26   9,25;;-;20
+NA;CALL;Jun-26   9,50;;-;1
+NA;CALL;Jun-26   10,00;;-;61
+NA;CALL;Jun-26   10,50;;-;9
+NA;CALL;Jun-26   11,50;;-;37
+NA;CALL;Jun-26   12,00;;-;16
+NA;CALL;Jun-26   12,50;;-;202
+NA;CALL;Jun-26   13,00;;-;521
+NA;CALL;Jun-26   13,50;;-;10
+NA;CALL;Jun-26   14,00;;10;12
+NA;CALL;Sep-26   9,00;;-;23
+NA;CALL;Sep-26   9,50;;-;43
+NA;CALL;Sep-26   9,75;;-;1
+NA;CALL;Sep-26   10,00;;-;10
+NA;CALL;Sep-26   10,50;;-;40
+NA;CALL;Sep-26   11,00;;-;150
+NA;CALL;Sep-26   13,00;;-;11
+NA;CALL;Sep-26   14,00;;-;10
+NA;CALL;Sep-26   15,00;;-;2
+NA;CALL;Dic-26   9,50;;-;1
+NA;CALL;Dic-26   9,75;;-;1
+NA;CALL;Dic-26   10,00;;-;97
+NA;CALL;Dic-26   10,50;;-;35
+NA;CALL;Dic-26   11,00;;-;51
+NA;CALL;Dic-26   11,50;;-;25
+NA;CALL;Dic-26   12,00;;-;25
+NA;CALL;Dic-26   12,50;;-;100
+NA;CALL;Mar-27   8,00;;-;2
+NA;CALL;Mar-27   10,00;;-;175
+NA;CALL;Mar-27   10,50;;-;50
+NA;CALL;Mar-27   11,00;;-;55
+NA;CALL;Mar-27   11,50;;-;1
+NA;CALL;Mar-27   12,00;;20;20
+NA;CALL;Jun-27   8,75;;-;1
+NA;CALL;Jun-27   10,00;;-;243
+NA;CALL;Sep-27   12,00;;-;207
+NA;CALL;Dic-27   12,00;;-;150
+NA;CALL;Mar-28   12,00;;-;208
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   115,00;;-;5
+NA;CALL;May-26   120,00;;-;76
+NA;CALL;May-26   125,00;;-;6
+NA;CALL;May-26   130,00;;1;2
+NA;CALL;May-26   140,00;;-;1
+NA;CALL;May-26   145,00;;1;1
+NA;CALL;Jun-26   46,00;;-;100
+NA;CALL;Jun-26   47,00;;-;75
+NA;CALL;Jun-26   48,00;;-;25
+NA;CALL;Jun-26   50,00;;-;1
+NA;CALL;Jun-26   52,00;;-;1
+NA;CALL;Jun-26   54,00;;-;25
+NA;CALL;Jun-26   56,00;;-;1
+NA;CALL;Jun-26   58,00;;-;25
+NA;CALL;Jun-26   64,00;;-;25
+NA;CALL;Jun-26   68,00;;-;50
+NA;CALL;Jun-26   70,00;;-;50
+NA;CALL;Jun-26   72,00;;-;6
+NA;CALL;Jun-26   80,00;;-;2
+NA;CALL;Jun-26   84,00;;-;1
+NA;CALL;Jun-26   90,00;;-;3
+NA;CALL;Jun-26   92,00;;-;5
+NA;CALL;Jun-26   105,00;;-;10
+NA;CALL;Jun-26   120,00;;-;1
+NA;CALL;Jun-26   130,00;;-;91
+NA;CALL;Jun-26   135,00;;-;6
+NA;CALL;Jun-26   145,00;;-;1
+NA;CALL;Jun-26   150,00;;-;1
+NA;CALL;Sep-26   56,00;;-;24
+NA;CALL;Sep-26   58,00;;-;1
+NA;CALL;Sep-26   60,00;;-;25
+NA;CALL;Sep-26   66,00;;-;25
+NA;CALL;Sep-26   80,00;;-;2
+NA;CALL;Sep-26   94,00;;-;1
+NA;CALL;Sep-26   98,00;;-;1
+NA;CALL;Sep-26   105,00;;-;5
+NA;CALL;Sep-26   110,00;;-;5
+NA;CALL;Sep-26   115,00;;-;40
+NA;CALL;Sep-26   120,00;;-;15
+NA;CALL;Sep-26   125,00;;-;5
+NA;CALL;Sep-26   130,00;;-;95
+NA;CALL;Dic-26   56,00;;-;2
+NA;CALL;Dic-26   68,00;;-;25
+NA;CALL;Dic-26   70,00;;-;20
+NA;CALL;Dic-26   86,00;;-;2
+NA;CALL;Dic-26   88,00;;-;1
+NA;CALL;Dic-26   90,00;;-;25
+NA;CALL;Dic-26   92,00;;-;25
+NA;CALL;Dic-26   105,00;;-;1
+NA;CALL;Dic-26   110,00;;-;5
+NA;CALL;Dic-26   115,00;;-;87
+NA;CALL;Dic-26   120,00;;-;80
+NA;CALL;Dic-26   125,00;;-;86
+NA;CALL;Dic-26   130,00;;-;712
+NA;CALL;Dic-26   135,00;;-;1
+NA;CALL;Dic-26   145,00;;-;7
+NA;CALL;Mar-27   56,00;;-;25
+NA;CALL;Mar-27   130,00;;-;1
+NA;CALL;Mar-27   140,00;;-;180
+NA;CALL;Jun-27   54,00;;-;1
+NA;CALL;Jun-27   96,00;;-;25
+NA;CALL;Jun-27   100,00;;-;25
+NA;CALL;Sep-27   86,00;;-;25
+NA;CALL;Sep-27   105,00;;-;25
+NA;CALL;Dic-27   56,00;;-;1
+NA;CALL;Dic-27   70,00;;-;60
+NA;CALL;Dic-27   94,00;;-;25
+NA;CALL;Dic-27   110,00;;-;250
+NA;CALL;May-26   90,00;;-;3
+NA;CALL;May-26   96,00;;-;1
+NA;CALL;May-26   98,00;;-;50
+NA;CALL;May-26   100,00;;-;10
+NA;CALL;May-26   110,00;;-;3
+NA;CALL;May-26   115,00;;-;474
+NA;CALL;May-26   120,00;;-;30
+NA;CALL;May-26   125,00;;-;60
+NA;CALL;Jun-26   30,00;;-;25
+NA;CALL;Jun-26   31,00;;-;25
+NA;CALL;Jun-26   34,00;;-;10
+NA;CALL;Jun-26   41,00;;-;25
+NA;CALL;Jun-26   42,00;;-;25
+NA;CALL;Jun-26   43,00;;-;25
+NA;CALL;Jun-26   44,00;;-;25
+NA;CALL;Jun-26   45,00;;-;26
+NA;CALL;Jun-26   49,00;;-;50
+NA;CALL;Jun-26   50,00;;-;51
+NA;CALL;Jun-26   52,00;;-;50
+NA;CALL;Jun-26   54,00;;-;50
+NA;CALL;Jun-26   56,00;;-;51
+NA;CALL;Jun-26   60,00;;-;50
+NA;CALL;Jun-26   62,00;;-;25
+NA;CALL;Jun-26   66,00;;-;35
+NA;CALL;Jun-26   68,00;;-;1
+NA;CALL;Jun-26   70,00;;-;1
+NA;CALL;Jun-26   72,00;;-;10
+NA;CALL;Jun-26   76,00;;-;5
+NA;CALL;Jun-26   88,00;;-;15
+NA;CALL;Jun-26   90,00;;-;2
+NA;CALL;Jun-26   92,00;;-;5
+NA;CALL;Jun-26   96,00;;-;1
+NA;CALL;Jun-26   100,00;;-;3
+NA;CALL;Jun-26   105,00;;-;15
+NA;CALL;Jun-26   110,00;;-;1
+NA;CALL;Jun-26   115,00;;1;1
+NA;CALL;Jun-26   120,00;;-;1
+NA;CALL;Jul-26   120,00;;-;1
+NA;CALL;Sep-26   50,00;;-;25
+NA;CALL;Sep-26   52,00;;-;50
+NA;CALL;Sep-26   54,00;;-;50
+NA;CALL;Sep-26   56,00;;-;51
+NA;CALL;Sep-26   66,00;;-;25
+NA;CALL;Sep-26   68,00;;-;25
+NA;CALL;Sep-26   70,00;;-;25
+NA;CALL;Sep-26   72,00;;-;1
+NA;CALL;Sep-26   76,00;;-;42
+NA;CALL;Sep-26   78,00;;-;52
+NA;CALL;Sep-26   80,00;;-;27
+NA;CALL;Sep-26   82,00;;-;5
+NA;CALL;Sep-26   84,00;;-;25
+NA;CALL;Sep-26   90,00;;-;25
+NA;CALL;Sep-26   94,00;;-;6
+NA;CALL;Sep-26   96,00;;-;10
+NA;CALL;Sep-26   100,00;;-;25
+NA;CALL;Sep-26   110,00;;-;1
+NA;CALL;Dic-26   23,00;;-;201
+NA;CALL;Dic-26   24,00;;-;25
+NA;CALL;Dic-26   25,00;;-;25
+NA;CALL;Dic-26   27,00;;-;25
+NA;CALL;Dic-26   28,00;;-;75
+NA;CALL;Dic-26   29,00;;-;75
+NA;CALL;Dic-26   30,00;;-;17
+NA;CALL;Dic-26   33,00;;-;6
+NA;CALL;Dic-26   34,00;;-;25
+NA;CALL;Dic-26   35,00;;-;200
+NA;CALL;Dic-26   46,00;;-;25
+NA;CALL;Dic-26   54,00;;-;25
+NA;CALL;Dic-26   58,00;;-;25
+NA;CALL;Dic-26   60,00;;-;95
+NA;CALL;Dic-26   62,00;;-;5
+NA;CALL;Dic-26   66,00;;-;1
+NA;CALL;Dic-26   76,00;;-;5
+NA;CALL;Dic-26   78,00;;-;5
+NA;CALL;Dic-26   80,00;;-;5
+NA;CALL;Dic-26   82,00;;-;5
+NA;CALL;Dic-26   84,00;;-;5
+NA;CALL;Dic-26   86,00;;-;5
+NA;CALL;Dic-26   88,00;;-;45
+NA;CALL;Dic-26   90,00;;-;44
+NA;CALL;Dic-26   94,00;;-;45
+NA;CALL;Dic-26   96,00;;-;80
+NA;CALL;Dic-26   98,00;;-;10
+NA;CALL;Dic-26   100,00;;1;176
+NA;CALL;Dic-26   105,00;;-;3
+NA;CALL;Mar-27   88,00;;-;1
+NA;CALL;Mar-27   92,00;;-;2
+NA;CALL;Mar-27   98,00;;-;115
+NA;CALL;Mar-27   100,00;;-;110
+NA;CALL;Mar-27   105,00;;-;5
+NA;CALL;Jun-27   22,00;;-;360
+NA;CALL;Jun-27   24,00;;-;85
+NA;CALL;Jun-27   28,00;;-;2
+NA;CALL;Jun-27   33,00;;-;2
+NA;CALL;Jun-27   70,00;;-;1
+NA;CALL;Sep-27   78,00;;-;25
+NA;CALL;Sep-27   92,00;;-;25
+NA;CALL;Dic-27   50,00;;-;25
+NA;CALL;Dic-27   78,00;;-;25
+NA;CALL;Dic-27   98,00;;-;25
+NA;CALL;Dic-27   100,00;;-;25
+NA;CALL;Dic-26   50,00;;-;1
+NA;CALL;Jun-26   76,00;;-;25
+NA;CALL;Jun-26   78,00;;-;25
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   24,00;;-;2
+NA;CALL;May-26   26,00;;-;25
+NA;CALL;May-26   27,00;;-;10
+NA;CALL;Jun-26   23,00;;-;6
+NA;CALL;Jun-26   25,00;;-;28
+NA;CALL;Jun-26   27,00;;-;35
+NA;CALL;Jun-26   28,00;;-;7
+NA;CALL;Jul-26   22,00;;-;1
+NA;CALL;Sep-26   25,00;;-;25
+NA;CALL;Sep-26   28,00;;-;1
+NA;CALL;Dic-26   26,00;;-;2
+NA;CALL;Dic-26   27,00;;-;71
+NA;CALL;Dic-26   29,00;;-;6
+NA;CALL;Mar-27   23,00;;-;1
+NA;CALL;Mar-27   26,00;;-;3
+NA;CALL;Mar-27   27,00;;-;25
+NA;CALL;Jun-27   25,00;;-;2
+NA;CALL;Dic-27   23,00;;-;16
+NA;CALL;Dic-27   25,00;;-;25
+NA;CALL;Dic-27   28,00;;-;25
+NA;CALL;May-26   22,00;;-;5
+NA;CALL;May-26   23,00;;11;782
+NA;CALL;May-26   24,00;;-;32
+NA;CALL;May-26   25,00;;9;1
+NA;CALL;Jun-26   19,00;;-;1
+NA;CALL;Jun-26   19,50;;-;8
+NA;CALL;Jun-26   20,00;;-;6
+NA;CALL;Jun-26   21,00;;2;8
+NA;CALL;Jun-26   22,00;;16;25
+NA;CALL;Jun-26   23,00;;-;19
+NA;CALL;Jun-26   24,00;;-;18
+NA;CALL;Jun-26   25,00;;-;1
+NA;CALL;Jun-26   26,00;;-;2
+NA;CALL;Jul-26   20,00;;3;7
+NA;CALL;Jul-26   21,00;;-;3
+NA;CALL;Sep-26   18,50;;-;2
+NA;CALL;Sep-26   19,00;;-;30
+NA;CALL;Sep-26   19,50;;-;2
+NA;CALL;Sep-26   20,00;;-;14
+NA;CALL;Sep-26   21,00;;-;7
+NA;CALL;Sep-26   22,00;;-;510
+NA;CALL;Sep-26   23,00;;-;40
+NA;CALL;Dic-26   18,00;;-;2
+NA;CALL;Dic-26   19,00;;-;3
+NA;CALL;Dic-26   19,50;;-;4
+NA;CALL;Dic-26   21,00;;-;3
+NA;CALL;Dic-26   22,00;;-;200
+NA;CALL;Dic-26   23,00;;-;1
+NA;CALL;Dic-26   24,00;;-;2
+NA;CALL;Dic-26   25,00;;-;4
+NA;CALL;Dic-26   26,00;;-;3
+NA;CALL;Mar-27   18,00;;500;502
+NA;CALL;Mar-27   20,00;;500;1.000
+NA;CALL;Mar-27   21,00;;-;1
+NA;CALL;Mar-27   22,00;;15;19
+NA;CALL;Mar-27   26,00;;-;6
+NA;CALL;Jun-27   27,00;;-;25
+NA;CALL;Sep-27   23,00;;1;2
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;Jun-26   12,50;;-;13
+NA;CALL;Sep-26   14,00;;-;10
+NA;CALL;May-26   11,50;;-;3
+NA;CALL;Jun-26   10,50;;-;1
+NA;CALL;Jun-26   12,00;;-;1
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   52,00;;5;5
+NA;CALL;May-26   56,00;;-;422
+NA;CALL;May-26   58,00;;-;50
+NA;CALL;May-26   60,00;;-;6
+NA;CALL;May-26   66,00;;-;5
+NA;CALL;Jun-26   36,00;;-;2
+NA;CALL;Jun-26   37,00;;-;2
+NA;CALL;Jun-26   38,00;;-;4
+NA;CALL;Jun-26   39,00;;-;2
+NA;CALL;Jun-26   40,00;;-;2
+NA;CALL;Jun-26   42,00;;-;2
+NA;CALL;Jun-26   47,00;;-;4
+NA;CALL;Jun-26   50,00;;-;2
+NA;CALL;Jun-26   52,00;;2;10
+NA;CALL;Jun-26   54,00;;-;5
+NA;CALL;Jun-26   56,00;;-;8
+NA;CALL;Jun-26   58,00;;-;11
+NA;CALL;Jun-26   60,00;;-;13
+NA;CALL;Jun-26   62,00;;-;11
+NA;CALL;Jun-26   68,00;;-;3
+NA;CALL;Jun-26   74,00;;-;25
+NA;CALL;Jun-26   76,00;;-;25
+NA;CALL;Jun-26   78,00;;-;25
+NA;CALL;Jun-26   80,00;;-;33
+NA;CALL;Jun-26   82,00;;-;50
+NA;CALL;Jun-26   84,00;;-;1
+NA;CALL;Jun-26   86,00;;-;5
+NA;CALL;Jun-26   88,00;;-;25
+NA;CALL;Jun-26   90,00;;-;25
+NA;CALL;Jul-26   56,00;;-;25
+NA;CALL;Sep-26   38,00;;-;2
+NA;CALL;Sep-26   40,00;;-;2
+NA;CALL;Sep-26   50,00;;-;2
+NA;CALL;Sep-26   52,00;;-;750
+NA;CALL;Sep-26   54,00;;-;3
+NA;CALL;Sep-26   56,00;;-;25
+NA;CALL;Sep-26   58,00;;-;1
+NA;CALL;Sep-26   60,00;;-;1
+NA;CALL;Sep-26   62,00;;-;250
+NA;CALL;Sep-26   64,00;;-;1
+NA;CALL;Sep-26   66,00;;-;5
+NA;CALL;Sep-26   70,00;;25;30
+NA;CALL;Sep-26   72,00;;-;25
+NA;CALL;Sep-26   74,00;;-;25
+NA;CALL;Sep-26   84,00;;-;24
+NA;CALL;Dic-26   38,00;;-;4
+NA;CALL;Dic-26   39,00;;-;5
+NA;CALL;Dic-26   40,00;;1;1
+NA;CALL;Dic-26   45,00;;-;6
+NA;CALL;Dic-26   49,00;;-;1
+NA;CALL;Dic-26   50,00;;-;10
+NA;CALL;Dic-26   52,00;;-;500
+NA;CALL;Dic-26   54,00;;-;13
+NA;CALL;Dic-26   56,00;;-;26
+NA;CALL;Dic-26   58,00;;-;25
+NA;CALL;Dic-26   60,00;;-;501
+NA;CALL;Dic-26   62,00;;-;25
+NA;CALL;Dic-26   64,00;;-;27
+NA;CALL;Dic-26   66,00;;-;51
+NA;CALL;Dic-26   68,00;;-;25
+NA;CALL;Dic-26   72,00;;-;25
+NA;CALL;Dic-26   90,00;;-;3
+NA;CALL;Mar-27   40,00;;-;1
+NA;CALL;Mar-27   45,00;;2;2
+NA;CALL;Mar-27   52,00;;-;25
+NA;CALL;Mar-27   54,00;;-;1
+NA;CALL;Mar-27   56,00;;-;60
+NA;CALL;Mar-27   58,00;;25;25
+NA;CALL;Mar-27   60,00;;-;25
+NA;CALL;Mar-27   62,00;;25;25
+NA;CALL;Mar-27   66,00;;-;1
+NA;CALL;Jun-27   40,00;;-;1
+NA;CALL;Jun-27   52,00;;-;25
+NA;CALL;Jun-27   58,00;;-;25
+NA;CALL;Jun-27   62,00;;-;50
+NA;CALL;Jun-27   66,00;;-;25
+NA;CALL;Jun-27   68,00;;-;25
+NA;CALL;Sep-27   49,00;;-;5
+NA;CALL;Dic-27   56,00;;-;17
+NA;CALL;Dic-27   60,00;;-;1
+NA;CALL;May-26   40,00;;-;5
+NA;CALL;May-26   42,00;;-;30
+NA;CALL;May-26   43,00;;1;29
+NA;CALL;May-26   44,00;;-;36
+NA;CALL;May-26   45,00;;1;11
+NA;CALL;May-26   46,00;;4;23
+NA;CALL;May-26   47,00;;25;39
+NA;CALL;May-26   48,00;;26;1.441
+NA;CALL;May-26   49,00;;-;14
+NA;CALL;May-26   50,00;;2;24
+NA;CALL;May-26   52,00;;1;25
+NA;CALL;May-26   54,00;;-;22
+NA;CALL;Jun-26   39,00;;-;10
+NA;CALL;Jun-26   40,00;;-;7
+NA;CALL;Jun-26   41,00;;-;2
+NA;CALL;Jun-26   42,00;;2;19
+NA;CALL;Jun-26   43,00;;1;4
+NA;CALL;Jun-26   44,00;;10;1.517
+NA;CALL;Jun-26   45,00;;-;9
+NA;CALL;Jun-26   46,00;;4;43
+NA;CALL;Jun-26   47,00;;-;5
+NA;CALL;Jun-26   48,00;;-;18
+NA;CALL;Jun-26   49,00;;-;2
+NA;CALL;Jun-26   50,00;;-;85
+NA;CALL;Jun-26   52,00;;1;82
+NA;CALL;Jun-26   54,00;;-;29
+NA;CALL;Jun-26   56,00;;-;95
+NA;CALL;Jun-26   58,00;;-;50
+NA;CALL;Jun-26   60,00;;-;102
+NA;CALL;Jun-26   62,00;;-;75
+NA;CALL;Jun-26   64,00;;-;28
+NA;CALL;Jun-26   68,00;;-;25
+NA;CALL;Jun-26   70,00;;-;27
+NA;CALL;Jun-26   74,00;;-;6
+NA;CALL;Jun-26   80,00;;-;25
+NA;CALL;Jul-26   35,00;;-;10
+NA;CALL;Jul-26   36,00;;5;5
+NA;CALL;Jul-26   40,00;;-;1
+NA;CALL;Jul-26   42,00;;-;2
+NA;CALL;Jul-26   44,00;;1;1
+NA;CALL;Jul-26   47,00;;1;1
+NA;CALL;Jul-26   54,00;;-;1
+NA;CALL;Sep-26   38,00;;-;8
+NA;CALL;Sep-26   40,00;;-;1
+NA;CALL;Sep-26   41,00;;-;2
+NA;CALL;Sep-26   43,00;;-;15
+NA;CALL;Sep-26   45,00;;-;227
+NA;CALL;Sep-26   46,00;;-;1.801
+NA;CALL;Sep-26   47,00;;-;3.184
+NA;CALL;Sep-26   48,00;;-;1
+NA;CALL;Sep-26   49,00;;-;4
+NA;CALL;Sep-26   50,00;;-;3
+NA;CALL;Sep-26   52,00;;-;4
+NA;CALL;Sep-26   54,00;;-;3
+NA;CALL;Sep-26   56,00;;-;1
+NA;CALL;Sep-26   60,00;;-;3
+NA;CALL;Sep-26   64,00;;-;50
+NA;CALL;Sep-26   66,00;;-;26
+NA;CALL;Sep-26   68,00;;-;50
+NA;CALL;Sep-26   70,00;;-;50
+NA;CALL;Sep-26   72,00;;-;5
+NA;CALL;Sep-26   74,00;;-;5
+NA;CALL;Sep-26   88,00;;-;1
+NA;CALL;Dic-26   38,00;;5;25
+NA;CALL;Dic-26   39,00;;-;162
+NA;CALL;Dic-26   40,00;;-;97
+NA;CALL;Dic-26   43,00;;-;63
+NA;CALL;Dic-26   44,00;;-;13
+NA;CALL;Dic-26   45,00;;-;33
+NA;CALL;Dic-26   46,00;;-;29
+NA;CALL;Dic-26   47,00;;-;100
+NA;CALL;Dic-26   48,00;;-;511
+NA;CALL;Dic-26   49,00;;-;1
+NA;CALL;Dic-26   50,00;;-;107
+NA;CALL;Dic-26   52,00;;-;536
+NA;CALL;Dic-26   54,00;;-;29
+NA;CALL;Dic-26   56,00;;-;5
+NA;CALL;Dic-26   58,00;;-;1
+NA;CALL;Dic-26   60,00;;-;1
+NA;CALL;Dic-26   62,00;;-;2
+NA;CALL;Dic-26   64,00;;-;1
+NA;CALL;Dic-26   68,00;;-;1
+NA;CALL;Mar-27   38,00;;-;25
+NA;CALL;Mar-27   39,00;;-;55
+NA;CALL;Mar-27   40,00;;-;3
+NA;CALL;Mar-27   41,00;;-;4
+NA;CALL;Mar-27   45,00;;-;5
+NA;CALL;Mar-27   47,00;;-;3
+NA;CALL;Mar-27   48,00;;-;5
+NA;CALL;Mar-27   49,00;;-;3
+NA;CALL;Mar-27   50,00;;-;1
+NA;CALL;Mar-27   52,00;;-;2
+NA;CALL;Mar-27   54,00;;-;1
+NA;CALL;Mar-27   62,00;;-;1
+NA;CALL;Jun-27   39,00;;-;10
+NA;CALL;Jun-27   44,00;;-;2
+NA;CALL;Jun-27   46,00;;-;1
+NA;CALL;Jun-27   49,00;;-;1
+NA;CALL;Jun-27   50,00;;-;24
+NA;CALL;Sep-27   52,00;;-;1
+NA;CALL;Sep-27   54,00;;-;1
+NA;CALL;Dic-27   46,00;;-;50
+NA;CALL;Dic-27   47,00;;-;25
+NA;CALL;Dic-27   48,00;;-;51
+NA;CALL;Dic-27   50,00;;-;6
+NA;CALL;Dic-27   52,00;;-;3
+NA;CALL;Mar-28   49,00;;-;1
+NA;CALL;Jun-28   46,00;;-;2
+NA;CALL;Jun-28   48,00;;-;3
+NA;CALL;Jun-28   56,00;;-;1
+NA;CALL;Jun-28   60,00;;-;3
+NA;CALL;Jun-28   62,00;;-;3
+NA;CALL;Jun-28   70,00;;-;3
+NA;CALL;May-26   46,00;;-;1
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   43,00;;-;1
+NA;CALL;May-26   44,00;;-;1
+NA;CALL;May-26   48,00;;-;3
+NA;CALL;May-26   50,00;;-;1
+NA;CALL;May-26   52,00;;1;7
+NA;CALL;May-26   54,00;;-;70
+NA;CALL;May-26   56,00;;-;36
+NA;CALL;Jun-26   24,00;;-;1
+NA;CALL;Jun-26   27,00;;-;1
+NA;CALL;Jun-26   30,00;;-;3
+NA;CALL;Jun-26   32,00;;-;5
+NA;CALL;Jun-26   35,00;;-;5
+NA;CALL;Jun-26   39,00;;-;1
+NA;CALL;Jun-26   44,00;;-;1
+NA;CALL;Jun-26   46,00;;-;1
+NA;CALL;Jun-26   47,00;;-;5
+NA;CALL;Jun-26   48,00;;-;2
+NA;CALL;Jun-26   50,00;;-;1
+NA;CALL;Jun-26   54,00;;-;27
+NA;CALL;Jun-26   56,00;;-;1
+NA;CALL;Sep-26   21,00;;-;3
+NA;CALL;Sep-26   25,00;;-;1
+NA;CALL;Sep-26   50,00;;-;5
+NA;CALL;Dic-26   45,00;;-;10
+NA;CALL;Dic-26   50,00;;-;1
+NA;CALL;Dic-29   30,00;;-;1
+NA;CALL;May-26   35,00;;-;1
+NA;CALL;May-26   41,00;;-;51
+NA;CALL;May-26   44,00;;-;2
+NA;CALL;May-26   46,00;;-;1
+NA;CALL;May-26   47,00;;-;3
+NA;CALL;May-26   48,00;;-;40
+NA;CALL;May-26   49,00;;-;4
+NA;CALL;May-26   50,00;;-;11
+NA;CALL;Jun-26   22,00;;-;5
+NA;CALL;Jun-26   28,00;;-;4
+NA;CALL;Jun-26   30,00;;-;5
+NA;CALL;Jun-26   33,00;;-;4
+NA;CALL;Jun-26   34,00;;-;1
+NA;CALL;Jun-26   38,00;;-;1
+NA;CALL;Jun-26   43,00;;-;3
+NA;CALL;Jun-26   50,00;;-;10
+NA;CALL;Sep-26   24,00;;-;1
+NA;CALL;Sep-26   36,00;;-;5
+NA;CALL;Sep-26   37,00;;-;5
+NA;CALL;Sep-26   38,00;;-;5
+NA;CALL;Dic-26   34,00;;-;10
+NA;CALL;Dic-26   39,00;;-;1
+NA;CALL;Dic-26   46,00;;-;1
+NA;CALL;Dic-26   49,00;;-;50
+NA;CALL;Dic-26   54,00;;-;4
+NA;CALL;Dic-27   24,00;;-;1
+NA;CALL;Dic-30   44,00;;-;1
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   5,00;;-;1
+NA;CALL;Jun-26   3,00;;-;1
+NA;CALL;Jun-26   5,00;;-;150
+NA;CALL;Jun-26   5,25;;-;2
+NA;CALL;Jun-26   6,25;;-;10
+NA;CALL;Sep-26   5,50;;-;6
+NA;CALL;Dic-26   5,25;;-;1
+NA;CALL;Dic-26   5,50;;-;12
+NA;CALL;Dic-26   5,75;;-;10
+NA;CALL;Dic-26   6,00;;-;2
+NA;CALL;May-26   5,25;;-;1
+NA;CALL;Jun-26   4,80;;-;100
+NA;CALL;Jun-26   5,25;;-;50
+NA;CALL;Sep-26   4,80;;-;4
+NA;CALL;Sep-26   4,90;;-;1
+NA;CALL;Dic-26   4,50;;-;2
+NA;CALL;Dic-26   6,00;;-;20
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   2,70;;-;25
+NA;CALL;May-26   2,80;;10;10
+NA;CALL;May-26   3,10;;-;10
+NA;CALL;May-26   3,30;;-;2
+NA;CALL;May-26   3,50;;-;55
+NA;CALL;Jun-26   2,70;;-;100
+NA;CALL;Jun-26   3,10;;-;25
+NA;CALL;Jun-26   3,20;;-;23
+NA;CALL;Jun-26   3,30;;100;226
+NA;CALL;Jun-26   3,40;;-;42
+NA;CALL;Jun-26   3,50;;-;45
+NA;CALL;Jun-26   3,60;;-;17
+NA;CALL;Jun-26   3,70;;-;6
+NA;CALL;Jun-26   3,80;;-;5
+NA;CALL;Sep-26   2,50;;-;116
+NA;CALL;Sep-26   2,80;;-;10
+NA;CALL;Sep-26   3,00;;-;25
+NA;CALL;Sep-26   3,10;;-;20
+NA;CALL;Sep-26   3,20;;-;30
+NA;CALL;Sep-26   3,40;;-;52
+NA;CALL;Sep-26   3,50;;-;29
+NA;CALL;Sep-26   3,70;;-;1
+NA;CALL;Sep-26   3,80;;-;11
+NA;CALL;Sep-26   3,90;;-;8
+NA;CALL;Sep-26   4,00;;-;8
+NA;CALL;Dic-26   3,00;;-;4
+NA;CALL;Dic-26   3,20;;-;30
+NA;CALL;Dic-26   3,30;;-;33
+NA;CALL;Dic-26   3,40;;-;15
+NA;CALL;Dic-26   3,50;;-;2
+NA;CALL;Dic-26   3,60;;-;23
+NA;CALL;Dic-26   3,80;;-;1
+NA;CALL;Dic-26   4,20;;-;1
+NA;CALL;Mar-27   3,40;;-;30
+NA;CALL;Mar-27   3,70;;-;5
+NA;CALL;Mar-27   3,90;;-;3
+NA;CALL;Mar-27   4,00;;-;9
+NA;CALL;May-26   3,00;;-;10
+NA;CALL;May-26   3,20;;-;2
+NA;CALL;May-26   3,30;;10;10
+NA;CALL;Jun-26   2,50;;-;1
+NA;CALL;Jun-26   2,60;;-;1
+NA;CALL;Jun-26   2,70;;-;5
+NA;CALL;Jun-26   2,80;;-;24
+NA;CALL;Jun-26   2,90;;-;1
+NA;CALL;Jun-26   3,00;;-;15
+NA;CALL;Jun-26   3,30;;-;200
+NA;CALL;Jun-26   3,40;;-;104
+NA;CALL;Jun-26   3,70;;-;20
+NA;CALL;Jun-26   4,40;;-;7
+NA;CALL;Jul-26   3,50;;20;20
+NA;CALL;Sep-26   2,60;;-;5.249
+NA;CALL;Sep-26   2,90;;-;1
+NA;CALL;Sep-26   3,10;;-;11
+NA;CALL;Sep-26   3,70;;-;5
+NA;CALL;Dic-26   2,90;;-;411
+NA;CALL;Dic-26   3,00;;-;10
+NA;CALL;Dic-26   3,10;;-;3
+NA;CALL;Dic-26   3,20;;-;15
+NA;CALL;Mar-27   2,90;;-;1
+NA;CALL;Dic-27   3,20;;-;1.538
+NA;CALL;Dic-27   3,30;;-;3.026
+NA;CALL;Mar-28   3,00;;-;830
+NA;CALL;Dic-26   2,40;;-;10
+NA;CALL;Dic-26   2,90;;-;10
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   14,00;;-;10
+NA;CALL;May-26   15,50;;-;1
+NA;CALL;Jun-26   12,00;;-;10
+NA;CALL;Jun-26   13,50;;-;7
+NA;CALL;Jun-26   14,00;;-;50
+NA;CALL;Sep-26   13,50;;-;23
+NA;CALL;Sep-26   14,00;;-;12
+NA;CALL;Sep-26   14,50;;-;1
+NA;CALL;Sep-26   15,00;;-;3
+NA;CALL;Dic-26   11,50;;-;5
+NA;CALL;Dic-26   13,50;;-;11
+NA;CALL;Dic-26   14,00;;-;2
+NA;CALL;Dic-26   15,00;;-;10
+NA;CALL;Dic-26   15,50;;-;11
+NA;CALL;Dic-26   16,00;;-;50
+NA;CALL;Jun-27   16,00;;-;25
+NA;CALL;Dic-27   14,50;;-;3
+NA;CALL;Dic-27   15,50;;-;1
+NA;CALL;Dic-27   17,00;;-;25
+NA;CALL;May-26   13,00;;-;26
+NA;CALL;May-26   13,50;;-;5
+NA;CALL;Jun-26   7,75;;-;2
+NA;CALL;Jun-26   10,50;;-;19
+NA;CALL;Jun-26   11,00;;-;20
+NA;CALL;Jun-26   12,00;;-;1
+NA;CALL;Jun-26   14,00;;-;3
+NA;CALL;Jun-26   14,50;;-;1
+NA;CALL;Jul-26   12,00;;-;1
+NA;CALL;Sep-26   6,50;;-;31
+NA;CALL;Sep-26   7,00;;-;1
+NA;CALL;Sep-26   10,50;;-;3
+NA;CALL;Sep-26   11,00;;-;3
+NA;CALL;Sep-26   11,50;;-;4
+NA;CALL;Sep-26   12,50;;-;2
+NA;CALL;Sep-26   13,00;;-;20
+NA;CALL;Sep-26   13,50;;-;10
+NA;CALL;Sep-26   14,00;;-;10
+NA;CALL;Dic-26   7,25;;-;1
+NA;CALL;Dic-26   11,00;;-;1
+NA;CALL;Dic-26   12,50;;-;108
+NA;CALL;Dic-26   13,00;;-;20
+NA;CALL;Dic-26   13,50;;-;3.350
+NA;CALL;Dic-26   14,00;;-;25
+NA;CALL;Dic-26   16,00;;-;25
+NA;CALL;Jun-27   11,00;;-;222
+NA;CALL;Jun-27   12,50;;-;3
+NA;CALL;Dic-27   10,50;;-;1.000
+NA;CALL;Dic-27   11,00;;-;200
+NA;CALL;Dic-27   15,00;;-;25
+NA;CALL;Mar-28   13,00;;-;194
+NA;CALL;Mar-28   14,00;;-;175
+NA;CALL;Jun-26   13,00;;-;3
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26 w2   18,00;;1;1
+NA;CALL;May-26 w2   19,00;;-;10
+NA;CALL;May-26 w2   19,50;;-;20
+NA;CALL;May-26 w2   20,00;;-;20
+NA;CALL;May-26   17,00;;-;300
+NA;CALL;May-26   17,50;;-;300
+NA;CALL;May-26   18,00;;-;150
+NA;CALL;May-26   18,50;;1;155
+NA;CALL;May-26   19,00;;-;11
+NA;CALL;May-26   19,50;;-;14
+NA;CALL;May-26   20,00;;-;110
+NA;CALL;May-26   21,00;;-;102
+NA;CALL;May-26   22,00;;-;260
+NA;CALL;Jun-26   15,50;;-;2
+NA;CALL;Jun-26   16,00;;-;7.500
+NA;CALL;Jun-26   16,50;;-;100
+NA;CALL;Jun-26   17,00;;10;550
+NA;CALL;Jun-26   17,50;;150;252
+NA;CALL;Jun-26   18,00;;-;595
+NA;CALL;Jun-26   18,50;;2;190
+NA;CALL;Jun-26   19,00;;-;1.591
+NA;CALL;Jun-26   19,50;;1;132
+NA;CALL;Jun-26   20,00;;33;2.566
+NA;CALL;Jun-26   21,00;;-;2.613
+NA;CALL;Jun-26   22,00;;-;269
+NA;CALL;Jun-26   23,00;;-;603
+NA;CALL;Jun-26   24,00;;-;11
+NA;CALL;Jun-26   26,00;;-;11
+NA;CALL;Jun-26   27,00;;-;20
+NA;CALL;Jun-26   28,00;;-;35
+NA;CALL;Jul-26   17,00;;150;150
+NA;CALL;Jul-26   17,50;;150;150
+NA;CALL;Jul-26   22,00;;10;10
+NA;CALL;Sep-26   13,50;;-;75
+NA;CALL;Sep-26   14,00;;-;75
+NA;CALL;Sep-26   14,50;;-;75
+NA;CALL;Sep-26   15,00;;-;152
+NA;CALL;Sep-26   15,50;;-;150
+NA;CALL;Sep-26   16,00;;-;300
+NA;CALL;Sep-26   16,50;;-;300
+NA;CALL;Sep-26   17,00;;-;1.950
+NA;CALL;Sep-26   17,50;;-;5.000
+NA;CALL;Sep-26   18,50;;-;151
+NA;CALL;Sep-26   19,00;;-;4.290
+NA;CALL;Sep-26   19,50;;-;250
+NA;CALL;Sep-26   20,00;;-;150
+NA;CALL;Sep-26   21,00;;-;4.011
+NA;CALL;Sep-26   22,00;;-;519
+NA;CALL;Sep-26   23,00;;-;150
+NA;CALL;Sep-26   26,00;;-;10
+NA;CALL;Dic-26   11,50;;-;1
+NA;CALL;Dic-26   13,00;;-;25
+NA;CALL;Dic-26   15,00;;-;30
+NA;CALL;Dic-26   16,00;;-;4.000
+NA;CALL;Dic-26   16,50;;-;50
+NA;CALL;Dic-26   17,00;;-;4.310
+NA;CALL;Dic-26   17,50;;-;650
+NA;CALL;Dic-26   18,00;;-;158
+NA;CALL;Dic-26   18,50;;-;8
+NA;CALL;Dic-26   19,00;;10;2.512
+NA;CALL;Dic-26   19,50;;-;30
+NA;CALL;Dic-26   20,00;;-;169
+NA;CALL;Dic-26   21,00;;-;525
+NA;CALL;Dic-26   22,00;;-;30
+NA;CALL;Dic-26   23,00;;-;211
+NA;CALL;Dic-26   24,00;;-;8
+NA;CALL;Dic-26   25,00;;-;200
+NA;CALL;Dic-26   26,00;;-;10
+NA;CALL;Dic-26   27,00;;-;150
+NA;CALL;Mar-27   9,50;;-;20
+NA;CALL;Mar-27   12,00;;-;25
+NA;CALL;Mar-27   13,00;;-;1
+NA;CALL;Mar-27   15,50;;-;5
+NA;CALL;Mar-27   16,00;;-;1.005
+NA;CALL;Mar-27   16,50;;-;250
+NA;CALL;Mar-27   17,50;;-;40
+NA;CALL;Mar-27   18,00;;-;100
+NA;CALL;Mar-27   19,00;;-;4
+NA;CALL;Mar-27   20,00;;-;7
+NA;CALL;Mar-27   25,00;;-;200
+NA;CALL;Mar-27   26,00;;-;500
+NA;CALL;Mar-27   27,00;;-;500
+NA;CALL;Mar-27   28,00;;-;200
+NA;CALL;Jun-27   12,00;;-;150
+NA;CALL;Jun-27   12,50;;-;25
+NA;CALL;Jun-27   13,00;;-;1
+NA;CALL;Jun-27   15,00;;-;5
+NA;CALL;Jun-27   17,00;;-;6.000
+NA;CALL;Jun-27   20,00;;-;150
+NA;CALL;Jun-27   22,00;;-;3.150
+NA;CALL;Sep-27   11,50;;-;150
+NA;CALL;Sep-27   12,00;;-;150
+NA;CALL;Dic-27   11,00;;-;150
+NA;CALL;Dic-27   11,50;;-;26
+NA;CALL;Dic-27   13,50;;-;150
+NA;CALL;Dic-27   15,00;;-;75
+NA;CALL;Dic-27   16,00;;-;6.000
+NA;CALL;Dic-27   17,00;;-;150
+NA;CALL;Dic-27   17,50;;-;100
+NA;CALL;Dic-27   18,00;;-;1
+NA;CALL;Dic-27   20,00;;-;150
+NA;CALL;Dic-27   25,00;;-;4.000
+NA;CALL;Mar-28   17,00;;-;600
+NA;CALL;Mar-28   17,50;;-;300
+NA;CALL;Mar-28   18,00;;-;300
+NA;CALL;Mar-28   25,00;;-;1
+NA;CALL;Jun-28   10,00;;-;1
+NA;CALL;Jun-28   17,00;;-;750
+NA;CALL;Jun-28   17,50;;-;600
+NA;CALL;Jun-28   18,00;;-;575
+NA;CALL;Jun-28   18,50;;-;3
+NA;CALL;Jun-28   20,00;;-;125
+NA;CALL;Jun-28   21,00;;275;425
+NA;CALL;Jun-28   22,00;;-;150
+NA;CALL;Jun-28   23,00;;-;150
+NA;CALL;Jun-28   24,00;;-;300
+NA;CALL;Dic-29   15,00;;-;50
+NA;CALL;May-26 w2   16,00;;-;10
+NA;CALL;May-26 w2   16,50;;-;10
+NA;CALL;May-26 w2   17,50;;10;10
+NA;CALL;May-26 w2   18,00;;10;42
+NA;CALL;May-26 w2   18,50;;-;11
+NA;CALL;May-26   13,50;;-;20
+NA;CALL;May-26   14,00;;-;16
+NA;CALL;May-26   15,00;;-;51
+NA;CALL;May-26   15,50;;-;13
+NA;CALL;May-26   16,00;;-;30
+NA;CALL;May-26   16,50;;3;13
+NA;CALL;May-26   17,00;;40;170
+NA;CALL;May-26   17,50;;-;179
+NA;CALL;May-26   18,00;;35;168
+NA;CALL;May-26   18,50;;-;5.453
+NA;CALL;May-26   19,00;;-;1.307
+NA;CALL;May-26   19,50;;150;451
+NA;CALL;May-26   20,00;;180;632
+NA;CALL;May-26   21,00;;-;8
+NA;CALL;May-26   23,00;;-;1
+NA;CALL;May-26 w4   15,00;;10;10
+NA;CALL;May-26 w4   17,00;;11;11
+NA;CALL;Jun-26   5,25;;-;1
+NA;CALL;Jun-26   7,00;;-;23.800
+NA;CALL;Jun-26   7,25;;-;155
+NA;CALL;Jun-26   7,50;;-;14.802
+NA;CALL;Jun-26   7,75;;-;3.050
+NA;CALL;Jun-26   8,00;;-;4.593
+NA;CALL;Jun-26   8,50;;-;25
+NA;CALL;Jun-26   8,75;;-;175
+NA;CALL;Jun-26   9,00;;-;2.760
+NA;CALL;Jun-26   9,25;;-;272
+NA;CALL;Jun-26   9,50;;-;585
+NA;CALL;Jun-26   9,75;;-;1.159
+NA;CALL;Jun-26   10,00;;-;5.764
+NA;CALL;Jun-26   10,50;;-;3.735
+NA;CALL;Jun-26   11,00;;-;993
+NA;CALL;Jun-26   11,50;;-;2.750
+NA;CALL;Jun-26   12,00;;-;549
+NA;CALL;Jun-26   12,50;;-;815
+NA;CALL;Jun-26   13,00;;10;581
+NA;CALL;Jun-26   13,50;;2;442
+NA;CALL;Jun-26   14,00;;3;94
+NA;CALL;Jun-26   14,50;;-;100
+NA;CALL;Jun-26   15,00;;2;3.644
+NA;CALL;Jun-26   15,50;;-;2.810
+NA;CALL;Jun-26   16,00;;-;185
+NA;CALL;Jun-26   16,50;;7;328
+NA;CALL;Jun-26   17,00;;-;10.512
+NA;CALL;Jun-26   17,50;;2;119
+NA;CALL;Jun-26   18,00;;75;293
+NA;CALL;Jun-26   18,50;;-;150
+NA;CALL;Jun-26   19,00;;10;300
+NA;CALL;Jun-26   19,50;;-;300
+NA;CALL;Jun-26   20,00;;30;34
+NA;CALL;Jun-26   21,00;;-;336
+NA;CALL;Jun-26   22,00;;-;753
+NA;CALL;Jun-26   23,00;;-;1.950
+NA;CALL;Jul-26   15,00;;-;1
+NA;CALL;Sep-26   6,75;;-;1
+NA;CALL;Sep-26   8,25;;-;5
+NA;CALL;Sep-26   9,00;;-;674
+NA;CALL;Sep-26   9,25;;-;368
+NA;CALL;Sep-26   9,50;;-;25
+NA;CALL;Sep-26   9,75;;-;200
+NA;CALL;Sep-26   10,00;;-;40.150
+NA;CALL;Sep-26   10,50;;-;300
+NA;CALL;Sep-26   11,00;;-;350
+NA;CALL;Sep-26   11,50;;-;1
+NA;CALL;Sep-26   12,00;;-;1
+NA;CALL;Sep-26   12,50;;-;52
+NA;CALL;Sep-26   13,00;;-;130
+NA;CALL;Sep-26   14,00;;-;55
+NA;CALL;Sep-26   14,50;;-;6
+NA;CALL;Sep-26   15,00;;-;603
+NA;CALL;Sep-26   15,50;;-;10
+NA;CALL;Sep-26   16,00;;-;90
+NA;CALL;Sep-26   16,50;;5;58
+NA;CALL;Sep-26   17,00;;-;4.954
+NA;CALL;Sep-26   17,50;;-;152
+NA;CALL;Sep-26   18,00;;-;85
+NA;CALL;Sep-26   18,50;;-;4
+NA;CALL;Sep-26   19,00;;-;4
+NA;CALL;Sep-26   19,50;;-;23
+NA;CALL;Sep-26   20,00;;-;2
+NA;CALL;Sep-26   21,00;;-;450
+NA;CALL;Sep-26   22,00;;-;150
+NA;CALL;Sep-26   23,00;;-;450
+NA;CALL;Sep-26   26,00;;-;50
+NA;CALL;Dic-26   5,75;;-;150
+NA;CALL;Dic-26   6,00;;-;10.150
+NA;CALL;Dic-26   6,25;;-;150
+NA;CALL;Dic-26   6,50;;-;13.250
+NA;CALL;Dic-26   6,75;;-;450
+NA;CALL;Dic-26   7,00;;-;300
+NA;CALL;Dic-26   7,25;;-;600
+NA;CALL;Dic-26   7,50;;-;450
+NA;CALL;Dic-26   7,75;;-;451
+NA;CALL;Dic-26   8,00;;-;18.450
+NA;CALL;Dic-26   8,25;;-;15
+NA;CALL;Dic-26   8,50;;-;25.000
+NA;CALL;Dic-26   8,75;;-;311
+NA;CALL;Dic-26   9,00;;-;14.933
+NA;CALL;Dic-26   9,25;;-;75
+NA;CALL;Dic-26   9,50;;-;76
+NA;CALL;Dic-26   9,75;;-;200
+NA;CALL;Dic-26   10,00;;-;226
+NA;CALL;Dic-26   10,50;;-;300
+NA;CALL;Dic-26   11,00;;-;481
+NA;CALL;Dic-26   11,50;;-;1
+NA;CALL;Dic-26   12,00;;-;160
+NA;CALL;Dic-26   12,50;;-;250
+NA;CALL;Dic-26   13,00;;-;42.061
+NA;CALL;Dic-26   13,50;;-;400
+NA;CALL;Dic-26   14,00;;5;676
+NA;CALL;Dic-26   14,50;;-;300
+NA;CALL;Dic-26   15,00;;-;3.762
+NA;CALL;Dic-26   15,50;;-;27
+NA;CALL;Dic-26   16,00;;10;97
+NA;CALL;Dic-26   16,50;;-;520
+NA;CALL;Dic-26   17,00;;-;8.732
+NA;CALL;Dic-26   17,50;;1;51
+NA;CALL;Dic-26   18,00;;-;20.168
+NA;CALL;Dic-26   18,50;;-;12
+NA;CALL;Dic-26   19,00;;-;2.506
+NA;CALL;Dic-26   20,00;;-;5.521
+NA;CALL;Dic-26   21,00;;-;150
+NA;CALL;Dic-26   22,00;;-;150
+NA;CALL;Dic-26   23,00;;-;600
+NA;CALL;Mar-27   8,50;;-;25
+NA;CALL;Mar-27   8,75;;-;25
+NA;CALL;Mar-27   9,00;;-;25
+NA;CALL;Mar-27   9,25;;-;25
+NA;CALL;Mar-27   9,50;;-;30
+NA;CALL;Mar-27   9,75;;-;25
+NA;CALL;Mar-27   10,50;;-;175
+NA;CALL;Mar-27   11,00;;-;175
+NA;CALL;Mar-27   11,50;;-;32.000
+NA;CALL;Mar-27   12,00;;-;40
+NA;CALL;Mar-27   12,50;;-;40
+NA;CALL;Mar-27   13,00;;-;20
+NA;CALL;Mar-27   16,00;;3.000;3.000
+NA;CALL;Mar-27   16,50;;-;350
+NA;CALL;Mar-27   17,00;;-;150
+NA;CALL;Mar-27   17,50;;-;150
+NA;CALL;Mar-27   20,00;;-;151
+NA;CALL;Jun-27   4,30;;-;1
+NA;CALL;Jun-27   4,50;;-;1
+NA;CALL;Jun-27   4,90;;-;150
+NA;CALL;Jun-27   5,00;;-;300
+NA;CALL;Jun-27   5,25;;-;298
+NA;CALL;Jun-27   7,00;;-;2
+NA;CALL;Jun-27   8,00;;-;1
+NA;CALL;Jun-27   8,25;;-;7
+NA;CALL;Jun-27   9,00;;-;7.000
+NA;CALL;Jun-27   9,75;;-;175
+NA;CALL;Jun-27   10,00;;-;10.000
+NA;CALL;Jun-27   11,00;;-;75
+NA;CALL;Jun-27   12,50;;-;197
+NA;CALL;Jun-27   13,00;;-;956
+NA;CALL;Jun-27   13,50;;-;150
+NA;CALL;Jun-27   14,00;;-;3
+NA;CALL;Jun-27   14,50;;-;400
+NA;CALL;Jun-27   15,00;;-;1.000
+NA;CALL;Jun-27   16,50;;-;150
+NA;CALL;Jun-27   17,00;;-;150
+NA;CALL;Jun-27   17,50;;-;150
+NA;CALL;Jun-27   18,00;;-;150
+NA;CALL;Jun-27   19,00;;-;150
+NA;CALL;Jun-27   20,00;;-;3
+NA;CALL;Jun-27   23,00;;-;150
+NA;CALL;Sep-27   7,75;;-;10
+NA;CALL;Sep-27   16,00;;-;304
+NA;CALL;Sep-27   16,50;;-;10
+NA;CALL;Sep-27   17,00;;-;379
+NA;CALL;Sep-27   17,50;;-;150
+NA;CALL;Sep-27   18,00;;-;150
+NA;CALL;Dic-27   4,40;;-;1
+NA;CALL;Dic-27   4,90;;-;150
+NA;CALL;Dic-27   5,00;;-;150
+NA;CALL;Dic-27   6,50;;-;10
+NA;CALL;Dic-27   7,00;;-;150
+NA;CALL;Dic-27   7,25;;-;150
+NA;CALL;Dic-27   7,75;;-;1
+NA;CALL;Dic-27   8,25;;-;150
+NA;CALL;Dic-27   8,50;;-;6.150
+NA;CALL;Dic-27   8,75;;-;1
+NA;CALL;Dic-27   9,00;;-;7.650
+NA;CALL;Dic-27   9,25;;-;150
+NA;CALL;Dic-27   9,50;;-;250
+NA;CALL;Dic-27   9,75;;-;150
+NA;CALL;Dic-27   10,00;;-;407
+NA;CALL;Dic-27   10,50;;-;300
+NA;CALL;Dic-27   11,00;;-;2.304
+NA;CALL;Dic-27   12,00;;-;3.300
+NA;CALL;Dic-27   12,50;;-;300
+NA;CALL;Dic-27   13,00;;-;10.000
+NA;CALL;Dic-27   13,50;;-;150
+NA;CALL;Dic-27   14,00;;-;150
+NA;CALL;Dic-27   16,00;;-;15.000
+NA;CALL;Dic-27   16,50;;-;174
+NA;CALL;Dic-27   17,00;;-;8.500
+NA;CALL;Dic-27   17,50;;-;292
+NA;CALL;Dic-27   18,00;;-;150
+NA;CALL;Dic-27   20,00;;-;150
+NA;CALL;Dic-27   21,00;;-;150
+NA;CALL;Dic-27   22,00;;-;10.302
+NA;CALL;Dic-27   23,00;;-;300
+NA;CALL;Dic-27   25,00;;-;1
+NA;CALL;Mar-28   15,00;;-;150
+NA;CALL;Mar-28   15,50;;-;150
+NA;CALL;Mar-28   18,00;;-;25
+NA;CALL;Mar-28   20,00;;-;150
+NA;CALL;Mar-28   21,00;;-;150
+NA;CALL;Mar-28   22,00;;-;150
+NA;CALL;Mar-28   23,00;;-;150
+NA;CALL;Jun-28   18,00;;-;1.250
+NA;CALL;Jun-28   19,00;;-;150
+NA;CALL;Jun-28   20,00;;-;300
+NA;CALL;Jun-28   21,00;;-;750
+NA;CALL;Jun-28   22,00;;-;1.350
+NA;CALL;Jun-28   23,00;;-;1.500
+NA;CALL;Dic-28   12,50;;-;1.500
+NA;CALL;Dic-28   16,00;;-;17
+NA;CALL;Dic-28   20,00;;-;90
+NA;CALL;Dic-29   20,00;;-;70
+NA;CALL;May-26   17,00;;-;20
+NA;CALL;May-26   17,50;;-;1
+NA;CALL;May-26   18,00;;-;70
+NA;CALL;May-26   18,50;;-;5
+NA;CALL;May-26   19,00;;-;18
+NA;CALL;May-26   19,50;;-;60
+NA;CALL;May-26   19,50;;-;30
+NA;CALL;May-26   20,00;;-;154
+NA;CALL;May-26   20,00;;-;56
+NA;CALL;May-26   21,00;;-;11
+NA;CALL;May-26   21,00;;-;3.234
+NA;CALL;May-26   22,00;;-;6.468
+NA;CALL;Jun-26   17,00;;-;10
+NA;CALL;Jun-26   18,00;;-;30
+NA;CALL;Jun-26   19,00;;-;10
+NA;CALL;Jun-26   20,00;;-;32
+NA;CALL;Jun-26   20,00;;-;22
+NA;CALL;Jun-26   21,00;;-;2
+NA;CALL;Jun-26   22,00;;-;4
+NA;CALL;Jun-26   24,00;;-;30
+NA;CALL;Jun-26   25,00;;-;2
+NA;CALL;Jun-26   26,00;;-;8
+NA;CALL;Jun-26   27,00;;-;16
+NA;CALL;Jun-26   28,00;;-;20
+NA;CALL;Sep-26   12,00;;-;10
+NA;CALL;Sep-26   17,50;;-;10
+NA;CALL;Sep-26   19,00;;-;1
+NA;CALL;Sep-26   19,00;;-;10
+NA;CALL;Sep-26   20,00;;-;10
+NA;CALL;Sep-26   21,00;;-;10
+NA;CALL;Sep-26   22,00;;-;160
+NA;CALL;Dic-26   17,00;;-;10
+NA;CALL;Dic-26   19,00;;-;10
+NA;CALL;Dic-26   19,50;;-;10
+NA;CALL;Dic-26   21,00;;-;10
+NA;CALL;Dic-26   22,00;;-;10
+NA;CALL;Dic-26   24,00;;-;10
+NA;CALL;Dic-26   28,00;;-;12
+NA;CALL;May-26 w2   17,50;;-;6
+NA;CALL;May-26   16,00;;-;6
+NA;CALL;May-26   16,50;;-;20
+NA;CALL;May-26   17,00;;-;20
+NA;CALL;May-26   18,00;;-;35
+NA;CALL;May-26   18,50;;-;25
+NA;CALL;May-26   19,00;;-;55
+NA;CALL;May-26   19,00;;-;30
+NA;CALL;May-26   19,50;;-;25
+NA;CALL;May-26   20,00;;-;76
+NA;CALL;May-26   21,00;;-;10
+NA;CALL;Jun-26   12,00;;-;20
+NA;CALL;Jun-26   16,00;;-;20
+NA;CALL;Jun-26   17,00;;10;10
+NA;CALL;Jun-26   18,00;;-;25
+NA;CALL;Jun-26   19,00;;-;21
+NA;CALL;Jun-26   19,50;;-;12
+NA;CALL;Jun-26   20,00;;-;30
+NA;CALL;Jun-26   21,00;;-;10
+NA;CALL;Sep-26   9,50;;-;600
+NA;CALL;Sep-26   10,50;;-;700
+NA;CALL;Sep-26   16,00;;-;10
+NA;CALL;Sep-26   17,00;;-;20
+NA;CALL;Sep-26   18,00;;-;10
+NA;CALL;Sep-26   19,00;;-;10
+NA;CALL;Sep-26   20,00;;-;10
+NA;CALL;Dic-26   7,25;;-;150
+NA;CALL;Dic-26   8,50;;-;150
+NA;CALL;Dic-26   8,75;;-;150
+NA;CALL;Dic-26   9,00;;-;150
+NA;CALL;Dic-26   10,00;;-;40
+NA;CALL;Dic-26   17,00;;-;23
+NA;CALL;Dic-26   17,50;;-;1
+NA;CALL;Dic-26   22,00;;-;3
+NA;CALL;Dic-26   23,00;;-;1
+NA;CALL;Mar-27   14,50;;-;10
+NA;CALL;Mar-27   18,00;;-;1
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   10,50;;-;20
+NA;CALL;May-26   11,00;;-;3
+NA;CALL;May-26   11,50;;-;4
+NA;CALL;Jun-26   9,25;;-;5
+NA;CALL;Jun-26   10,00;;-;45
+NA;CALL;Jun-26   10,50;;-;50
+NA;CALL;Jun-26   11,00;;-;29
+NA;CALL;Jun-26   11,50;;-;11
+NA;CALL;Sep-26   9,00;;-;1
+NA;CALL;Sep-26   10,00;;-;1
+NA;CALL;Sep-26   10,50;;-;4
+NA;CALL;Sep-26   11,00;;-;2
+NA;CALL;Sep-26   11,50;;-;11
+NA;CALL;Sep-26   12,00;;-;10
+NA;CALL;Sep-26   13,50;;-;5
+NA;CALL;Dic-26   7,00;;-;7.500
+NA;CALL;Dic-26   9,25;;-;1
+NA;CALL;Dic-26   10,50;;-;1.134
+NA;CALL;Dic-26   11,00;;-;22
+NA;CALL;Dic-26   11,50;;-;26
+NA;CALL;Dic-26   12,50;;-;450
+NA;CALL;Mar-27   9,50;;-;1
+NA;CALL;Mar-27   10,50;;-;14
+NA;CALL;Jun-27   9,75;;-;150
+NA;CALL;Jun-27   10,00;;-;150
+NA;CALL;Jun-27   10,50;;-;150
+NA;CALL;Jun-27   11,00;;-;150
+NA;CALL;Dic-27   10,50;;-;20
+NA;CALL;Dic-27   11,00;;-;1
+NA;CALL;Dic-27   11,50;;-;1
+NA;CALL;Jun-28   10,00;;-;150
+NA;CALL;Jun-28   10,50;;-;300
+NA;CALL;Jun-28   11,00;;-;1.250
+NA;CALL;Jun-28   11,50;;-;150
+NA;CALL;May-26   9,00;;-;3
+NA;CALL;May-26   9,25;;-;6
+NA;CALL;May-26   9,50;;-;10
+NA;CALL;May-26   9,75;;-;6
+NA;CALL;May-26   10,00;;-;21
+NA;CALL;May-26   10,50;;-;100
+NA;CALL;May-26   11,50;;-;11
+NA;CALL;Jun-26   3,20;;-;25
+NA;CALL;Jun-26   3,40;;-;25
+NA;CALL;Jun-26   4,90;;-;27
+NA;CALL;Jun-26   5,50;;-;42.005
+NA;CALL;Jun-26   6,00;;-;20.000
+NA;CALL;Jun-26   6,75;;-;5
+NA;CALL;Jun-26   7,00;;-;2
+NA;CALL;Jun-26   8,00;;-;20
+NA;CALL;Jun-26   8,25;;-;252
+NA;CALL;Jun-26   8,50;;-;222
+NA;CALL;Jun-26   8,75;;-;1
+NA;CALL;Jun-26   9,00;;-;1
+NA;CALL;Jun-26   9,25;;-;1
+NA;CALL;Jun-26   9,50;;-;20
+NA;CALL;Jun-26   9,75;;-;10
+NA;CALL;Jun-26   10,00;;10;30
+NA;CALL;Jun-26   10,50;;-;2
+NA;CALL;Jun-26   11,00;;-;10
+NA;CALL;Jul-26   8,50;;-;2
+NA;CALL;Sep-26   5,50;;-;70.900
+NA;CALL;Sep-26   7,75;;-;3
+NA;CALL;Sep-26   8,00;;-;174
+NA;CALL;Sep-26   8,50;;-;1.001
+NA;CALL;Sep-26   9,00;;-;1
+NA;CALL;Sep-26   10,50;;-;3
+NA;CALL;Sep-26   11,00;;-;8
+NA;CALL;Sep-26   11,50;;-;1
+NA;CALL;Dic-26   5,25;;-;75
+NA;CALL;Dic-26   6,75;;-;40.000
+NA;CALL;Dic-26   7,25;;-;1
+NA;CALL;Dic-26   8,00;;-;100
+NA;CALL;Dic-26   8,25;;-;100
+NA;CALL;Dic-26   8,50;;-;103
+NA;CALL;Dic-26   8,75;;-;10
+NA;CALL;Dic-26   9,00;;-;11
+NA;CALL;Dic-26   9,50;;-;2
+NA;CALL;Dic-26   10,00;;-;76
+NA;CALL;Dic-26   10,50;;-;1.003
+NA;CALL;Dic-26   11,00;;-;40
+NA;CALL;Dic-26   11,50;;-;1
+NA;CALL;Mar-27   6,00;;-;19.000
+NA;CALL;Mar-27   6,50;;-;49.800
+NA;CALL;Mar-27   8,75;;-;350
+NA;CALL;Mar-27   10,00;;-;251
+NA;CALL;Mar-27   11,50;;-;1
+NA;CALL;Jun-27   10,00;;-;4.000
+NA;CALL;Jun-27   10,50;;-;150
+NA;CALL;Dic-27   3,50;;-;1
+NA;CALL;Dic-27   4,20;;-;1
+NA;CALL;Dic-27   5,50;;-;160
+NA;CALL;Dic-27   5,75;;-;1
+NA;CALL;Dic-27   6,00;;-;150
+NA;CALL;Dic-27   8,00;;-;150
+NA;CALL;Dic-27   8,25;;-;225
+NA;CALL;Dic-27   8,50;;-;150
+NA;CALL;Dic-27   8,75;;-;150
+NA;CALL;Dic-27   9,00;;-;150
+NA;CALL;Dic-27   9,25;;-;150
+NA;CALL;Dic-27   9,50;;-;150
+NA;CALL;Dic-27   9,75;;-;150
+NA;CALL;Dic-27   10,00;;-;150
+NA;CALL;Jun-28   8,50;;-;150
+NA;CALL;Jun-28   9,00;;-;150
+NA;CALL;Jun-28   9,25;;-;150
+NA;CALL;Jun-28   9,50;;-;300
+NA;CALL;Jun-28   9,75;;-;150
+NA;CALL;Jun-28   10,00;;-;150
+NA;CALL;Dic-28   4,50;;-;15.000
+NA;CALL;Dic-28   8,75;;-;450
+NA;CALL;Dic-28   11,50;;-;400
+NA;CALL;Dic-29   5,00;;-;16.000
+NA;CALL;May-26   11,50;;-;5.294
+NA;CALL;May-26   12,00;;-;10.588
+NA;CALL;Jun-26   8,50;;-;25
+NA;CALL;Jun-26   8,75;;-;100
+NA;CALL;Jun-26   11,00;;-;1
+NA;CALL;Jun-26   9,50;;-;10
+NA;CALL;Jun-26   10,00;;-;10
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   27,00;;-;1
+NA;CALL;May-26   28,00;;-;20
+NA;CALL;May-26   29,00;;-;12
+NA;CALL;May-26   31,00;;-;1
+NA;CALL;May-26   32,00;;-;1
+NA;CALL;May-26   33,00;;-;3
+NA;CALL;May-26   34,00;;-;1.085
+NA;CALL;May-26   35,00;;-;1.185
+NA;CALL;Jun-26   20,00;;-;1
+NA;CALL;Jun-26   24,00;;-;1
+NA;CALL;Jun-26   26,00;;-;18
+NA;CALL;Jun-26   27,00;;-;33
+NA;CALL;Jun-26   28,00;;-;18
+NA;CALL;Jun-26   29,00;;-;2
+NA;CALL;Jun-26   30,00;;-;27
+NA;CALL;Jun-26   31,00;;-;27
+NA;CALL;Jun-26   32,00;;-;101
+NA;CALL;Jun-26   33,00;;-;29
+NA;CALL;Jun-26   34,00;;-;3
+NA;CALL;Jun-26   36,00;;-;25
+NA;CALL;Jun-26   46,00;;-;25
+NA;CALL;Sep-26   26,00;;-;7
+NA;CALL;Sep-26   27,00;;-;15
+NA;CALL;Sep-26   28,00;;-;45
+NA;CALL;Sep-26   29,00;;-;25
+NA;CALL;Sep-26   30,00;;-;62
+NA;CALL;Sep-26   31,00;;-;10
+NA;CALL;Sep-26   32,00;;-;55
+NA;CALL;Sep-26   33,00;;-;25
+NA;CALL;Sep-26   34,00;;-;41
+NA;CALL;Sep-26   35,00;;-;30
+NA;CALL;Sep-26   36,00;;-;25
+NA;CALL;Sep-26   37,00;;-;25
+NA;CALL;Sep-26   38,00;;-;25
+NA;CALL;Sep-26   39,00;;-;25
+NA;CALL;Sep-26   40,00;;-;25
+NA;CALL;Dic-26   18,00;;-;2
+NA;CALL;Dic-26   24,00;;-;11
+NA;CALL;Dic-26   25,00;;-;2
+NA;CALL;Dic-26   28,00;;-;98
+NA;CALL;Dic-26   29,00;;-;60
+NA;CALL;Dic-26   30,00;;1;148
+NA;CALL;Dic-26   31,00;;-;110
+NA;CALL;Dic-26   32,00;;-;217
+NA;CALL;Dic-26   33,00;;-;120
+NA;CALL;Dic-26   34,00;;-;190
+NA;CALL;Dic-26   35,00;;-;115
+NA;CALL;Dic-26   36,00;;-;85
+NA;CALL;Dic-26   37,00;;-;85
+NA;CALL;Dic-26   38,00;;-;25
+NA;CALL;Dic-26   39,00;;-;25
+NA;CALL;Dic-26   40,00;;-;125
+NA;CALL;Dic-26   42,00;;-;25
+NA;CALL;Dic-26   44,00;;-;25
+NA;CALL;Dic-26   45,00;;-;25
+NA;CALL;Dic-26   46,00;;-;25
+NA;CALL;Mar-27   20,00;;-;5
+NA;CALL;Mar-27   26,00;;-;1
+NA;CALL;Mar-27   27,00;;-;25
+NA;CALL;Mar-27   29,00;;-;1
+NA;CALL;Mar-27   30,00;;-;300
+NA;CALL;Mar-27   31,00;;-;75
+NA;CALL;Mar-27   32,00;;-;20
+NA;CALL;Mar-27   33,00;;-;51
+NA;CALL;Mar-27   34,00;;-;25
+NA;CALL;Mar-27   35,00;;-;25
+NA;CALL;Jun-27   25,00;;-;1
+NA;CALL;Jun-27   28,00;;-;100
+NA;CALL;Jun-27   29,00;;-;100
+NA;CALL;Jun-27   30,00;;-;125
+NA;CALL;Jun-27   31,00;;-;150
+NA;CALL;Jun-27   32,00;;-;100
+NA;CALL;Jun-27   33,00;;-;100
+NA;CALL;Jun-27   34,00;;-;175
+NA;CALL;Jun-27   35,00;;-;150
+NA;CALL;Jun-27   36,00;;-;125
+NA;CALL;Jun-27   37,00;;-;125
+NA;CALL;Jun-27   38,00;;-;75
+NA;CALL;Jun-27   39,00;;-;75
+NA;CALL;Jun-27   40,00;;-;50
+NA;CALL;Jun-27   41,00;;-;50
+NA;CALL;Jun-27   42,00;;-;50
+NA;CALL;Jun-27   43,00;;-;50
+NA;CALL;Jun-27   44,00;;-;50
+NA;CALL;Jun-27   45,00;;-;50
+NA;CALL;Jun-27   46,00;;-;50
+NA;CALL;Jun-27   49,00;;-;50
+NA;CALL;Jun-27   50,00;;-;411
+NA;CALL;Sep-27   34,00;;-;20
+NA;CALL;Sep-27   35,00;;-;100
+NA;CALL;Sep-27   36,00;;-;75
+NA;CALL;Sep-27   37,00;;-;75
+NA;CALL;Sep-27   41,00;;-;50
+NA;CALL;Dic-27   25,00;;-;25
+NA;CALL;Dic-27   26,00;;1;2
+NA;CALL;Dic-27   27,00;;-;2.500
+NA;CALL;Dic-27   28,00;;-;7
+NA;CALL;Dic-27   29,00;;-;1
+NA;CALL;Dic-27   30,00;;-;100
+NA;CALL;Dic-27   31,00;;-;75
+NA;CALL;Dic-27   32,00;;-;51
+NA;CALL;Dic-27   33,00;;-;25
+NA;CALL;Dic-27   34,00;;-;74
+NA;CALL;Dic-27   35,00;;-;25
+NA;CALL;Dic-27   37,00;;-;25
+NA;CALL;Dic-27   38,00;;-;570
+NA;CALL;Dic-27   40,00;;-;48
+NA;CALL;Dic-27   44,00;;-;25
+NA;CALL;Mar-28   29,00;;-;11
+NA;CALL;Dic-29   40,00;;-;1.260
+NA;CALL;May-26   23,00;;-;11
+NA;CALL;May-26   24,00;;-;31
+NA;CALL;May-26   25,00;;6;54
+NA;CALL;May-26   26,00;;-;64
+NA;CALL;May-26   27,00;;-;8
+NA;CALL;May-26   28,00;;-;10
+NA;CALL;May-26   32,00;;-;10
+NA;CALL;Jun-26   19,00;;-;10
+NA;CALL;Jun-26   22,00;;-;1
+NA;CALL;Jun-26   23,00;;3;2.141
+NA;CALL;Jun-26   24,00;;-;3.810
+NA;CALL;Jun-26   25,00;;-;117
+NA;CALL;Jun-26   26,00;;-;212
+NA;CALL;Jun-26   27,00;;-;133
+NA;CALL;Jun-26   28,00;;-;4
+NA;CALL;Jun-26   29,00;;-;1
+NA;CALL;Jun-26   30,00;;-;14
+NA;CALL;Jun-26   31,00;;-;82
+NA;CALL;Jun-26   32,00;;-;157
+NA;CALL;Jun-26   33,00;;-;1
+NA;CALL;Jul-26   22,00;;-;11
+NA;CALL;Jul-26   23,00;;-;5
+NA;CALL;Jul-26   24,00;;10;10
+NA;CALL;Jul-26   25,00;;-;1
+NA;CALL;Sep-26   20,00;;-;1
+NA;CALL;Sep-26   21,00;;-;10
+NA;CALL;Sep-26   22,00;;-;45
+NA;CALL;Sep-26   23,00;;-;13
+NA;CALL;Sep-26   24,00;;-;231
+NA;CALL;Sep-26   25,00;;-;70
+NA;CALL;Sep-26   26,00;;-;87
+NA;CALL;Sep-26   27,00;;-;50
+NA;CALL;Sep-26   28,00;;-;61
+NA;CALL;Sep-26   29,00;;-;28
+NA;CALL;Sep-26   30,00;;-;1
+NA;CALL;Dic-26   18,00;;-;2.000
+NA;CALL;Dic-26   20,00;;-;20
+NA;CALL;Dic-26   21,00;;-;225
+NA;CALL;Dic-26   22,00;;-;129
+NA;CALL;Dic-26   23,00;;-;1.479
+NA;CALL;Dic-26   24,00;;-;2.501
+NA;CALL;Dic-26   25,00;;-;60
+NA;CALL;Dic-26   26,00;;25;102
+NA;CALL;Dic-26   27,00;;-;54
+NA;CALL;Dic-26   29,00;;-;3
+NA;CALL;Dic-26   30,00;;-;1
+NA;CALL;Dic-26   32,00;;-;50
+NA;CALL;Dic-26   33,00;;-;25
+NA;CALL;Dic-26   34,00;;-;50
+NA;CALL;Dic-26   36,00;;-;25
+NA;CALL;Dic-26   38,00;;-;25
+NA;CALL;Dic-26   39,00;;-;50
+NA;CALL;Dic-26   40,00;;-;50
+NA;CALL;Mar-27   20,00;;-;1
+NA;CALL;Mar-27   23,00;;-;1
+NA;CALL;Mar-27   24,00;;-;2
+NA;CALL;Mar-27   25,00;;-;75
+NA;CALL;Mar-27   26,00;;25;25
+NA;CALL;Mar-27   28,00;;-;5
+NA;CALL;Mar-27   30,00;;-;10
+NA;CALL;Mar-27   31,00;;-;2
+NA;CALL;Mar-27   36,00;;-;25
+NA;CALL;Mar-27   37,00;;-;25
+NA;CALL;Mar-27   38,00;;-;25
+NA;CALL;Jun-27   22,00;;-;1
+NA;CALL;Jun-27   24,00;;-;50
+NA;CALL;Jun-27   26,00;;-;1.500
+NA;CALL;Jun-27   30,00;;-;25
+NA;CALL;Jun-27   31,00;;-;75
+NA;CALL;Jun-27   32,00;;-;50
+NA;CALL;Jun-27   33,00;;-;50
+NA;CALL;Jun-27   34,00;;-;100
+NA;CALL;Jun-27   35,00;;-;100
+NA;CALL;Jun-27   36,00;;-;125
+NA;CALL;Jun-27   37,00;;-;100
+NA;CALL;Jun-27   38,00;;-;100
+NA;CALL;Jun-27   39,00;;-;75
+NA;CALL;Jun-27   40,00;;-;100
+NA;CALL;Jun-27   41,00;;-;2
+NA;CALL;Sep-27   21,00;;-;1
+NA;CALL;Sep-27   36,00;;-;25
+NA;CALL;Sep-27   37,00;;-;25
+NA;CALL;Dic-27   21,00;;-;1
+NA;CALL;Dic-27   30,00;;-;75
+NA;CALL;Dic-27   31,00;;-;50
+NA;CALL;Dic-27   32,00;;-;26
+NA;CALL;Dic-27   33,00;;-;25
+NA;CALL;Dic-27   34,00;;-;25
+NA;CALL;Mar-28   21,00;;-;25
+NA;CALL;Mar-28   22,00;;-;100
+NA;CALL;Mar-28   24,00;;-;100
+NA;CALL;Jun-26   28,00;;-;110
+NA;CALL;Jun-26   30,00;;-;60
+NA;CALL;Jun-26   33,00;;-;25
+NA;CALL;Jun-26   34,00;;-;945
+NA;CALL;Jun-26   35,00;;-;875
+NA;CALL;Sep-26   28,00;;-;25
+NA;CALL;Sep-26   31,00;;-;25
+NA;CALL;Sep-26   32,00;;-;25
+NA;CALL;Sep-26   33,00;;-;25
+NA;CALL;Dic-26   28,00;;-;50
+NA;CALL;Dic-26   29,00;;-;2
+NA;CALL;Dic-26   32,00;;-;50
+NA;CALL;May-26   28,00;;-;10
+NA;CALL;Jun-26   24,00;;-;1
+NA;CALL;Jun-26   25,00;;-;3
+NA;CALL;Jun-26   30,00;;-;70
+NA;CALL;Sep-26   24,00;;-;1
+NA;CALL;Sep-26   25,00;;-;10
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;Jun-26   25,00;;-;2
+NA;CALL;Jun-26   27,00;;-;25
+NA;CALL;Jun-26   29,00;;-;25
+NA;CALL;Sep-26   28,00;;-;1
+NA;CALL;Sep-26   29,00;;-;1
+NA;CALL;Sep-26   31,00;;-;11
+NA;CALL;Sep-26   33,00;;-;1
+NA;CALL;Dic-26   31,00;;-;2
+NA;CALL;May-26   27,00;;-;2
+NA;CALL;Jun-26   26,00;;-;1
+NA;CALL;Jun-26   28,00;;-;10
+NA;CALL;Jun-26   29,00;;-;42
+NA;CALL;Jun-26   30,00;;-;10
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   5,50;;-;1
+NA;CALL;Jun-26   3,50;;-;3
+NA;CALL;Jun-26   5,00;;-;57
+NA;CALL;Jun-26   5,25;;-;10
+NA;CALL;Jun-26   6,00;;-;20
+NA;CALL;Sep-26   5,25;;-;45
+NA;CALL;Sep-26   5,75;;-;20
+NA;CALL;Dic-26   4,00;;-;12
+NA;CALL;Dic-26   4,60;;-;65
+NA;CALL;Dic-26   5,25;;-;5
+NA;CALL;Dic-26   5,50;;-;4
+NA;CALL;Dic-26   9,50;;-;1
+NA;CALL;May-26   4,80;;-;2
+NA;CALL;May-26   4,90;;-;8
+NA;CALL;May-26   5,00;;-;6
+NA;CALL;May-26   5,50;;-;1
+NA;CALL;Jun-26   4,60;;-;3
+NA;CALL;Jun-26   4,70;;-;12
+NA;CALL;Jun-26   4,80;;-;2
+NA;CALL;Jun-26   4,90;;-;11
+NA;CALL;Jun-26   5,00;;-;272
+NA;CALL;Jun-26   5,25;;-;9
+NA;CALL;Jun-26   5,50;;-;50
+NA;CALL;Jun-26   5,75;;-;75
+NA;CALL;Jun-26   6,00;;-;5
+NA;CALL;Sep-26   4,70;;-;1
+NA;CALL;Sep-26   4,80;;-;10
+NA;CALL;Sep-26   5,00;;-;221
+NA;CALL;Sep-26   5,50;;-;9
+NA;CALL;Dic-26   4,00;;-;1
+NA;CALL;Dic-26   4,30;;-;2.000
+NA;CALL;Dic-26   4,80;;-;2
+NA;CALL;Dic-26   4,90;;-;2
+NA;CALL;Dic-26   5,00;;-;10
+NA;CALL;Dic-26   5,25;;-;952
+NA;CALL;Dic-26   5,50;;-;100
+NA;CALL;Mar-27   4,80;;-;1
+NA;CALL;Mar-27   4,90;;-;1
+NA;CALL;Mar-27   5,00;;-;100
+NA;CALL;Mar-27   5,50;;-;4
+NA;CALL;Jun-26   5,00;;-;1
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;Jun-26   19,00;;-;1
+NA;CALL;Jun-26   19,50;;-;2
+NA;CALL;Sep-26   19,00;;-;3
+NA;CALL;May-26   18,00;;-;1
+NA;CALL;May-26   18,50;;-;1
+NA;CALL;Jun-26   16,00;;-;1
+NA;CALL;Jun-26   16,50;;-;3
+NA;CALL;Jun-26   17,00;;-;1
+NA;CALL;Jun-26   17,50;;-;3
+NA;CALL;Jun-26   18,00;;-;3
+NA;CALL;Sep-26   17,00;;-;1
+NA;CALL;Sep-26   17,50;;-;1
+NA;CALL;Dic-26   18,50;;-;2
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   14,00;;-;2
+NA;CALL;May-26   15,00;;-;4
+NA;CALL;May-26   16,00;;-;1
+NA;CALL;May-26   17,00;;-;63
+NA;CALL;May-26   17,50;;-;54
+NA;CALL;Jun-26   9,50;;-;10
+NA;CALL;Jun-26   12,00;;-;31
+NA;CALL;Jun-26   13,00;;-;10
+NA;CALL;Jun-26   13,50;;-;36
+NA;CALL;Jun-26   14,00;;-;54
+NA;CALL;Jun-26   14,50;;-;42
+NA;CALL;Jun-26   15,00;;30;94
+NA;CALL;Jun-26   15,50;;-;1.470
+NA;CALL;Jun-26   17,00;;-;3
+NA;CALL;Jun-26   17,50;;-;17
+NA;CALL;Jun-26   18,00;;25;39
+NA;CALL;Jun-26   18,50;;-;7
+NA;CALL;Jun-26   19,00;;-;1
+NA;CALL;Sep-26   10,00;;-;20
+NA;CALL;Sep-26   11,50;;-;15
+NA;CALL;Sep-26   12,50;;-;10
+NA;CALL;Sep-26   13,50;;-;10
+NA;CALL;Sep-26   14,00;;-;1
+NA;CALL;Sep-26   14,50;;-;14
+NA;CALL;Sep-26   15,00;;-;1
+NA;CALL;Sep-26   15,50;;-;3
+NA;CALL;Sep-26   16,00;;-;91
+NA;CALL;Sep-26   17,50;;-;1
+NA;CALL;Sep-26   18,00;;-;7
+NA;CALL;Sep-26   18,50;;-;26
+NA;CALL;Dic-26   13,50;;-;146
+NA;CALL;Dic-26   14,00;;-;160
+NA;CALL;Dic-26   14,50;;-;1
+NA;CALL;Dic-26   15,00;;-;6
+NA;CALL;Dic-26   15,50;;-;25
+NA;CALL;Dic-26   16,00;;-;412
+NA;CALL;Dic-26   17,00;;-;6
+NA;CALL;Dic-26   17,50;;-;25
+NA;CALL;Dic-26   18,00;;-;21
+NA;CALL;Dic-26   19,00;;-;82
+NA;CALL;Dic-26   19,50;;-;123
+NA;CALL;Dic-26   20,00;;-;26
+NA;CALL;Mar-27   14,00;;-;1
+NA;CALL;Mar-27   15,50;;-;301
+NA;CALL;Mar-27   16,00;;30;32
+NA;CALL;Mar-27   16,50;;-;5
+NA;CALL;Mar-27   17,00;;-;56
+NA;CALL;Mar-27   17,50;;-;33
+NA;CALL;Mar-27   18,00;;-;1
+NA;CALL;Mar-27   19,00;;-;50
+NA;CALL;Mar-27   19,50;;-;10
+NA;CALL;Mar-27   20,00;;-;99
+NA;CALL;Dic-27   16,00;;-;1
+NA;CALL;Dic-27   21,00;;-;10
+NA;CALL;Dic-28   16,00;;-;1
+NA;CALL;May-26   14,50;;-;10
+NA;CALL;May-26   15,00;;-;1
+NA;CALL;May-26   15,50;;-;10
+NA;CALL;May-26   16,00;;-;2
+NA;CALL;May-26   16,50;;-;51
+NA;CALL;May-26   17,00;;-;10
+NA;CALL;Jun-26   10,00;;-;20.000
+NA;CALL;Jun-26   11,50;;-;1
+NA;CALL;Jun-26   12,00;;-;61
+NA;CALL;Jun-26   12,50;;-;1.511
+NA;CALL;Jun-26   13,00;;-;284
+NA;CALL;Jun-26   13,50;;-;387
+NA;CALL;Jun-26   14,00;;-;329
+NA;CALL;Jun-26   14,50;;-;185
+NA;CALL;Jun-26   15,00;;-;36
+NA;CALL;Jun-26   15,50;;-;2
+NA;CALL;Jun-26   16,00;;-;25
+NA;CALL;Jun-26   16,50;;-;5
+NA;CALL;Jun-26   17,00;;-;1
+NA;CALL;Jul-26   16,00;;-;55
+NA;CALL;Jul-26   17,00;;-;1
+NA;CALL;Sep-26   12,00;;-;6
+NA;CALL;Sep-26   12,50;;-;12
+NA;CALL;Sep-26   13,00;;-;217
+NA;CALL;Sep-26   13,50;;-;30
+NA;CALL;Sep-26   14,00;;-;44
+NA;CALL;Sep-26   14,50;;-;1
+NA;CALL;Sep-26   15,00;;-;25
+NA;CALL;Sep-26   15,50;;-;45
+NA;CALL;Sep-26   16,00;;-;7
+NA;CALL;Sep-26   16,50;;-;10
+NA;CALL;Sep-26   17,50;;-;3
+NA;CALL;Dic-26   12,00;;-;150
+NA;CALL;Dic-26   12,50;;-;2
+NA;CALL;Dic-26   13,00;;-;227
+NA;CALL;Dic-26   13,50;;-;51
+NA;CALL;Dic-26   14,00;;-;280
+NA;CALL;Dic-26   14,50;;-;126
+NA;CALL;Dic-26   15,00;;-;552
+NA;CALL;Dic-26   15,50;;-;25
+NA;CALL;Mar-27   12,00;;-;1
+NA;CALL;Mar-27   14,00;;-;208
+NA;CALL;Mar-27   14,50;;30;31
+NA;CALL;Mar-27   15,00;;-;25
+NA;CALL;Mar-27   16,00;;-;400
+NA;CALL;Mar-27   17,00;;-;11
+NA;CALL;Jun-27   17,50;;-;25
+NA;CALL;Sep-27   12,50;;-;470
+NA;CALL;Sep-27   13,00;;-;25
+NA;CALL;Sep-27   13,50;;-;1
+NA;CALL;Sep-27   17,00;;-;25
+NA;CALL;Dic-27   11,00;;-;4.100
+NA;CALL;Mar-28   14,50;;-;173
+NA;CALL;Jun-26   16,00;;-;5
+NA;CALL;Sep-26   12,50;;-;25
+NA;CALL;Sep-26   13,50;;-;5
+NA;CALL;Sep-26   14,00;;-;6
+NA;CALL;Sep-26   17,50;;-;1
+NA;CALL;Sep-26   18,00;;-;28
+NA;CALL;Mar-27   17,00;;-;10
+NA;CALL;May-26   16,00;;-;2
+NA;CALL;May-26   16,50;;-;1
+NA;CALL;Jun-26   12,50;;-;25
+NA;CALL;Jun-26   13,50;;-;29
+NA;CALL;Jun-26   14,50;;-;8
+NA;CALL;Jun-26   15,00;;-;50
+NA;CALL;Jun-26   16,00;;-;1
+NA;CALL;Sep-26   11,00;;-;1
+NA;CALL;Sep-26   12,50;;-;60
+NA;CALL;Sep-26   14,00;;-;25
+NA;CALL;Sep-26   15,50;;-;25
+NA;CALL;Sep-26   17,00;;-;25
+NA;CALL;Dic-26   13,00;;-;25
+NA;CALL;Dic-26   13,50;;-;50
+NA;CALL;Dic-26   14,00;;-;25
+NA;CALL;Mar-27   14,50;;-;50
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;Jun-26   2,10;;-;10
+NA;CALL;Jun-26   2,30;;-;5
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   37,00;;-;12
+NA;CALL;Jun-26   23,00;;-;16
+NA;CALL;Jun-26   25,00;;-;3
+NA;CALL;Jun-26   27,00;;-;10
+NA;CALL;Jun-26   28,00;;-;25
+NA;CALL;Jun-26   29,00;;-;25
+NA;CALL;Jun-26   30,00;;-;25
+NA;CALL;Jun-26   31,00;;-;35
+NA;CALL;Jun-26   32,00;;-;11
+NA;CALL;Jun-26   33,00;;-;3
+NA;CALL;Jun-26   34,00;;-;5
+NA;CALL;Jun-26   38,00;;-;7
+NA;CALL;Jun-26   40,00;;-;1
+NA;CALL;Sep-26   27,00;;-;80
+NA;CALL;Sep-26   30,00;;-;10
+NA;CALL;Sep-26   33,00;;-;163
+NA;CALL;Sep-26   34,00;;-;134
+NA;CALL;Sep-26   35,00;;-;5
+NA;CALL;Sep-26   36,00;;-;1.001
+NA;CALL;Sep-26   38,00;;-;1
+NA;CALL;Dic-26   24,00;;-;4
+NA;CALL;Dic-26   25,00;;-;5
+NA;CALL;Dic-26   35,00;;-;2
+NA;CALL;Dic-26   36,00;;-;10
+NA;CALL;Dic-26   37,00;;-;4
+NA;CALL;Dic-26   38,00;;-;4
+NA;CALL;Dic-26   40,00;;-;1
+NA;CALL;Dic-26   42,00;;-;1
+NA;CALL;Mar-27   34,00;;-;150
+NA;CALL;Mar-27   44,00;;-;1
+NA;CALL;Jun-27   25,00;;-;5
+NA;CALL;Jun-27   27,00;;-;2
+NA;CALL;Jun-27   32,00;;-;294
+NA;CALL;Jun-27   33,00;;-;296
+NA;CALL;Jun-27   37,00;;-;1
+NA;CALL;Jun-27   41,00;;-;2
+NA;CALL;Sep-27   44,00;;-;25
+NA;CALL;Dic-27   25,00;;-;1
+NA;CALL;Dic-27   29,00;;-;1
+NA;CALL;Dic-27   31,00;;-;1
+NA;CALL;Dic-27   34,00;;-;1
+NA;CALL;Dic-27   40,00;;-;26
+NA;CALL;Mar-28   40,00;;-;25
+NA;CALL;Mar-28   45,00;;-;1.205
+NA;CALL;Mar-28   46,00;;-;80
+NA;CALL;Mar-28   47,00;;-;70
+NA;CALL;Mar-28   48,00;;-;130
+NA;CALL;Mar-28   49,00;;-;70
+NA;CALL;Mar-28   50,00;;-;70
+NA;CALL;May-26   34,00;;-;152
+NA;CALL;May-26   35,00;;-;1
+NA;CALL;May-26   37,00;;7;18
+NA;CALL;Jun-26   23,00;;-;4
+NA;CALL;Jun-26   24,00;;-;4
+NA;CALL;Jun-26   27,00;;-;10
+NA;CALL;Jun-26   29,00;;-;157
+NA;CALL;Jun-26   31,00;;-;1
+NA;CALL;Jun-26   32,00;;-;147
+NA;CALL;Jun-26   34,00;;-;25
+NA;CALL;Jun-26   35,00;;2;3
+NA;CALL;Jun-26   36,00;;1;1
+NA;CALL;Sep-26   25,00;;-;4
+NA;CALL;Sep-26   27,00;;-;445
+NA;CALL;Sep-26   28,00;;-;19
+NA;CALL;Sep-26   29,00;;-;148
+NA;CALL;Sep-26   30,00;;-;147
+NA;CALL;Sep-26   31,00;;-;146
+NA;CALL;Sep-26   35,00;;-;25
+NA;CALL;Sep-26   36,00;;-;50
+NA;CALL;Sep-26   37,00;;-;30
+NA;CALL;Sep-26   38,00;;-;5
+NA;CALL;Sep-26   41,00;;-;5
+NA;CALL;Sep-26   43,00;;-;5
+NA;CALL;Dic-26   19,00;;-;15
+NA;CALL;Dic-26   28,00;;-;25
+NA;CALL;Dic-26   30,00;;-;10
+NA;CALL;Dic-26   32,00;;-;10
+NA;CALL;Dic-26   33,00;;10;35
+NA;CALL;Dic-26   34,00;;-;1
+NA;CALL;Jun-27   15,50;;-;5
+NA;CALL;Jun-27   22,00;;-;10
+NA;CALL;Jun-27   34,00;;-;18
+NA;CALL;Jun-27   37,00;;-;3
+NA;CALL;Jun-27   38,00;;-;4
+NA;CALL;Dic-27   17,50;;-;1
+NA;CALL;Dic-27   27,00;;-;1
+NA;CALL;Dic-27   30,00;;-;5
+NA;CALL;Dic-27   31,00;;-;30
+NA;CALL;Dic-27   32,00;;-;5
+NA;CALL;Dic-27   34,00;;-;5
+NA;CALL;Mar-28   22,00;;-;150
+NA;CALL;Mar-28   24,00;;-;150
+NA;CALL;Mar-28   26,00;;-;150
+NA;CALL;Mar-28   27,00;;-;150
+NA;CALL;Mar-28   28,00;;-;150
+NA;CALL;Jun-28   25,00;;-;150
+NA;CALL;Jun-28   26,00;;-;150
+NA;CALL;Jun-28   27,00;;-;293
+NA;CALL;Jun-28   29,00;;-;143
+NA;CALL;Jun-28   30,00;;-;143
+NA;CALL;Jun-28   31,00;;-;142
+NA;CALL;Jun-28   32,00;;-;142
+NA;CALL;Jun-28   33,00;;-;142
+NA;CALL;Dic-28   31,00;;-;16
+NA;CALL;Sep-26   17,00;;-;25
+NA;CALL;Sep-26   34,00;;-;25
+NA;CALL;Sep-26   34,00;;-;25
+NA;CALL;May-26   37,00;;-;10
+NA;CALL;Jun-26   22,00;;-;1
+NA;CALL;Sep-26   24,00;;-;25
+NA;CALL;Sep-26   25,00;;-;25
+NA;CALL;Sep-26   26,00;;-;25
+NA;CALL;Sep-26   26,00;;-;25
+NA;CALL;Sep-26   34,00;;-;25
+NA;CALL;Sep-26   35,00;;-;50
+NA;CALL;Sep-26   35,00;;-;25
+NA;CALL;Sep-26   36,00;;-;25
+NA;CALL;Sep-26   37,00;;-;50
+NA;CALL;Dic-26   32,00;;-;8
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;Jun-26   10,00;;-;1
+NA;CALL;Jun-26   11,00;;-;16
+NA;CALL;Jun-26   11,50;;-;1
+NA;CALL;Sep-26   11,00;;-;13
+NA;CALL;Sep-26   18,00;;-;1
+NA;CALL;Mar-27   9,50;;-;257
+NA;CALL;Mar-27   10,00;;-;250
+NA;CALL;Mar-27   10,50;;-;482
+NA;CALL;Mar-27   11,00;;-;224
+NA;CALL;Jun-27   12,00;;-;417
+NA;CALL;Sep-27   11,00;;-;226
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   58,00;;-;1
+NA;CALL;May-26   66,00;;-;600
+NA;CALL;Jun-26   50,00;;-;5
+NA;CALL;Jun-26   52,00;;-;3.000
+NA;CALL;Jun-26   56,00;;-;1
+NA;CALL;Jun-26   58,00;;-;2.233
+NA;CALL;Jun-26   60,00;;-;2.000
+NA;CALL;Jun-26   62,00;;-;5
+NA;CALL;Jun-26   64,00;;-;74
+NA;CALL;Jun-26   66,00;;-;2.075
+NA;CALL;Sep-26   50,00;;-;25
+NA;CALL;Sep-26   52,00;;-;4
+NA;CALL;Sep-26   54,00;;-;25
+NA;CALL;Sep-26   56,00;;-;58
+NA;CALL;Sep-26   58,00;;-;50
+NA;CALL;Sep-26   60,00;;-;102
+NA;CALL;Sep-26   62,00;;-;79
+NA;CALL;Sep-26   64,00;;-;2
+NA;CALL;Sep-26   66,00;;-;25
+NA;CALL;Sep-26   74,00;;-;75
+NA;CALL;Dic-26   47,00;;-;1
+NA;CALL;Dic-26   50,00;;-;5
+NA;CALL;Dic-26   52,00;;-;1
+NA;CALL;Dic-26   56,00;;-;54
+NA;CALL;Dic-26   58,00;;-;25
+NA;CALL;Dic-26   60,00;;-;25
+NA;CALL;Mar-27   58,00;;-;25
+NA;CALL;Mar-27   60,00;;-;25
+NA;CALL;Mar-27   62,00;;-;25
+NA;CALL;Sep-27   44,00;;-;25
+NA;CALL;Sep-27   50,00;;-;25
+NA;CALL;Sep-27   52,00;;-;25
+NA;CALL;Sep-27   56,00;;-;25
+NA;CALL;May-26   48,00;;-;1
+NA;CALL;May-26   50,00;;-;1
+NA;CALL;May-26   54,00;;-;5
+NA;CALL;May-26   56,00;;-;100
+NA;CALL;Jun-26   35,00;;-;1
+NA;CALL;Jun-26   36,00;;-;1
+NA;CALL;Jun-26   37,00;;-;1
+NA;CALL;Jun-26   46,00;;-;6.350
+NA;CALL;Jun-26   47,00;;-;26
+NA;CALL;Jun-26   48,00;;-;4.030
+NA;CALL;Jun-26   50,00;;-;6
+NA;CALL;Jun-26   52,00;;-;50
+NA;CALL;Jun-26   54,00;;-;10.000
+NA;CALL;Jun-26   56,00;;-;50
+NA;CALL;Jun-26   58,00;;-;1.750
+NA;CALL;Jun-26   60,00;;-;25
+NA;CALL;Jun-26   62,00;;-;50
+NA;CALL;Jun-26   64,00;;-;50
+NA;CALL;Jul-26   58,00;;-;10
+NA;CALL;Sep-26   36,00;;-;25
+NA;CALL;Sep-26   42,00;;-;25
+NA;CALL;Sep-26   45,00;;-;25
+NA;CALL;Sep-26   48,00;;-;25
+NA;CALL;Sep-26   49,00;;-;5
+NA;CALL;Sep-26   50,00;;-;5
+NA;CALL;Sep-26   52,00;;-;3.000
+NA;CALL;Sep-26   54,00;;-;5
+NA;CALL;Sep-26   58,00;;-;25
+NA;CALL;Sep-26   64,00;;-;25
+NA;CALL;Dic-26   44,00;;-;1
+NA;CALL;Dic-26   49,00;;-;25
+NA;CALL;Dic-26   50,00;;-;25
+NA;CALL;Dic-26   54,00;;-;26
+NA;CALL;Dic-26   56,00;;-;25
+NA;CALL;Mar-27   39,00;;-;100
+NA;CALL;Mar-27   45,00;;-;25
+NA;CALL;Mar-27   46,00;;-;25
+NA;CALL;Mar-27   47,00;;-;25
+NA;CALL;Mar-27   48,00;;-;25
+NA;CALL;Mar-27   49,00;;-;75
+NA;CALL;Mar-27   50,00;;-;150
+NA;CALL;Mar-27   54,00;;-;25
+NA;CALL;Mar-27   56,00;;-;25
+NA;CALL;Mar-27   58,00;;-;25
+NA;CALL;Jun-27   60,00;;-;5
+NA;CALL;Sep-27   44,00;;-;1
+NA;CALL;Sep-27   47,00;;-;25
+NA;CALL;Sep-27   48,00;;-;50
+NA;CALL;Dic-27   35,00;;-;1
+NA;CALL;Dic-27   45,00;;-;25
+NA;CALL;Dic-27   54,00;;-;500
+NA;CALL;Jun-28   47,00;;-;25
+NA;CALL;Jun-28   48,00;;-;25
+NA;CALL;Jun-28   49,00;;-;25
+NA;CALL;Jun-28   50,00;;-;25
+NA;CALL;Jun-28   52,00;;-;25
+NA;CALL;Sep-26   60,00;;-;35
+NA;CALL;Dic-26   60,00;;-;60
+NA;CALL;Jun-26   52,00;;-;40
+NA;CALL;Jun-26   54,00;;-;15
+NA;CALL;Jun-26   60,00;;-;40
+NA;CALL;Sep-26   54,00;;-;15
+NA;CALL;Sep-26   60,00;;-;20
+NA;CALL;Sep-26   62,00;;-;115
+NA;CALL;Sep-26   64,00;;-;45
+NA;CALL;Dic-26   49,00;;-;25
+NA;CALL;Dic-26   50,00;;-;25
+NA;CALL;Mar-27   40,00;;-;300
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   22,00;;-;3
+NA;CALL;Jun-26   23,00;;-;1
+NA;CALL;Jun-26   27,00;;-;5
+NA;CALL;Sep-26   29,00;;-;200
+NA;CALL;May-26   17,50;;-;1
+NA;CALL;May-26   18,00;;-;2
+NA;CALL;May-26   20,00;;-;3
+NA;CALL;Jun-26   17,00;;-;1
+NA;CALL;Jun-26   18,00;;-;1
+NA;CALL;Jun-26   19,00;;-;1
+NA;CALL;Jun-26   20,00;;-;1
+NA;CALL;Jun-26   22,00;;-;15
+NA;CALL;Jun-26   23,00;;-;6
+NA;CALL;Jul-26   19,00;;-;2
+NA;CALL;Sep-26   28,00;;-;11
+NA;CALL;Dic-26   18,00;;-;600
+NA;CALL;Dic-26   21,00;;-;7
+NA;CALL;Dic-26   27,00;;-;11
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   9,00;;-;1
+NA;CALL;May-26   9,50;;-;10
+NA;CALL;May-26   9,75;;-;50
+NA;CALL;May-26   10,00;;-;68
+NA;CALL;May-26   10,50;;-;8
+NA;CALL;May-26   11,00;;-;5
+NA;CALL;Jun-26   8,00;;-;17
+NA;CALL;Jun-26   9,00;;-;10
+NA;CALL;Jun-26   9,25;;-;2
+NA;CALL;Jun-26   9,50;;-;32
+NA;CALL;Jun-26   9,75;;-;14
+NA;CALL;Jun-26   10,00;;-;61
+NA;CALL;Jun-26   10,50;;3;105
+NA;CALL;Jun-26   11,00;;-;53
+NA;CALL;Jun-26   12,00;;-;120
+NA;CALL;Jun-26   12,50;;-;51
+NA;CALL;Jun-26   13,00;;-;15
+NA;CALL;Jun-26   14,50;;-;21
+NA;CALL;Jun-26   15,00;;-;36
+NA;CALL;Sep-26   6,75;;-;11
+NA;CALL;Sep-26   9,00;;-;52
+NA;CALL;Sep-26   9,50;;-;151
+NA;CALL;Sep-26   9,75;;-;2
+NA;CALL;Sep-26   10,00;;-;119
+NA;CALL;Sep-26   10,50;;-;117
+NA;CALL;Sep-26   11,00;;-;1
+NA;CALL;Sep-26   11,50;;-;16
+NA;CALL;Sep-26   12,00;;3;116
+NA;CALL;Sep-26   12,50;;-;25
+NA;CALL;Dic-26   8,50;;-;3
+NA;CALL;Dic-26   9,00;;-;2
+NA;CALL;Dic-26   9,50;;-;313
+NA;CALL;Dic-26   9,75;;-;3
+NA;CALL;Dic-26   10,00;;-;84
+NA;CALL;Dic-26   10,50;;-;28
+NA;CALL;Dic-26   11,00;;-;1
+NA;CALL;Dic-26   11,50;;-;20
+NA;CALL;Dic-26   12,00;;-;34
+NA;CALL;Dic-26   12,50;;-;99
+NA;CALL;Dic-26   13,00;;-;1.274
+NA;CALL;Dic-26   13,50;;-;1.187
+NA;CALL;Dic-26   14,00;;-;25
+NA;CALL;Dic-26   14,50;;-;25
+NA;CALL;Dic-26   15,00;;-;36
+NA;CALL;Dic-26   15,50;;-;5
+NA;CALL;Dic-26   17,00;;-;25
+NA;CALL;Dic-26   17,50;;-;25
+NA;CALL;Mar-27   6,00;;-;5
+NA;CALL;Mar-27   6,25;;-;3
+NA;CALL;Mar-27   7,00;;-;3
+NA;CALL;Mar-27   7,50;;-;41
+NA;CALL;Mar-27   8,75;;-;160
+NA;CALL;Mar-27   9,00;;-;17
+NA;CALL;Mar-27   9,25;;-;12
+NA;CALL;Mar-27   10,50;;-;14
+NA;CALL;Mar-27   12,00;;-;5
+NA;CALL;Mar-27   13,00;;-;250
+NA;CALL;Mar-27   14,00;;-;15
+NA;CALL;Jun-27   9,00;;-;8
+NA;CALL;Jun-27   9,25;;-;3
+NA;CALL;Jun-27   12,50;;-;250
+NA;CALL;Jun-27   16,00;;-;850
+NA;CALL;Sep-27   15,00;;-;10
+NA;CALL;Dic-27   8,50;;-;3
+NA;CALL;Dic-27   8,75;;-;15
+NA;CALL;Dic-27   11,00;;-;1
+NA;CALL;Dic-27   11,50;;-;5
+NA;CALL;Mar-28   15,00;;-;1
+NA;CALL;Dic-28   12,00;;-;1
+NA;CALL;Dic-28   15,50;;-;3
+NA;CALL;Dic-28   16,50;;-;2
+NA;CALL;Dic-28   17,50;;-;2
+NA;CALL;May-26   7,25;;-;12
+NA;CALL;May-26   7,50;;-;6
+NA;CALL;May-26   7,75;;-;1
+NA;CALL;May-26   8,00;;-;110
+NA;CALL;May-26   8,25;;-;335
+NA;CALL;May-26   8,50;;-;67
+NA;CALL;May-26   8,75;;-;275
+NA;CALL;May-26   9,00;;-;177
+NA;CALL;May-26   9,25;;3;283
+NA;CALL;May-26   9,50;;-;123
+NA;CALL;May-26   9,75;;-;10
+NA;CALL;May-26   10,00;;-;54
+NA;CALL;May-26   10,50;;-;5
+NA;CALL;May-26   11,00;;-;16
+NA;CALL;Jun-26   5,75;;-;40
+NA;CALL;Jun-26   6,25;;-;5
+NA;CALL;Jun-26   6,75;;-;2
+NA;CALL;Jun-26   7,00;;-;2
+NA;CALL;Jun-26   7,50;;-;46
+NA;CALL;Jun-26   7,75;;-;4
+NA;CALL;Jun-26   8,00;;-;59
+NA;CALL;Jun-26   8,25;;5;379
+NA;CALL;Jun-26   8,50;;-;129
+NA;CALL;Jun-26   8,75;;-;82
+NA;CALL;Jun-26   9,00;;3;81
+NA;CALL;Jun-26   9,25;;-;327
+NA;CALL;Jun-26   9,50;;1;140
+NA;CALL;Jun-26   9,75;;-;277
+NA;CALL;Jun-26   10,00;;-;104
+NA;CALL;Jun-26   10,50;;-;826
+NA;CALL;Jun-26   11,00;;-;430
+NA;CALL;Jun-26   11,50;;-;21
+NA;CALL;Jun-26   12,00;;-;34
+NA;CALL;Jun-26   12,50;;-;15
+NA;CALL;Jun-26   14,00;;-;4
+NA;CALL;Jun-26   17,00;;-;5
+NA;CALL;Jun-26   20,00;;-;1
+NA;CALL;Jun-26   21,00;;-;9
+NA;CALL;Jul-26   7,75;;-;1
+NA;CALL;Jul-26   8,00;;-;1
+NA;CALL;Jul-26   8,25;;-;1
+NA;CALL;Jul-26   8,50;;3;29
+NA;CALL;Jul-26   8,75;;-;26
+NA;CALL;Jul-26   9,00;;-;28
+NA;CALL;Jul-26   9,75;;-;10
+NA;CALL;Sep-26   6,50;;-;10
+NA;CALL;Sep-26   7,25;;-;6
+NA;CALL;Sep-26   7,50;;-;7
+NA;CALL;Sep-26   7,75;;-;1
+NA;CALL;Sep-26   8,00;;-;31
+NA;CALL;Sep-26   8,25;;-;5
+NA;CALL;Sep-26   8,50;;-;99
+NA;CALL;Sep-26   8,75;;-;40
+NA;CALL;Sep-26   9,00;;-;56
+NA;CALL;Sep-26   9,25;;-;47
+NA;CALL;Sep-26   9,50;;-;41
+NA;CALL;Sep-26   9,75;;-;5
+NA;CALL;Sep-26   10,00;;-;24
+NA;CALL;Sep-26   10,50;;-;110
+NA;CALL;Sep-26   11,00;;-;77
+NA;CALL;Sep-26   11,50;;-;39
+NA;CALL;Sep-26   12,00;;-;22
+NA;CALL;Sep-26   16,00;;-;4
+NA;CALL;Dic-26   6,00;;-;25
+NA;CALL;Dic-26   6,25;;-;5
+NA;CALL;Dic-26   6,75;;-;24
+NA;CALL;Dic-26   7,25;;-;228
+NA;CALL;Dic-26   7,50;;-;29
+NA;CALL;Dic-26   7,75;;-;26
+NA;CALL;Dic-26   8,00;;-;271
+NA;CALL;Dic-26   8,25;;-;1
+NA;CALL;Dic-26   8,50;;-;754
+NA;CALL;Dic-26   8,75;;-;2
+NA;CALL;Dic-26   9,00;;-;33
+NA;CALL;Dic-26   9,25;;-;72
+NA;CALL;Dic-26   9,50;;-;121
+NA;CALL;Dic-26   9,75;;-;10
+NA;CALL;Dic-26   10,00;;-;1.994
+NA;CALL;Dic-26   11,00;;-;280
+NA;CALL;Dic-26   11,50;;-;7
+NA;CALL;Dic-26   12,00;;-;1
+NA;CALL;Dic-26   12,50;;-;1
+NA;CALL;Dic-26   13,00;;10;10
+NA;CALL;Dic-26   13,50;;20;20
+NA;CALL;Mar-27   6,25;;-;50
+NA;CALL;Mar-27   6,50;;-;17
+NA;CALL;Mar-27   6,75;;-;250
+NA;CALL;Mar-27   7,00;;-;13
+NA;CALL;Mar-27   7,25;;-;26
+NA;CALL;Mar-27   7,50;;-;64
+NA;CALL;Mar-27   7,75;;-;26
+NA;CALL;Mar-27   8,00;;-;27
+NA;CALL;Mar-27   8,50;;-;11
+NA;CALL;Mar-27   8,75;;-;1
+NA;CALL;Mar-27   9,00;;-;1.131
+NA;CALL;Mar-27   9,25;;-;2
+NA;CALL;Mar-27   10,00;;-;5
+NA;CALL;Mar-27   10,50;;-;14
+NA;CALL;Mar-27   16,00;;-;3
+NA;CALL;Jun-27   6,00;;-;20
+NA;CALL;Jun-27   12,00;;-;206
+NA;CALL;Jun-27   12,50;;-;397
+NA;CALL;Jun-27   13,00;;-;195
+NA;CALL;Dic-27   8,25;;-;1
+NA;CALL;Dic-27   8,75;;-;3
+NA;CALL;Dic-27   10,50;;-;242
+NA;CALL;Dic-27   11,00;;-;228
+NA;CALL;Dic-27   11,50;;-;30
+NA;CALL;Mar-28   9,50;;-;268
+NA;CALL;Jun-28   6,00;;-;25
+NA;CALL;Jun-28   8,25;;-;2
+NA;CALL;Dic-28   6,50;;-;25
+NA;CALL;Dic-28   7,00;;-;1
+NA;CALL;Dic-28   8,00;;-;4
+NA;CALL;Jun-29   8,50;;-;2
+NA;CALL;Dic-29   8,50;;-;3
+NA;CALL;Dic-30   10,00;;-;15
+NA;CALL;Jun-26   11,50;;-;55
+NA;CALL;Dic-26   11,50;;-;65
+NA;CALL;Dic-26   15,00;;-;15
+NA;CALL;Jun-27   11,50;;-;50
+NA;CALL;Dic-27   11,50;;-;30
+NA;CALL;Jun-28   11,50;;-;60
+NA;CALL;May-26   9,75;;-;20
+NA;CALL;Jun-26   8,50;;-;10
+NA;CALL;Jun-26   9,00;;-;10
+NA;CALL;Sep-26   9,00;;-;10
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   4,20;;-;4
+NA;CALL;May-26   4,30;;-;20
+NA;CALL;May-26   4,40;;-;16
+NA;CALL;May-26   4,50;;-;31
+NA;CALL;May-26   4,60;;-;12
+NA;CALL;May-26   4,70;;-;20
+NA;CALL;May-26   4,80;;-;10
+NA;CALL;May-26   4,90;;-;31
+NA;CALL;May-26   5,00;;-;50
+NA;CALL;Jun-26   3,00;;-;1
+NA;CALL;Jun-26   3,80;;-;4
+NA;CALL;Jun-26   3,90;;-;10
+NA;CALL;Jun-26   4,00;;-;2
+NA;CALL;Jun-26   4,10;;-;8
+NA;CALL;Jun-26   4,20;;5;4
+NA;CALL;Jun-26   4,30;;-;8
+NA;CALL;Jun-26   4,40;;-;41
+NA;CALL;Jun-26   4,50;;10;277
+NA;CALL;Jun-26   4,60;;-;33
+NA;CALL;Jun-26   4,70;;-;30
+NA;CALL;Jun-26   4,80;;-;65
+NA;CALL;Jun-26   4,90;;-;11
+NA;CALL;Jun-26   5,00;;-;22
+NA;CALL;Jun-26   5,25;;-;22
+NA;CALL;Jun-26   5,50;;-;25
+NA;CALL;Jun-26   5,75;;-;20
+NA;CALL;Jul-26   4,30;;-;100
+NA;CALL;Sep-26   2,60;;-;10
+NA;CALL;Sep-26   3,00;;-;1
+NA;CALL;Sep-26   3,80;;-;10
+NA;CALL;Sep-26   4,00;;-;6
+NA;CALL;Sep-26   4,20;;-;16
+NA;CALL;Sep-26   4,30;;-;5
+NA;CALL;Sep-26   4,40;;-;6
+NA;CALL;Sep-26   4,50;;-;14
+NA;CALL;Sep-26   4,60;;-;59
+NA;CALL;Sep-26   4,70;;-;1
+NA;CALL;Sep-26   4,80;;-;3
+NA;CALL;Sep-26   4,90;;-;12
+NA;CALL;Sep-26   5,00;;-;54
+NA;CALL;Sep-26   5,25;;3;60
+NA;CALL;Sep-26   5,50;;-;97
+NA;CALL;Sep-26   5,75;;-;57
+NA;CALL;Sep-26   6,00;;-;30
+NA;CALL;Dic-26   2,40;;-;9
+NA;CALL;Dic-26   2,90;;-;1
+NA;CALL;Dic-26   3,00;;-;1
+NA;CALL;Dic-26   3,50;;-;1
+NA;CALL;Dic-26   4,00;;-;2
+NA;CALL;Dic-26   4,20;;-;20
+NA;CALL;Dic-26   4,30;;-;3
+NA;CALL;Dic-26   4,40;;-;3
+NA;CALL;Dic-26   4,50;;-;6
+NA;CALL;Dic-26   4,80;;-;2
+NA;CALL;Dic-26   4,90;;-;1
+NA;CALL;Dic-26   5,00;;-;1.001
+NA;CALL;Dic-26   5,25;;-;210
+NA;CALL;Dic-26   5,50;;-;1.405
+NA;CALL;Dic-26   5,75;;-;4
+NA;CALL;Dic-26   6,00;;-;1
+NA;CALL;Mar-27   4,00;;-;3
+NA;CALL;Mar-27   4,10;;-;1
+NA;CALL;Mar-27   4,20;;-;6
+NA;CALL;Mar-27   4,30;;-;5
+NA;CALL;Mar-27   4,60;;-;1
+NA;CALL;Mar-27   4,70;;-;3
+NA;CALL;Mar-27   4,80;;-;2
+NA;CALL;Mar-27   5,00;;-;3
+NA;CALL;Jun-27   2,00;;-;2
+NA;CALL;Jun-27   2,20;;-;25
+NA;CALL;Jun-27   2,30;;-;25
+NA;CALL;Jun-27   2,40;;-;25
+NA;CALL;Jun-27   3,00;;-;5
+NA;CALL;Jun-27   4,00;;-;3
+NA;CALL;Jun-27   4,10;;-;2
+NA;CALL;Jun-27   4,40;;-;3
+NA;CALL;Jun-27   4,50;;-;1
+NA;CALL;Jun-27   4,90;;-;3
+NA;CALL;Jun-27   5,00;;-;2
+NA;CALL;Sep-27   4,50;;-;1
+NA;CALL;Dic-27   2,00;;-;25
+NA;CALL;Dic-27   2,10;;-;25
+NA;CALL;Dic-27   2,20;;-;25
+NA;CALL;Dic-27   2,30;;-;25
+NA;CALL;Dic-27   2,40;;-;25
+NA;CALL;Dic-27   3,70;;-;1
+NA;CALL;Dic-27   4,50;;-;1
+NA;CALL;Mar-28   6,00;;-;2
+NA;CALL;Jun-28   5,00;;-;1
+NA;CALL;May-26   3,80;;-;10
+NA;CALL;May-26   4,00;;-;17
+NA;CALL;May-26   4,10;;-;261
+NA;CALL;May-26   4,20;;-;250
+NA;CALL;May-26   4,30;;-;18
+NA;CALL;May-26   4,40;;-;2
+NA;CALL;May-26   4,50;;-;6
+NA;CALL;May-26   4,80;;-;5
+NA;CALL;Jun-26   2,40;;-;3
+NA;CALL;Jun-26   2,70;;-;10
+NA;CALL;Jun-26   2,80;;-;50
+NA;CALL;Jun-26   2,90;;-;2
+NA;CALL;Jun-26   3,00;;-;50
+NA;CALL;Jun-26   3,20;;-;40
+NA;CALL;Jun-26   3,30;;-;40
+NA;CALL;Jun-26   3,40;;-;70
+NA;CALL;Jun-26   3,50;;-;61
+NA;CALL;Jun-26   3,60;;-;70
+NA;CALL;Jun-26   3,70;;-;1
+NA;CALL;Jun-26   3,80;;-;25
+NA;CALL;Jun-26   3,90;;10;10
+NA;CALL;Jun-26   4,00;;-;34
+NA;CALL;Jun-26   4,10;;-;126
+NA;CALL;Jun-26   4,20;;-;4
+NA;CALL;Jun-26   4,30;;-;6
+NA;CALL;Jun-26   4,40;;-;35
+NA;CALL;Jun-26   4,50;;-;9
+NA;CALL;Jun-26   4,60;;-;6
+NA;CALL;Jun-26   4,70;;-;21
+NA;CALL;Jun-26   4,80;;-;31
+NA;CALL;Jun-26   4,90;;-;28
+NA;CALL;Jun-26   5,00;;-;81
+NA;CALL;Jun-26   5,25;;-;2
+NA;CALL;Jun-26   5,75;;-;1
+NA;CALL;Jun-26   6,00;;-;4
+NA;CALL;Jul-26   4,00;;-;1
+NA;CALL;Sep-26   2,20;;-;3
+NA;CALL;Sep-26   2,50;;-;65
+NA;CALL;Sep-26   3,20;;-;50
+NA;CALL;Sep-26   3,30;;-;15
+NA;CALL;Sep-26   3,50;;-;18
+NA;CALL;Sep-26   3,90;;-;5
+NA;CALL;Sep-26   4,00;;-;206
+NA;CALL;Sep-26   4,10;;-;224
+NA;CALL;Sep-26   4,20;;-;2
+NA;CALL;Sep-26   4,40;;-;21
+NA;CALL;Sep-26   4,50;;-;70
+NA;CALL;Sep-26   4,70;;-;2
+NA;CALL;Sep-26   4,80;;-;81
+NA;CALL;Sep-26   4,90;;-;10
+NA;CALL;Sep-26   5,00;;-;101
+NA;CALL;Sep-26   6,25;;-;10
+NA;CALL;Dic-26   2,60;;-;4
+NA;CALL;Dic-26   2,80;;-;20
+NA;CALL;Dic-26   2,90;;-;20
+NA;CALL;Dic-26   3,30;;-;20
+NA;CALL;Dic-26   3,50;;-;25
+NA;CALL;Dic-26   3,70;;-;4
+NA;CALL;Dic-26   3,80;;-;150
+NA;CALL;Dic-26   3,90;;-;2
+NA;CALL;Dic-26   4,00;;-;817
+NA;CALL;Dic-26   4,10;;-;12
+NA;CALL;Dic-26   4,20;;-;55
+NA;CALL;Dic-26   4,30;;-;7
+NA;CALL;Dic-26   4,40;;-;54
+NA;CALL;Dic-26   4,50;;-;74
+NA;CALL;Dic-26   4,60;;-;13
+NA;CALL;Dic-26   4,80;;-;2
+NA;CALL;Dic-26   5,00;;-;7
+NA;CALL;Dic-26   6,00;;-;100
+NA;CALL;Mar-27   3,20;;-;40
+NA;CALL;Mar-27   3,50;;-;17
+NA;CALL;Mar-27   3,70;;-;20
+NA;CALL;Mar-27   4,00;;-;4
+NA;CALL;Mar-27   4,10;;-;1
+NA;CALL;Mar-27   4,40;;-;20
+NA;CALL;Mar-27   4,60;;-;25
+NA;CALL;Mar-27   4,70;;-;253
+NA;CALL;Mar-27   4,80;;-;2
+NA;CALL;Mar-27   5,00;;-;3
+NA;CALL;Jun-27   3,50;;-;30
+NA;CALL;Jun-27   4,00;;-;3
+NA;CALL;Jun-27   4,10;;-;2
+NA;CALL;Jun-27   4,40;;-;3
+NA;CALL;Jun-27   4,50;;-;1
+NA;CALL;Jun-27   5,00;;-;2
+NA;CALL;Sep-27   4,50;;-;2
+NA;CALL;Dic-27   3,20;;-;15.000
+NA;CALL;Dic-27   3,50;;-;20
+NA;CALL;Dic-27   4,00;;-;1
+NA;CALL;Dic-27   4,60;;-;25
+NA;CALL;Jun-26   4,20;;-;1
+NA;CALL;Dic-29   3,40;;-;2
+NA;CALL;Sep-26   4,40;;-;8
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   19,00;;-;55.001
+NA;CALL;May-26   20,00;;-;13
+NA;CALL;May-26   20,50;;-;6.251
+NA;CALL;May-26   21,00;;-;11.152
+NA;CALL;Jun-26   15,00;;-;1
+NA;CALL;Jun-26   15,50;;-;5
+NA;CALL;Jun-26   16,50;;-;1.017
+NA;CALL;Jun-26   17,00;;-;21.394
+NA;CALL;Jun-26   17,50;;-;1.536
+NA;CALL;Jun-26   18,00;;-;20.020
+NA;CALL;Jun-26   18,50;;-;2.101
+NA;CALL;Jun-26   19,00;;-;30.341
+NA;CALL;Jun-26   19,50;;-;153
+NA;CALL;Jun-26   20,00;;-;235
+NA;CALL;Jun-26   21,00;;-;1.700
+NA;CALL;Jun-26   22,00;;-;2.500
+NA;CALL;Jul-26   19,50;;-;25.000
+NA;CALL;Jul-26   20,00;;-;1
+NA;CALL;Sep-26   14,50;;-;51
+NA;CALL;Sep-26   15,00;;-;25
+NA;CALL;Sep-26   15,50;;-;28
+NA;CALL;Sep-26   16,50;;-;2
+NA;CALL;Sep-26   17,00;;-;15
+NA;CALL;Sep-26   17,50;;-;1
+NA;CALL;Sep-26   18,00;;-;93
+NA;CALL;Sep-26   19,00;;-;17
+NA;CALL;Sep-26   19,50;;-;30.000
+NA;CALL;Sep-26   20,00;;-;9
+NA;CALL;Sep-26   21,00;;-;184
+NA;CALL;Sep-26   22,00;;-;414
+NA;CALL;Dic-26   14,00;;10;40
+NA;CALL;Dic-26   14,50;;-;2
+NA;CALL;Dic-26   15,00;;-;8.029
+NA;CALL;Dic-26   15,50;;-;175
+NA;CALL;Dic-26   16,00;;-;21.677
+NA;CALL;Dic-26   16,50;;-;300
+NA;CALL;Dic-26   17,00;;-;10.500
+NA;CALL;Dic-26   17,50;;-;2
+NA;CALL;Dic-26   18,00;;-;19.513
+NA;CALL;Dic-26   18,50;;-;32
+NA;CALL;Dic-26   19,00;;100;99
+NA;CALL;Dic-26   19,50;;-;10.029
+NA;CALL;Dic-26   20,00;;-;6.548
+NA;CALL;Dic-26   21,00;;-;3
+NA;CALL;Dic-26   22,00;;-;10
+NA;CALL;Dic-26   23,00;;-;7
+NA;CALL;Dic-26   24,00;;-;1
+NA;CALL;Mar-27   12,00;;-;5
+NA;CALL;Mar-27   16,00;;-;10
+NA;CALL;Mar-27   16,50;;-;5
+NA;CALL;Mar-27   17,00;;-;50
+NA;CALL;Mar-27   18,00;;-;16
+NA;CALL;Mar-27   20,00;;-;58
+NA;CALL;Mar-27   21,00;;-;255
+NA;CALL;Mar-27   23,00;;-;15
+NA;CALL;Mar-27   26,00;;-;1
+NA;CALL;Jun-27   16,00;;-;50
+NA;CALL;Jun-27   17,00;;-;100
+NA;CALL;Jun-27   17,50;;-;100
+NA;CALL;Jun-27   18,50;;-;7
+NA;CALL;Jun-27   19,00;;-;5.500
+NA;CALL;Jun-27   19,50;;-;7
+NA;CALL;Jun-27   21,00;;-;1.005
+NA;CALL;Sep-27   16,50;;-;10.100
+NA;CALL;Sep-27   17,00;;-;100
+NA;CALL;Sep-27   17,50;;-;100
+NA;CALL;Dic-27   10,00;;-;30
+NA;CALL;Dic-27   13,00;;-;66.405
+NA;CALL;Dic-27   14,00;;-;5
+NA;CALL;Dic-27   14,50;;-;20.000
+NA;CALL;Dic-27   15,00;;-;6
+NA;CALL;Dic-27   16,00;;-;26
+NA;CALL;Dic-27   16,50;;-;25
+NA;CALL;Dic-27   17,00;;-;7.530
+NA;CALL;Dic-27   17,50;;-;25
+NA;CALL;Dic-27   18,00;;-;10.000
+NA;CALL;Dic-27   18,50;;-;251
+NA;CALL;Dic-27   19,00;;-;156
+NA;CALL;Dic-27   19,50;;-;150
+NA;CALL;Dic-27   20,00;;-;13.110
+NA;CALL;Dic-27   21,00;;-;10
+NA;CALL;Dic-27   22,00;;-;5.004
+NA;CALL;Dic-27   23,00;;-;5
+NA;CALL;Dic-27   24,00;;-;9
+NA;CALL;Dic-27   25,00;;-;2
+NA;CALL;Mar-28   19,00;;-;1
+NA;CALL;Mar-28   20,00;;1;121
+NA;CALL;Mar-28   21,00;;-;5
+NA;CALL;Dic-28   16,00;;-;5.000
+NA;CALL;Dic-28   18,00;;-;500
+NA;CALL;Dic-28   18,50;;-;25
+NA;CALL;Dic-28   19,00;;-;1
+NA;CALL;Dic-28   24,00;;-;5
+NA;CALL;Dic-29   15,00;;-;1
+NA;CALL;Dic-29   18,00;;-;6.000
+NA;CALL;Dic-29   19,00;;-;25
+NA;CALL;Dic-30   18,00;;-;225
+NA;CALL;May-26   17,00;;-;2
+NA;CALL;May-26   18,00;;-;3
+NA;CALL;May-26   18,50;;-;4
+NA;CALL;May-26   19,00;;7;55.022
+NA;CALL;May-26   19,50;;-;8
+NA;CALL;May-26   20,00;;-;12.001
+NA;CALL;Jun-26   10,00;;-;25
+NA;CALL;Jun-26   12,00;;-;3
+NA;CALL;Jun-26   13,00;;-;7.251
+NA;CALL;Jun-26   13,50;;-;304
+NA;CALL;Jun-26   14,00;;-;1.000
+NA;CALL;Jun-26   14,50;;-;172
+NA;CALL;Jun-26   15,00;;-;13.150
+NA;CALL;Jun-26   15,50;;-;109
+NA;CALL;Jun-26   16,00;;-;20.004
+NA;CALL;Jun-26   16,50;;-;6.287
+NA;CALL;Jun-26   17,00;;-;8.011
+NA;CALL;Jun-26   17,50;;-;94.503
+NA;CALL;Jun-26   18,00;;-;27.014
+NA;CALL;Jun-26   18,50;;-;66.500
+NA;CALL;Jun-26   19,00;;-;48.015
+NA;CALL;Jun-26   19,50;;37.500;45.505
+NA;CALL;Jun-26   20,00;;-;5.001
+NA;CALL;Jun-26   21,00;;-;7
+NA;CALL;Jul-26   17,00;;-;5
+NA;CALL;Jul-26   18,00;;2;6
+NA;CALL;Jul-26   19,50;;-;25.000
+NA;CALL;Sep-26   9,75;;-;25
+NA;CALL;Sep-26   13,00;;-;153
+NA;CALL;Sep-26   13,50;;-;44
+NA;CALL;Sep-26   14,00;;-;135
+NA;CALL;Sep-26   14,50;;-;135
+NA;CALL;Sep-26   15,00;;-;51
+NA;CALL;Sep-26   15,50;;-;12
+NA;CALL;Sep-26   16,00;;-;1
+NA;CALL;Sep-26   16,50;;-;63
+NA;CALL;Sep-26   17,00;;-;5.020
+NA;CALL;Sep-26   17,50;;-;12
+NA;CALL;Sep-26   18,00;;-;540
+NA;CALL;Sep-26   18,50;;-;30.002
+NA;CALL;Sep-26   19,00;;-;23.029
+NA;CALL;Sep-26   19,50;;-;5
+NA;CALL;Sep-26   20,00;;-;7
+NA;CALL;Sep-26   21,00;;-;12
+NA;CALL;Dic-26   9,00;;-;2.000
+NA;CALL;Dic-26   9,50;;-;2
+NA;CALL;Dic-26   9,75;;-;25
+NA;CALL;Dic-26   10,50;;-;502
+NA;CALL;Dic-26   11,00;;-;1.348
+NA;CALL;Dic-26   11,50;;-;26
+NA;CALL;Dic-26   12,00;;-;10.150
+NA;CALL;Dic-26   13,00;;-;21
+NA;CALL;Dic-26   13,50;;-;10.000
+NA;CALL;Dic-26   14,00;;-;15.010
+NA;CALL;Dic-26   14,50;;-;23
+NA;CALL;Dic-26   15,00;;-;2
+NA;CALL;Dic-26   15,50;;-;30
+NA;CALL;Dic-26   16,00;;4;34.289
+NA;CALL;Dic-26   16,50;;-;260
+NA;CALL;Dic-26   17,00;;-;67.050
+NA;CALL;Dic-26   17,50;;-;10.002
+NA;CALL;Dic-26   18,00;;100;83.678
+NA;CALL;Dic-26   18,50;;-;7.404
+NA;CALL;Dic-26   19,50;;-;26
+NA;CALL;Dic-26   20,00;;-;14.703
+NA;CALL;Dic-26   21,00;;-;1
+NA;CALL;Mar-27   10,50;;-;1
+NA;CALL;Mar-27   14,00;;-;1
+NA;CALL;Mar-27   15,00;;-;1
+NA;CALL;Mar-27   18,00;;-;4
+NA;CALL;Mar-27   18,50;;-;1
+NA;CALL;Mar-27   19,00;;-;3
+NA;CALL;Mar-27   22,00;;-;10
+NA;CALL;Jun-27   15,00;;-;10
+NA;CALL;Jun-27   16,00;;-;1.000
+NA;CALL;Jun-27   17,00;;-;5.500
+NA;CALL;Jun-27   18,00;;-;4
+NA;CALL;Jun-27   19,00;;-;9
+NA;CALL;Jun-27   19,50;;-;50
+NA;CALL;Jun-27   20,00;;-;13
+NA;CALL;Sep-27   16,00;;-;35.000
+NA;CALL;Sep-27   16,50;;-;200
+NA;CALL;Sep-27   17,00;;-;100
+NA;CALL;Sep-27   17,50;;-;200
+NA;CALL;Sep-27   18,00;;-;5.300
+NA;CALL;Sep-27   19,00;;-;50
+NA;CALL;Sep-27   19,50;;-;50
+NA;CALL;Sep-27   20,00;;-;25
+NA;CALL;Dic-27   9,50;;-;2.000
+NA;CALL;Dic-27   10,00;;-;5
+NA;CALL;Dic-27   11,50;;-;1.800
+NA;CALL;Dic-27   12,00;;-;30.000
+NA;CALL;Dic-27   13,00;;-;35.000
+NA;CALL;Dic-27   14,00;;-;10.000
+NA;CALL;Dic-27   14,50;;-;20.000
+NA;CALL;Dic-27   16,00;;-;25.000
+NA;CALL;Dic-27   16,50;;-;2
+NA;CALL;Dic-27   17,00;;-;2.750
+NA;CALL;Dic-27   17,50;;-;410
+NA;CALL;Dic-27   18,00;;-;400
+NA;CALL;Dic-27   18,50;;-;175
+NA;CALL;Dic-27   19,00;;-;1.800
+NA;CALL;Dic-27   19,50;;-;25
+NA;CALL;Dic-27   20,00;;-;12
+NA;CALL;Mar-28   18,00;;-;200
+NA;CALL;Dic-28   15,00;;-;5.000
+NA;CALL;Dic-29   19,00;;-;2
+NA;CALL;Dic-30   14,50;;-;5
+NA;CALL;Jun-26   13,50;;-;152
+NA;CALL;Jun-26   14,00;;-;302
+NA;CALL;Jun-26   14,50;;-;502
+NA;CALL;Jun-26   20,00;;-;1
+NA;CALL;Jun-26   21,00;;-;1
+NA;CALL;Dic-26   17,00;;-;1
+NA;CALL;Dic-26   18,50;;-;200
+NA;CALL;Dic-26   19,00;;-;50
+NA;CALL;Dic-26   22,00;;-;1
+NA;CALL;Dic-27   12,00;;-;2.000
+NA;CALL;May-26   19,50;;-;1
+NA;CALL;May-26   20,00;;-;10
+NA;CALL;Jun-26   15,50;;-;20
+NA;CALL;Jun-26   17,00;;-;2
+NA;CALL;Jun-26   19,00;;-;4
+NA;CALL;Jun-26   19,50;;-;500
+NA;CALL;Jun-26   19,50;;-;10
+NA;CALL;Jun-26   21,00;;-;2
+NA;CALL;Sep-26   13,00;;-;500
+NA;CALL;Sep-26   15,00;;-;800
+NA;CALL;Sep-26   18,50;;-;25
+NA;CALL;Dic-26   15,00;;-;600
+NA;CALL;Dic-26   16,00;;-;1
+NA;CALL;Dic-26   19,00;;-;21
+NA;CALL;Dic-27   12,00;;-;2.000
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   50,31;;-;150
+NA;CALL;May-26   54,17;;-;5
+NA;CALL;May-26   58,05;;-;150
+NA;CALL;May-26   61,92;;-;1
+NA;CALL;Jun-26   32,90;;-;3
+NA;CALL;Jun-26   46,44;;-;25
+NA;CALL;Jun-26   50,31;;-;103
+NA;CALL;Jun-26   52,00;;-;3
+NA;CALL;Jun-26   52,25;;-;257
+NA;CALL;Jun-26   54,17;;-;253
+NA;CALL;Jun-26   56,11;;-;79
+NA;CALL;Jun-26   58,05;;-;92
+NA;CALL;Jun-26   59,99;;-;300
+NA;CALL;Jun-26   61,92;;-;25
+NA;CALL;Jun-26   63,85;;-;32
+NA;CALL;Jun-26   67,72;;-;1
+NA;CALL;Sep-26   40,63;;-;25
+NA;CALL;Sep-26   41,60;;-;50
+NA;CALL;Sep-26   43,54;;-;50
+NA;CALL;Sep-26   44,49;;-;25
+NA;CALL;Sep-26   45,47;;-;75
+NA;CALL;Sep-26   46,44;;-;50
+NA;CALL;Sep-26   47,41;;-;50
+NA;CALL;Sep-26   48,38;;-;25
+NA;CALL;Sep-26   50,31;;-;25
+NA;CALL;Sep-26   52,25;;-;102
+NA;CALL;Sep-26   54,17;;-;280
+NA;CALL;Sep-26   56,11;;-;1.736
+NA;CALL;Sep-26   58,05;;-;16
+NA;CALL;Sep-26   59,99;;-;150
+NA;CALL;Sep-26   61,92;;-;25
+NA;CALL;Dic-26   35,80;;-;3
+NA;CALL;Dic-26   38,70;;-;1
+NA;CALL;Dic-26   39,67;;-;52
+NA;CALL;Dic-26   40,63;;-;25
+NA;CALL;Dic-26   44,49;;-;120
+NA;CALL;Dic-26   46,44;;-;26
+NA;CALL;Dic-26   47,41;;-;25
+NA;CALL;Dic-26   48,38;;-;250
+NA;CALL;Dic-26   50,31;;-;50
+NA;CALL;Dic-26   52,25;;1;25
+NA;CALL;Dic-26   54,17;;-;60
+NA;CALL;Dic-26   56,11;;-;50
+NA;CALL;Dic-26   58,05;;-;645
+NA;CALL;Dic-26   59,99;;-;204
+NA;CALL;Dic-26   61,92;;-;250
+NA;CALL;Dic-26   63,85;;-;210
+NA;CALL;Dic-26   65,78;;-;16
+NA;CALL;Dic-26   67,72;;-;15
+NA;CALL;Dic-26   69,66;;-;11
+NA;CALL;Dic-26   71,60;;-;1
+NA;CALL;Mar-27   52,25;;-;100
+NA;CALL;Mar-27   54,17;;1;1
+NA;CALL;Mar-27   63,85;;-;400
+NA;CALL;Mar-27   65,78;;-;300
+NA;CALL;Mar-27   67,72;;-;75
+NA;CALL;Jun-27   32,90;;-;1
+NA;CALL;Jun-27   38,70;;-;150
+NA;CALL;Jun-27   45,47;;-;25
+NA;CALL;Jun-27   46,44;;-;5
+NA;CALL;Jun-27   50,31;;-;25
+NA;CALL;Jun-27   58,05;;-;150
+NA;CALL;Jun-27   59,99;;-;155
+NA;CALL;Jun-27   61,92;;-;100
+NA;CALL;Jun-27   69,66;;-;100
+NA;CALL;Jun-27   71,60;;-;25
+NA;CALL;Jun-27   73,53;;-;50
+NA;CALL;Sep-27   59,99;;-;25
+NA;CALL;Sep-27   63,85;;-;25
+NA;CALL;Sep-27   69,66;;-;1
+NA;CALL;Sep-27   71,60;;-;25
+NA;CALL;Dic-27   37,73;;-;25
+NA;CALL;Dic-27   38,70;;-;1
+NA;CALL;Dic-27   39,67;;-;1
+NA;CALL;Dic-27   43,54;;-;50
+NA;CALL;Dic-27   45,47;;-;25
+NA;CALL;Dic-27   47,41;;-;25
+NA;CALL;Dic-27   52,25;;-;25
+NA;CALL;Dic-27   54,17;;-;25
+NA;CALL;Dic-27   59,99;;-;25
+NA;CALL;Dic-27   61,92;;-;175
+NA;CALL;Dic-27   63,85;;-;200
+NA;CALL;Mar-28   33,30;;-;1
+NA;CALL;Mar-28   52,89;;-;50
+NA;CALL;Mar-28   54,86;;-;75
+NA;CALL;Mar-28   56,81;;-;75
+NA;CALL;Mar-28   58,77;;-;50
+NA;CALL;Mar-28   60,73;;-;25
+NA;CALL;Mar-28   64,65;;-;25
+NA;CALL;Mar-28   66,60;;-;25
+NA;CALL;Mar-28   68,56;;-;25
+NA;CALL;Mar-28   70,53;;-;25
+NA;CALL;Mar-28   72,49;;-;25
+NA;CALL;Jun-28   42,12;;-;25
+NA;CALL;Jun-28   43,10;;-;25
+NA;CALL;Jun-28   56,81;;-;25
+NA;CALL;Jun-28   58,77;;-;50
+NA;CALL;Jun-28   66,60;;-;50
+NA;CALL;Jun-28   68,56;;-;25
+NA;CALL;Jun-28   70,53;;-;25
+NA;CALL;Jun-28   72,49;;-;25
+NA;CALL;Dic-28   67,24;;-;490
+NA;CALL;Dic-29   43,51;;-;220
+NA;CALL;May-26   41,60;;-;10
+NA;CALL;May-26   43,54;;-;1
+NA;CALL;May-26   44,49;;-;1
+NA;CALL;May-26   45,47;;-;5
+NA;CALL;May-26   46,44;;-;2
+NA;CALL;May-26   48,38;;-;156
+NA;CALL;May-26   50,31;;1;117
+NA;CALL;May-26   52,25;;10;21
+NA;CALL;May-26   58,05;;-;150
+NA;CALL;Jun-26   26,12;;-;1
+NA;CALL;Jun-26   27,09;;-;1
+NA;CALL;Jun-26   31,93;;-;1
+NA;CALL;Jun-26   32,90;;-;25
+NA;CALL;Jun-26   33,87;;-;33
+NA;CALL;Jun-26   36,76;;-;2
+NA;CALL;Jun-26   37,73;;-;25
+NA;CALL;Jun-26   38,70;;-;11
+NA;CALL;Jun-26   39,67;;1;246
+NA;CALL;Jun-26   40,63;;-;151
+NA;CALL;Jun-26   41,60;;-;150
+NA;CALL;Jun-26   42,57;;-;170
+NA;CALL;Jun-26   43,54;;-;152
+NA;CALL;Jun-26   44,49;;-;2.057
+NA;CALL;Jun-26   45,47;;-;200
+NA;CALL;Jun-26   46,44;;-;53
+NA;CALL;Jun-26   47,41;;-;55
+NA;CALL;Jun-26   48,38;;6;350
+NA;CALL;Jun-26   50,31;;-;64
+NA;CALL;Jun-26   52,00;;-;1
+NA;CALL;Jun-26   52,25;;11;2.040
+NA;CALL;Jun-26   54,17;;-;27
+NA;CALL;Jun-26   56,11;;-;1
+NA;CALL;Jun-26   58,05;;-;150
+NA;CALL;Jun-26   59,99;;-;150
+NA;CALL;Jun-26   61,92;;-;150
+NA;CALL;Jun-26   63,85;;-;150
+NA;CALL;Jul-26   41,60;;-;1
+NA;CALL;Jul-26   42,57;;456;456
+NA;CALL;Jul-26   43,54;;1;1
+NA;CALL;Sep-26   35,80;;-;1
+NA;CALL;Sep-26   36,76;;-;27
+NA;CALL;Sep-26   38,70;;-;26
+NA;CALL;Sep-26   39,67;;-;26
+NA;CALL;Sep-26   40,63;;-;28
+NA;CALL;Sep-26   41,60;;-;200
+NA;CALL;Sep-26   42,57;;-;300
+NA;CALL;Sep-26   43,54;;-;25
+NA;CALL;Sep-26   44,49;;-;56
+NA;CALL;Sep-26   45,47;;-;54
+NA;CALL;Sep-26   46,44;;-;75
+NA;CALL;Sep-26   47,41;;-;25
+NA;CALL;Sep-26   48,38;;-;77
+NA;CALL;Sep-26   50,31;;-;350
+NA;CALL;Sep-26   52,00;;-;3.000
+NA;CALL;Sep-26   52,25;;-;25
+NA;CALL;Sep-26   54,17;;-;29
+NA;CALL;Dic-26   32,90;;-;26
+NA;CALL;Dic-26   33,87;;-;21
+NA;CALL;Dic-26   34,83;;-;25
+NA;CALL;Dic-26   35,80;;-;25
+NA;CALL;Dic-26   36,76;;-;36
+NA;CALL;Dic-26   37,73;;-;160
+NA;CALL;Dic-26   38,70;;-;160
+NA;CALL;Dic-26   39,67;;-;10
+NA;CALL;Dic-26   40,63;;-;2
+NA;CALL;Dic-26   41,60;;-;76
+NA;CALL;Dic-26   42,57;;-;150
+NA;CALL;Dic-26   43,54;;-;75
+NA;CALL;Dic-26   44,49;;-;50
+NA;CALL;Dic-26   45,47;;-;25
+NA;CALL;Dic-26   46,44;;-;29
+NA;CALL;Dic-26   47,41;;-;2.397
+NA;CALL;Dic-26   48,38;;-;76
+NA;CALL;Dic-26   50,31;;-;50
+NA;CALL;Dic-26   52,25;;-;25
+NA;CALL;Dic-26   54,17;;-;27
+NA;CALL;Dic-26   56,11;;-;35
+NA;CALL;Dic-26   59,99;;-;176
+NA;CALL;Mar-27   33,87;;-;50
+NA;CALL;Mar-27   34,83;;-;50
+NA;CALL;Mar-27   35,80;;-;75
+NA;CALL;Mar-27   36,76;;-;75
+NA;CALL;Mar-27   37,73;;-;25
+NA;CALL;Mar-27   38,70;;-;25
+NA;CALL;Mar-27   39,67;;-;51
+NA;CALL;Mar-27   40,63;;-;78
+NA;CALL;Mar-27   41,60;;-;1
+NA;CALL;Mar-27   44,49;;-;8
+NA;CALL;Mar-27   45,47;;-;3
+NA;CALL;Mar-27   50,31;;-;1
+NA;CALL;Jun-27   26,12;;-;1
+NA;CALL;Jun-27   30,96;;-;150
+NA;CALL;Jun-27   33,87;;-;200
+NA;CALL;Jun-27   34,83;;-;180
+NA;CALL;Jun-27   36,76;;-;25
+NA;CALL;Jun-27   38,70;;-;150
+NA;CALL;Jun-27   39,67;;-;101
+NA;CALL;Jun-27   41,60;;-;177
+NA;CALL;Jun-27   42,57;;-;150
+NA;CALL;Jun-27   43,54;;-;150
+NA;CALL;Jun-27   44,49;;-;50
+NA;CALL;Jun-27   46,44;;-;25
+NA;CALL;Jun-27   47,41;;-;150
+NA;CALL;Jun-27   48,38;;-;150
+NA;CALL;Jun-27   50,31;;-;3
+NA;CALL;Jun-27   52,25;;-;150
+NA;CALL;Jun-27   56,11;;-;25
+NA;CALL;Jun-27   65,78;;-;1
+NA;CALL;Sep-27   43,54;;-;25
+NA;CALL;Sep-27   44,49;;-;25
+NA;CALL;Sep-27   45,47;;-;25
+NA;CALL;Sep-27   46,44;;-;25
+NA;CALL;Dic-27   21,29;;-;2
+NA;CALL;Dic-27   33,87;;-;100
+NA;CALL;Dic-27   36,76;;-;25
+NA;CALL;Dic-27   37,73;;-;25
+NA;CALL;Dic-27   43,54;;-;10
+NA;CALL;Dic-27   45,47;;-;1.100
+NA;CALL;Dic-27   46,44;;-;150
+NA;CALL;Dic-27   47,41;;-;326
+NA;CALL;Dic-27   48,38;;-;175
+NA;CALL;Dic-27   50,31;;-;350
+NA;CALL;Dic-27   52,25;;-;375
+NA;CALL;Dic-27   54,17;;-;450
+NA;CALL;Dic-27   56,11;;-;450
+NA;CALL;Jun-28   43,10;;-;25
+NA;CALL;Jun-28   44,08;;-;25
+NA;CALL;Jun-28   45,06;;-;25
+NA;CALL;Jun-28   47,99;;-;25
+NA;CALL;Dic-28   51,42;;-;25
+NA;CALL;Dic-29   43,51;;-;220
+NA;CALL;May-26   54,17;;-;3
+NA;CALL;May-26   56,11;;-;2
+NA;CALL;May-26   58,05;;-;3
+NA;CALL;Jun-26   41,60;;-;2
+NA;CALL;Jun-26   49,44;;-;5
+NA;CALL;Jun-26   52,25;;-;30
+NA;CALL;Jun-26   59,33;;-;5
+NA;CALL;Jun-26   59,99;;-;35
+NA;CALL;Jun-26   61,30;;-;5
+NA;CALL;Sep-26   49,44;;-;5
+NA;CALL;Sep-26   54,17;;-;1
+NA;CALL;Sep-26   57,35;;-;5
+NA;CALL;Dic-26   56,11;;-;3
+NA;CALL;Dic-26   58,05;;-;1
+NA;CALL;May-26   51,42;;-;5
+NA;CALL;Jun-26   43,54;;-;5
+NA;CALL;Jun-26   50,31;;-;19
+NA;CALL;Jul-26   47,46;;-;5
+NA;CALL;Sep-26   41,60;;-;150
+NA;CALL;Sep-26   42,57;;-;150
+NA;CALL;Dic-26   46,44;;-;1
+NA;CALL;Mar-27   47,41;;-;1
+NA;CALL;Mar-27   54,17;;-;12
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   47,00;;-;20
+NA;CALL;May-26   49,00;;10;6
+NA;CALL;May-26   50,00;;-;5
+NA;CALL;May-26   52,00;;-;4
+NA;CALL;May-26   54,00;;-;100
+NA;CALL;May-26   56,00;;1;5
+NA;CALL;May-26   58,00;;-;30
+NA;CALL;May-26   60,00;;-;1
+NA;CALL;May-26   62,00;;-;5
+NA;CALL;May-26   64,00;;-;1
+NA;CALL;Jun-26   23,00;;-;82
+NA;CALL;Jun-26   35,00;;-;29
+NA;CALL;Jun-26   37,00;;-;7
+NA;CALL;Jun-26   38,00;;-;5
+NA;CALL;Jun-26   42,00;;-;8
+NA;CALL;Jun-26   44,00;;-;16
+NA;CALL;Jun-26   47,00;;-;80
+NA;CALL;Jun-26   50,00;;-;2
+NA;CALL;Jun-26   56,00;;-;13
+NA;CALL;Jun-26   58,00;;-;37
+NA;CALL;Jun-26   60,00;;-;1
+NA;CALL;Jun-26   66,00;;-;1
+NA;CALL;Jun-26   72,00;;-;5
+NA;CALL;Sep-26   18,00;;-;1
+NA;CALL;Sep-26   26,00;;-;1
+NA;CALL;Sep-26   37,00;;-;28
+NA;CALL;Sep-26   39,00;;-;1
+NA;CALL;Sep-26   48,00;;-;1
+NA;CALL;Sep-26   50,00;;-;100
+NA;CALL;Sep-26   52,00;;-;5
+NA;CALL;Sep-26   56,00;;-;2
+NA;CALL;Sep-26   60,00;;-;13
+NA;CALL;Sep-26   64,00;;-;2
+NA;CALL;Sep-26   68,00;;-;5
+NA;CALL;Sep-26   70,00;;-;2
+NA;CALL;Dic-26   30,00;;-;25
+NA;CALL;Dic-26   31,00;;-;25
+NA;CALL;Dic-26   32,00;;-;25
+NA;CALL;Dic-26   35,00;;-;25
+NA;CALL;Dic-26   45,00;;-;21
+NA;CALL;Dic-26   47,00;;-;4
+NA;CALL;Dic-26   48,00;;-;4
+NA;CALL;Dic-26   50,00;;-;5
+NA;CALL;Dic-26   54,00;;-;132
+NA;CALL;Dic-26   56,00;;-;50
+NA;CALL;Dic-26   58,00;;-;82
+NA;CALL;Dic-26   60,00;;-;439
+NA;CALL;Dic-26   62,00;;-;31
+NA;CALL;Dic-26   64,00;;-;8
+NA;CALL;Dic-26   66,00;;-;85
+NA;CALL;Mar-27   49,00;;-;1
+NA;CALL;Mar-27   62,00;;-;21
+NA;CALL;Mar-27   70,00;;-;4
+NA;CALL;Jun-27   41,00;;-;6
+NA;CALL;Jun-27   66,00;;-;1
+NA;CALL;Jun-27   70,00;;-;1
+NA;CALL;Jun-27   78,00;;-;2
+NA;CALL;May-26   35,00;;-;5
+NA;CALL;May-26   37,00;;-;6
+NA;CALL;May-26   38,00;;-;5
+NA;CALL;May-26   39,00;;-;2
+NA;CALL;May-26   40,00;;-;7
+NA;CALL;May-26   41,00;;-;3
+NA;CALL;May-26   43,00;;-;7
+NA;CALL;May-26   44,00;;-;1
+NA;CALL;May-26   45,00;;-;23
+NA;CALL;May-26   46,00;;-;1
+NA;CALL;May-26   47,00;;-;3
+NA;CALL;May-26   48,00;;-;6
+NA;CALL;May-26   49,00;;-;174
+NA;CALL;May-26   50,00;;-;44
+NA;CALL;May-26   52,00;;-;1
+NA;CALL;May-26   54,00;;-;4
+NA;CALL;May-26   56,00;;-;1
+NA;CALL;May-26   60,00;;-;35
+NA;CALL;Jun-26   20,00;;-;1
+NA;CALL;Jun-26   26,00;;-;25
+NA;CALL;Jun-26   27,00;;-;43
+NA;CALL;Jun-26   30,00;;-;26
+NA;CALL;Jun-26   31,00;;-;11
+NA;CALL;Jun-26   32,00;;-;1
+NA;CALL;Jun-26   34,00;;-;4
+NA;CALL;Jun-26   35,00;;-;13
+NA;CALL;Jun-26   40,50;;-;2
+NA;CALL;Jun-26   41,00;;-;1
+NA;CALL;Jun-26   42,50;;-;6
+NA;CALL;Jun-26   43,50;;-;6
+NA;CALL;Jun-26   44,00;;5;26
+NA;CALL;Jun-26   45,00;;5;30
+NA;CALL;Jun-26   47,00;;-;2
+NA;CALL;Jun-26   48,00;;-;1.012
+NA;CALL;Jun-26   49,00;;-;1
+NA;CALL;Jun-26   50,00;;-;1
+NA;CALL;Jun-26   54,00;;-;55
+NA;CALL;Jun-26   56,00;;-;21
+NA;CALL;Jul-26   46,00;;-;3
+NA;CALL;Sep-26   24,00;;-;4
+NA;CALL;Sep-26   26,00;;-;4
+NA;CALL;Sep-26   30,00;;-;45
+NA;CALL;Sep-26   31,00;;-;50
+NA;CALL;Sep-26   35,00;;-;1
+NA;CALL;Sep-26   37,00;;-;10
+NA;CALL;Sep-26   41,00;;-;20
+NA;CALL;Sep-26   42,00;;-;6
+NA;CALL;Sep-26   43,00;;-;3
+NA;CALL;Sep-26   44,00;;-;21
+NA;CALL;Sep-26   45,00;;-;2
+NA;CALL;Sep-26   46,00;;-;750
+NA;CALL;Sep-26   48,00;;-;11
+NA;CALL;Sep-26   50,00;;-;24
+NA;CALL;Sep-26   52,00;;-;71
+NA;CALL;Sep-26   56,00;;-;11
+NA;CALL;Dic-26   28,00;;-;1
+NA;CALL;Dic-26   30,00;;-;6
+NA;CALL;Dic-26   32,00;;-;10
+NA;CALL;Dic-26   35,00;;-;1
+NA;CALL;Dic-26   40,00;;-;1
+NA;CALL;Dic-26   42,00;;-;11
+NA;CALL;Dic-26   46,00;;-;2
+NA;CALL;Dic-26   47,00;;-;2
+NA;CALL;Dic-26   50,00;;-;6
+NA;CALL;Dic-26   52,00;;-;76
+NA;CALL;Dic-26   54,00;;-;50
+NA;CALL;Dic-26   60,00;;-;50
+NA;CALL;Dic-26   70,00;;-;1
+NA;CALL;Mar-27   42,00;;-;2
+NA;CALL;Mar-27   49,00;;-;20
+NA;CALL;Mar-27   50,00;;-;12
+NA;CALL;Mar-27   60,00;;-;3
+NA;CALL;Jun-27   49,00;;-;31
+NA;CALL;Dic-27   44,00;;-;500
+NA;CALL;Jun-26   52,00;;-;5
+NA;CALL;Jun-26   56,00;;-;6
+NA;CALL;Jun-26   58,00;;-;5
+NA;CALL;Jun-26   60,00;;-;90
+NA;CALL;Jun-26   68,00;;-;5
+NA;CALL;Dic-26   60,00;;-;100
+NA;CALL;May-26   50,00;;-;5
+NA;CALL;Jun-26   40,00;;-;90
+NA;CALL;Jun-26   45,00;;-;5
+NA;CALL;Jun-26   50,00;;-;5
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   78,00;;-;10
+NA;CALL;May-26   80,00;;-;5
+NA;CALL;May-26   84,00;;-;11
+NA;CALL;May-26   86,00;;-;9
+NA;CALL;Jun-26   70,00;;-;108
+NA;CALL;Jun-26   82,00;;-;1
+NA;CALL;Jul-26   90,00;;-;4
+NA;CALL;Sep-26   78,00;;-;750
+NA;CALL;Sep-26   88,00;;-;1
+NA;CALL;Sep-26   96,00;;-;15
+NA;CALL;Dic-26   80,00;;-;15
+NA;CALL;Dic-26   82,00;;-;15
+NA;CALL;Dic-26   84,00;;-;15
+NA;CALL;Dic-26   86,00;;-;15
+NA;CALL;Dic-26   88,00;;-;14
+NA;CALL;Dic-26   90,00;;-;14
+NA;CALL;Dic-26   92,00;;-;5
+NA;CALL;Dic-26   96,00;;-;5
+NA;CALL;Dic-26   100,00;;-;5
+NA;CALL;May-26   74,00;;-;1
+NA;CALL;May-26   76,00;;-;6
+NA;CALL;May-26   78,00;;-;25
+NA;CALL;May-26   80,00;;-;60
+NA;CALL;Jun-26   50,00;;-;1
+NA;CALL;Jun-26   54,00;;-;1
+NA;CALL;Jun-26   56,00;;-;1
+NA;CALL;Jun-26   76,00;;-;400
+NA;CALL;Jun-26   78,00;;-;1
+NA;CALL;Jun-26   80,00;;-;16
+NA;CALL;Sep-26   48,00;;-;1
+NA;CALL;Sep-26   64,00;;-;2
+NA;CALL;Sep-26   70,00;;-;1.500
+NA;CALL;Sep-26   72,00;;-;20
+NA;CALL;Sep-26   76,00;;-;400
+NA;CALL;Dic-26   66,00;;-;10
+NA;CALL;Dic-26   68,00;;-;65
+NA;CALL;Dic-26   76,00;;-;400
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   3,10;;-;2
+NA;CALL;May-26   3,80;;-;1
+NA;CALL;May-26   3,90;;-;5
+NA;CALL;May-26   4,10;;-;17
+NA;CALL;May-26   4,20;;-;23
+NA;CALL;Jun-26   2,60;;-;1
+NA;CALL;Jun-26   3,50;;-;5
+NA;CALL;Jun-26   3,60;;-;15
+NA;CALL;Jun-26   3,70;;-;5
+NA;CALL;Jun-26   3,80;;-;224
+NA;CALL;Jun-26   3,90;;-;1
+NA;CALL;Jun-26   4,00;;1;3
+NA;CALL;Jun-26   4,10;;-;20
+NA;CALL;Jun-26   4,20;;-;21
+NA;CALL;Jun-26   4,40;;-;33
+NA;CALL;Jun-26   4,50;;-;10
+NA;CALL;Jun-26   4,60;;-;2
+NA;CALL;Sep-26   3,80;;-;3
+NA;CALL;Sep-26   3,90;;-;10
+NA;CALL;Sep-26   4,10;;-;30
+NA;CALL;Sep-26   4,20;;-;783
+NA;CALL;Sep-26   4,30;;-;13
+NA;CALL;Sep-26   4,40;;-;3
+NA;CALL;Sep-26   4,50;;-;13
+NA;CALL;Sep-26   4,70;;-;15
+NA;CALL;Dic-26   3,90;;-;5
+NA;CALL;Dic-26   4,10;;-;35
+NA;CALL;Dic-26   4,30;;-;21
+NA;CALL;Dic-26   4,40;;-;1
+NA;CALL;Dic-26   4,50;;-;11
+NA;CALL;Mar-27   4,00;;-;1
+NA;CALL;Mar-27   4,90;;-;3
+NA;CALL;Jun-27   4,20;;-;7
+NA;CALL;Jun-27   5,00;;-;1
+NA;CALL;Dic-27   5,00;;-;5
+NA;CALL;May-26   3,50;;-;10
+NA;CALL;May-26   3,80;;-;10
+NA;CALL;Jun-26   2,00;;-;3
+NA;CALL;Jun-26   3,00;;-;15
+NA;CALL;Jun-26   3,50;;-;5
+NA;CALL;Jun-26   3,60;;-;5
+NA;CALL;Jun-26   3,70;;-;30
+NA;CALL;Jun-26   3,80;;-;1
+NA;CALL;Jun-26   4,00;;-;106
+NA;CALL;Jun-26   4,20;;-;1
+NA;CALL;Jun-26   4,90;;-;5
+NA;CALL;Sep-26   1,70;;-;20
+NA;CALL;Sep-26   3,30;;-;2
+NA;CALL;Sep-26   3,60;;-;5
+NA;CALL;Sep-26   3,70;;-;50
+NA;CALL;Sep-26   3,80;;-;30
+NA;CALL;Sep-26   3,90;;-;1
+NA;CALL;Sep-26   5,00;;-;9
+NA;CALL;Dic-26   3,60;;-;3
+NA;CALL;Dic-26   3,70;;-;116
+NA;CALL;Dic-26   3,80;;-;20
+NA;CALL;Dic-26   4,00;;-;5
+NA;CALL;Dic-26   4,20;;-;50
+NA;CALL;Dic-26   4,50;;-;20
+NA;CALL;Mar-27   3,50;;-;4
+NA;CALL;Mar-27   3,60;;-;1
+NA;CALL;Dic-27   3,60;;-;10
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   9,00;;-;22
+NA;CALL;Jun-26   7,00;;-;5
+NA;CALL;Jun-26   8,00;;-;10
+NA;CALL;Jun-26   9,00;;-;3
+NA;CALL;Jun-26   9,75;;-;22
+NA;CALL;Jul-26   12,00;;25;25
+NA;CALL;Sep-26   7,75;;-;5
+NA;CALL;Sep-26   8,00;;-;1.900
+NA;CALL;Sep-26   8,50;;-;8
+NA;CALL;Dic-26   10,00;;-;20
+NA;CALL;Mar-27   7,75;;-;10
+NA;CALL;Mar-27   8,75;;-;5
+NA;CALL;Mar-27   12,00;;-;400
+NA;CALL;Mar-27   12,50;;-;50
+NA;CALL;Jun-27   7,50;;-;5
+NA;CALL;Jun-27   7,75;;-;5
+NA;CALL;Sep-27   7,25;;-;5
+NA;CALL;Dic-27   7,00;;-;2
+NA;CALL;May-26   9,00;;-;20
+NA;CALL;Jun-26   8,00;;-;6
+NA;CALL;Jun-26   8,75;;-;1
+NA;CALL;Sep-26   11,00;;-;20
+NA;CALL;Dic-26   8,25;;-;30
+NA;CALL;Dic-26   11,00;;-;10
+NA;CALL;Mar-27   9,25;;-;50
+NA;CALL;Mar-27   9,50;;-;100
+NA;CALL;Mar-27   9,75;;-;25
+NA;CALL;Mar-27   11,00;;-;3
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   15,00;;-;6
+NA;CALL;Jun-26   11,00;;-;4
+NA;CALL;Jun-26   13,50;;-;25
+NA;CALL;Jun-26   14,50;;-;7
+NA;CALL;Jun-26   15,50;;-;25
+NA;CALL;Jun-26   16,00;;-;27
+NA;CALL;Sep-26   16,00;;-;24.000
+NA;CALL;Dic-26   15,50;;-;6
+NA;CALL;Dic-26   16,50;;-;24.000
+NA;CALL;May-26   13,00;;-;1
+NA;CALL;May-26   14,50;;-;3
+NA;CALL;Jun-26   8,75;;-;1
+NA;CALL;Jun-26   11,00;;-;514
+NA;CALL;Jun-26   12,00;;-;37
+NA;CALL;Jun-26   13,00;;-;1
+NA;CALL;Jun-26   14,00;;-;2
+NA;CALL;Jun-26   14,50;;-;70
+NA;CALL;Jul-26   13,50;;-;3
+NA;CALL;Sep-26   10,00;;-;1
+NA;CALL;Sep-26   12,00;;-;2
+NA;CALL;Sep-26   12,50;;-;1
+NA;CALL;Dic-26   11,00;;-;1.050
+NA;CALL;Dic-27   12,50;;-;5.000
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   26,00;;-;91
+NA;CALL;May-26   27,00;;-;99
+NA;CALL;May-26   28,00;;-;148
+NA;CALL;Jun-26   24,00;;-;1
+NA;CALL;Jun-26   25,00;;-;200
+NA;CALL;Jun-26   26,00;;-;85
+NA;CALL;Jun-26   27,00;;-;750
+NA;CALL;Jun-26   28,00;;-;3.112
+NA;CALL;Jun-26   29,00;;-;19
+NA;CALL;Jun-26   31,00;;-;10
+NA;CALL;Jun-26   32,00;;-;1
+NA;CALL;Jul-26   29,00;;-;1
+NA;CALL;Sep-26   22,00;;-;1
+NA;CALL;Sep-26   26,00;;-;5
+NA;CALL;Sep-26   27,00;;-;1.003
+NA;CALL;Sep-26   28,00;;-;123
+NA;CALL;Sep-26   29,00;;-;100
+NA;CALL;Sep-26   30,00;;-;2
+NA;CALL;Dic-26   23,00;;-;4
+NA;CALL;Dic-26   25,00;;-;373
+NA;CALL;Dic-26   26,00;;-;10
+NA;CALL;Dic-26   27,00;;-;11
+NA;CALL;Dic-26   28,00;;-;13
+NA;CALL;Dic-26   29,00;;-;495
+NA;CALL;Dic-26   30,00;;-;183
+NA;CALL;Mar-27   25,00;;-;2
+NA;CALL;Mar-27   26,00;;-;50
+NA;CALL;Mar-27   28,00;;-;13
+NA;CALL;Mar-27   29,00;;-;200
+NA;CALL;Mar-27   30,00;;-;300
+NA;CALL;Jun-27   25,00;;-;385
+NA;CALL;Jun-27   32,00;;-;400
+NA;CALL;May-26   22,00;;-;4
+NA;CALL;May-26   23,00;;-;5
+NA;CALL;May-26   24,00;;-;17
+NA;CALL;May-26   25,00;;-;9
+NA;CALL;May-26   26,00;;-;4
+NA;CALL;May-26   27,00;;40;22
+NA;CALL;May-26   28,00;;-;2
+NA;CALL;May-26   29,00;;-;20
+NA;CALL;Jun-26   18,50;;-;1
+NA;CALL;Jun-26   20,00;;-;3.000
+NA;CALL;Jun-26   21,00;;-;50
+NA;CALL;Jun-26   22,00;;-;16
+NA;CALL;Jun-26   23,00;;-;31
+NA;CALL;Jun-26   24,00;;10;3.050
+NA;CALL;Jun-26   25,00;;1;92
+NA;CALL;Jun-26   26,00;;-;30
+NA;CALL;Jun-26   27,00;;40;73
+NA;CALL;Jun-26   28,00;;-;22
+NA;CALL;Jul-26   25,00;;-;1
+NA;CALL;Jul-26   27,00;;-;1
+NA;CALL;Sep-26   18,00;;-;10
+NA;CALL;Sep-26   19,00;;-;25
+NA;CALL;Sep-26   19,50;;-;25
+NA;CALL;Sep-26   20,00;;-;26
+NA;CALL;Sep-26   21,00;;-;28
+NA;CALL;Sep-26   22,00;;-;27
+NA;CALL;Sep-26   23,00;;-;32
+NA;CALL;Sep-26   24,00;;-;323
+NA;CALL;Sep-26   25,00;;1;22
+NA;CALL;Sep-26   27,00;;-;9
+NA;CALL;Dic-26   18,00;;-;2
+NA;CALL;Dic-26   19,50;;-;5
+NA;CALL;Dic-26   20,00;;-;14
+NA;CALL;Dic-26   22,00;;-;2
+NA;CALL;Dic-26   23,00;;-;13
+NA;CALL;Dic-26   24,00;;-;2.142
+NA;CALL;Dic-26   25,00;;-;122
+NA;CALL;Dic-26   26,00;;-;76
+NA;CALL;Mar-27   18,00;;-;1
+NA;CALL;Mar-27   24,00;;-;1
+NA;CALL;Mar-27   26,00;;-;190
+NA;CALL;Sep-27   26,00;;-;95
+NA;CALL;Dic-27   26,00;;-;97
+NA;CALL;Jun-28   26,00;;95;95
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   0,55;;-;200
+NA;CALL;Jun-26   0,35;;-;1.005
+NA;CALL;Sep-26   0,25;;-;600
+NA;CALL;Dic-26   0,50;;-;1
+NA;CALL;Mar-28   0,50;;-;10
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   98,00;;-;3
+NA;CALL;May-26   100,00;;4;7
+NA;CALL;May-26   105,00;;-;3
+NA;CALL;Jun-26   64,00;;-;1
+NA;CALL;Jun-26   68,00;;-;1
+NA;CALL;Jun-26   70,00;;-;1
+NA;CALL;Jun-26   72,00;;-;1
+NA;CALL;Jun-26   76,00;;-;1
+NA;CALL;Jun-26   80,00;;-;3
+NA;CALL;Jun-26   96,00;;-;63
+NA;CALL;Jun-26   100,00;;-;1
+NA;CALL;Jun-26   105,00;;3;3
+NA;CALL;Jun-26   115,00;;-;1
+NA;CALL;Jun-26   120,00;;-;5
+NA;CALL;Jun-26   130,00;;-;1
+NA;CALL;Sep-26   78,00;;-;1
+NA;CALL;Sep-26   92,00;;-;4
+NA;CALL;Sep-26   120,00;;-;2
+NA;CALL;Sep-26   150,00;;-;4
+NA;CALL;Dic-26   76,00;;-;1
+NA;CALL;Dic-26   110,00;;-;1
+NA;CALL;May-26   66,00;;-;8
+NA;CALL;May-26   74,00;;-;2
+NA;CALL;May-26   82,00;;-;3
+NA;CALL;May-26   84,00;;-;4
+NA;CALL;May-26   86,00;;-;5
+NA;CALL;May-26   88,00;;-;2
+NA;CALL;May-26   92,00;;-;2
+NA;CALL;May-26   94,00;;1;1
+NA;CALL;Jun-26   35,00;;-;4
+NA;CALL;Jun-26   43,00;;-;8
+NA;CALL;Jun-26   45,00;;-;1
+NA;CALL;Jun-26   49,00;;-;2
+NA;CALL;Jun-26   62,00;;-;1
+NA;CALL;Jun-26   64,00;;-;6
+NA;CALL;Jun-26   66,00;;-;4
+NA;CALL;Jun-26   74,00;;-;1
+NA;CALL;Jun-26   76,00;;-;4
+NA;CALL;Jun-26   78,00;;-;1
+NA;CALL;Jun-26   80,00;;-;2
+NA;CALL;Jun-26   86,00;;-;2
+NA;CALL;Jul-26   88,00;;-;40
+NA;CALL;Jul-26   90,00;;-;15
+NA;CALL;Sep-26   45,00;;-;15
+NA;CALL;Sep-26   46,00;;-;9
+NA;CALL;Sep-26   47,00;;-;12
+NA;CALL;Sep-26   52,00;;-;1
+NA;CALL;Sep-26   54,00;;-;1
+NA;CALL;Sep-26   60,00;;-;5
+NA;CALL;Sep-26   62,00;;-;5
+NA;CALL;Sep-26   66,00;;-;3
+NA;CALL;Sep-26   74,00;;-;2
+NA;CALL;Sep-26   78,00;;-;1
+NA;CALL;Sep-26   80,00;;-;1
+NA;CALL;Sep-26   82,00;;-;5
+NA;CALL;Sep-26   88,00;;-;3
+NA;CALL;Sep-26   92,00;;-;1
+NA;CALL;Dic-26   48,00;;-;1
+NA;CALL;Dic-26   60,00;;-;2
+NA;CALL;Dic-26   62,00;;-;1
+NA;CALL;Dic-26   76,00;;-;15
+NA;CALL;Dic-26   78,00;;-;10
+NA;CALL;Mar-27   78,00;;-;1
+NA;CALL;Mar-27   80,00;;-;1
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   15,00;;-;5
+NA;CALL;May-26   16,00;;-;5
+NA;CALL;May-26   18,00;;-;17
+NA;CALL;May-26   18,50;;-;10
+NA;CALL;May-26   19,00;;-;6
+NA;CALL;May-26   20,00;;-;1
+NA;CALL;Jun-26   13,00;;-;17
+NA;CALL;Jun-26   14,00;;-;14
+NA;CALL;Jun-26   15,00;;-;1
+NA;CALL;Jun-26   16,00;;-;10
+NA;CALL;Jun-26   16,50;;-;8
+NA;CALL;Jun-26   17,00;;-;1
+NA;CALL;Jun-26   17,50;;-;113
+NA;CALL;Jun-26   18,50;;-;10
+NA;CALL;Jun-26   20,00;;-;3
+NA;CALL;Sep-26   11,00;;-;1
+NA;CALL;Sep-26   14,50;;-;3
+NA;CALL;Sep-26   16,00;;-;5
+NA;CALL;Sep-26   19,00;;-;1
+NA;CALL;Sep-26   21,00;;188;8.553
+NA;CALL;Dic-26   15,00;;-;1
+NA;CALL;Dic-26   16,50;;-;2
+NA;CALL;Dic-26   17,00;;-;10
+NA;CALL;Dic-26   19,00;;-;1
+NA;CALL;Dic-26   19,50;;-;20
+NA;CALL;Jun-27   15,50;;-;4
+NA;CALL;May-26   12,00;;-;1
+NA;CALL;May-26   13,00;;-;28
+NA;CALL;May-26   14,50;;-;1
+NA;CALL;May-26   16,00;;-;11
+NA;CALL;May-26   16,50;;-;20
+NA;CALL;May-26   17,00;;-;50
+NA;CALL;May-26   17,50;;-;16
+NA;CALL;May-26   18,00;;-;13
+NA;CALL;Jun-26   11,50;;-;4
+NA;CALL;Jun-26   12,00;;-;2.168
+NA;CALL;Jun-26   13,00;;-;28
+NA;CALL;Jun-26   13,50;;-;526
+NA;CALL;Jun-26   14,00;;-;7
+NA;CALL;Jun-26   14,50;;-;140
+NA;CALL;Jun-26   15,00;;7;496
+NA;CALL;Jun-26   15,50;;-;18
+NA;CALL;Jun-26   16,00;;-;107
+NA;CALL;Jun-26   16,50;;-;1
+NA;CALL;Jun-26   17,00;;-;7
+NA;CALL;Jun-26   18,00;;-;11
+NA;CALL;Sep-26   12,00;;-;5
+NA;CALL;Sep-26   12,50;;-;13
+NA;CALL;Sep-26   13,00;;-;21
+NA;CALL;Sep-26   13,50;;-;8
+NA;CALL;Sep-26   14,00;;-;10
+NA;CALL;Sep-26   14,50;;-;1
+NA;CALL;Sep-26   15,00;;-;8.340
+NA;CALL;Sep-26   16,00;;-;236
+NA;CALL;Sep-26   16,50;;-;3
+NA;CALL;Dic-26   11,00;;-;2
+NA;CALL;Dic-26   12,00;;-;2
+NA;CALL;Dic-26   12,50;;-;5
+NA;CALL;Dic-26   13,00;;-;2
+NA;CALL;Dic-26   13,50;;-;4
+NA;CALL;Dic-26   14,00;;-;3
+NA;CALL;Dic-26   14,50;;-;10
+NA;CALL;Dic-26   15,00;;-;16
+NA;CALL;Dic-26   16,00;;-;29
+NA;CALL;Dic-26   16,50;;-;17
+NA;CALL;Dic-26   17,00;;-;6
+NA;CALL;Dic-26   17,50;;-;10
+NA;CALL;Dic-26   21,00;;-;6
+NA;CALL;Dic-26   32,00;;-;1
+NA;CALL;Mar-27   16,00;;-;15
+NA;CALL;Mar-27   16,50;;-;10
+NA;CALL;Jun-27   16,00;;-;311
+NA;CALL;Jun-27   21,00;;-;20
+NA;CALL;Dic-27   15,00;;-;4
+NA;CALL;Dic-27   15,50;;-;162
+NA;CALL;Dic-27   16,00;;-;156
+NA;CALL;Dic-27   16,50;;-;151
+NA;CALL;Mar-28   17,50;;-;143
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   15,00;;-;1
+NA;CALL;May-26   15,50;;-;1
+NA;CALL;Jun-26   14,00;;-;1
+NA;CALL;Jun-26   14,50;;-;2
+NA;CALL;Jun-26   15,00;;-;40
+NA;CALL;Jun-26   15,50;;-;200
+NA;CALL;Jun-26   16,00;;-;1.389
+NA;CALL;Jun-26   16,50;;-;66
+NA;CALL;Jun-26   17,00;;-;1
+NA;CALL;Jun-26   17,50;;-;2
+NA;CALL;Jun-26   18,00;;-;10
+NA;CALL;Jun-26   18,50;;-;1
+NA;CALL;Jun-26   19,00;;-;10
+NA;CALL;Jun-26   20,00;;-;10
+NA;CALL;Sep-26   14,00;;-;4
+NA;CALL;Sep-26   15,00;;-;3
+NA;CALL;Sep-26   15,50;;-;15
+NA;CALL;Sep-26   16,50;;-;1
+NA;CALL;Sep-26   17,00;;-;35
+NA;CALL;Sep-26   17,50;;-;1
+NA;CALL;Sep-26   18,50;;-;1
+NA;CALL;Dic-26   12,00;;-;20
+NA;CALL;Dic-26   15,00;;-;20
+NA;CALL;Dic-26   15,50;;-;17
+NA;CALL;Dic-26   16,00;;-;263
+NA;CALL;Dic-26   17,00;;-;25
+NA;CALL;Dic-26   17,50;;-;26
+NA;CALL;Dic-26   18,00;;-;2
+NA;CALL;Mar-27   15,50;;-;3
+NA;CALL;Mar-27   16,00;;-;26
+NA;CALL;Mar-27   16,50;;-;26
+NA;CALL;Mar-27   17,00;;-;6
+NA;CALL;Mar-27   17,50;;-;10
+NA;CALL;Jun-27   16,00;;-;1
+NA;CALL;Dic-27   14,50;;-;278
+NA;CALL;Dic-27   18,00;;-;6
+NA;CALL;May-26   13,50;;-;1
+NA;CALL;May-26   14,00;;-;6
+NA;CALL;May-26   14,50;;2;90
+NA;CALL;May-26   15,00;;-;129
+NA;CALL;May-26   15,50;;-;1
+NA;CALL;Jun-26   13,00;;-;1
+NA;CALL;Jun-26   13,50;;5;1.378
+NA;CALL;Jun-26   14,00;;1;92
+NA;CALL;Jun-26   14,50;;6;100
+NA;CALL;Jun-26   15,00;;-;39
+NA;CALL;Jun-26   15,50;;1;103
+NA;CALL;Jun-26   16,00;;-;75
+NA;CALL;Jun-26   16,50;;-;11
+NA;CALL;Jul-26   13,50;;-;3
+NA;CALL;Jul-26   14,50;;1;1
+NA;CALL;Sep-26   12,50;;-;11
+NA;CALL;Sep-26   13,00;;-;8
+NA;CALL;Sep-26   13,50;;-;50
+NA;CALL;Sep-26   14,00;;1;31
+NA;CALL;Sep-26   14,50;;-;9
+NA;CALL;Sep-26   15,00;;-;13
+NA;CALL;Sep-26   15,50;;-;3
+NA;CALL;Sep-26   16,00;;-;33
+NA;CALL;Sep-26   16,50;;-;1
+NA;CALL;Sep-26   19,00;;-;1
+NA;CALL;Dic-26   12,00;;-;10
+NA;CALL;Dic-26   12,50;;-;15
+NA;CALL;Dic-26   13,00;;-;4
+NA;CALL;Dic-26   13,50;;10;108
+NA;CALL;Dic-26   14,00;;-;102
+NA;CALL;Dic-26   14,50;;-;92
+NA;CALL;Dic-26   15,00;;-;17
+NA;CALL;Dic-26   15,50;;-;3
+NA;CALL;Dic-26   16,00;;-;32
+NA;CALL;Dic-26   17,00;;-;1
+NA;CALL;Dic-26   18,00;;-;1
+NA;CALL;Mar-27   13,00;;-;100
+NA;CALL;Mar-27   13,50;;-;14
+NA;CALL;Mar-27   14,50;;-;5
+NA;CALL;Mar-27   15,00;;-;1
+NA;CALL;Mar-27   15,50;;-;3
+NA;CALL;Mar-27   17,00;;-;3
+NA;CALL;Jun-27   14,50;;-;5
+NA;CALL;Jun-27   15,00;;-;1
+NA;CALL;Jun-27   15,50;;-;13
+NA;CALL;Dic-27   14,00;;-;20
+NA;CALL;Dic-27   15,00;;-;11
+NA;CALL;Dic-27   19,00;;-;6
+NA;CALL;Dic-28   13,00;;-;1
+NA;CALL;May-26   15,50;;-;2
+NA;CALL;Sep-26   13,50;;-;2
+NA;CALL;Sep-26   14,00;;-;1
+NA;CALL;Sep-26   15,00;;-;1
+NA;CALL;Sep-26   18,00;;-;13
+NA;CALL;Dic-26   13,50;;-;4
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26 w2   21,00;;-;8
+NA;CALL;May-26   13,50;;1;-
+NA;CALL;May-26   17,00;;-;150
+NA;CALL;May-26   17,50;;-;2
+NA;CALL;May-26   18,50;;-;3
+NA;CALL;May-26   19,00;;-;3
+NA;CALL;May-26   20,00;;-;1
+NA;CALL;May-26   21,00;;-;51
+NA;CALL;May-26   22,00;;-;1.921
+NA;CALL;May-26   23,00;;-;48
+NA;CALL;May-26   24,00;;-;1.949
+NA;CALL;May-26   25,00;;2;26
+NA;CALL;May-26   26,00;;-;400
+NA;CALL;May-26   27,00;;-;3
+NA;CALL;May-26   28,00;;-;2
+NA;CALL;Jun-26   9,00;;-;1
+NA;CALL;Jun-26   11,00;;-;1
+NA;CALL;Jun-26   12,00;;-;10
+NA;CALL;Jun-26   14,00;;-;3.126
+NA;CALL;Jun-26   14,50;;-;30
+NA;CALL;Jun-26   15,00;;-;77
+NA;CALL;Jun-26   15,50;;-;125
+NA;CALL;Jun-26   16,00;;-;350
+NA;CALL;Jun-26   16,50;;-;110
+NA;CALL;Jun-26   17,00;;-;35
+NA;CALL;Jun-26   17,50;;4;269
+NA;CALL;Jun-26   18,00;;2;498
+NA;CALL;Jun-26   18,50;;2;60
+NA;CALL;Jun-26   19,00;;-;22
+NA;CALL;Jun-26   19,50;;-;125
+NA;CALL;Jun-26   20,00;;-;482
+NA;CALL;Jun-26   21,00;;-;46
+NA;CALL;Jun-26   22,00;;-;308
+NA;CALL;Jun-26   23,00;;-;2.051
+NA;CALL;Jun-26   24,00;;1;1.398
+NA;CALL;Jun-26   25,00;;-;235
+NA;CALL;Jun-26   26,00;;-;52
+NA;CALL;Jun-26   27,00;;-;6
+NA;CALL;Jun-26   28,00;;-;150
+NA;CALL;Jul-26   19,00;;-;3
+NA;CALL;Jul-26   21,00;;-;1
+NA;CALL;Jul-26   23,00;;-;10
+NA;CALL;Jul-26   24,00;;-;12
+NA;CALL;Jul-26   25,00;;-;22
+NA;CALL;Sep-26   14,00;;-;51
+NA;CALL;Sep-26   14,50;;-;11
+NA;CALL;Sep-26   15,00;;-;524
+NA;CALL;Sep-26   15,50;;-;145
+NA;CALL;Sep-26   16,00;;-;160
+NA;CALL;Sep-26   16,50;;-;279
+NA;CALL;Sep-26   17,00;;-;311
+NA;CALL;Sep-26   17,50;;-;10
+NA;CALL;Sep-26   18,00;;-;303
+NA;CALL;Sep-26   18,50;;6;408
+NA;CALL;Sep-26   19,00;;-;22
+NA;CALL;Sep-26   19,50;;-;1
+NA;CALL;Sep-26   20,00;;-;52
+NA;CALL;Sep-26   21,00;;-;4
+NA;CALL;Sep-26   22,00;;-;11.748
+NA;CALL;Sep-26   23,00;;-;189
+NA;CALL;Sep-26   24,00;;-;74
+NA;CALL;Sep-26   25,00;;-;177
+NA;CALL;Sep-26   26,00;;-;47
+NA;CALL;Sep-26   27,00;;10;66
+NA;CALL;Sep-26   28,00;;-;68
+NA;CALL;Sep-26   30,00;;-;1
+NA;CALL;Sep-26   31,00;;-;1
+NA;CALL;Dic-26   10,00;;-;14
+NA;CALL;Dic-26   12,00;;-;152
+NA;CALL;Dic-26   13,00;;-;60
+NA;CALL;Dic-26   13,50;;-;100
+NA;CALL;Dic-26   14,00;;-;19.223
+NA;CALL;Dic-26   14,50;;-;1
+NA;CALL;Dic-26   15,00;;-;10
+NA;CALL;Dic-26   15,50;;-;3.061
+NA;CALL;Dic-26   16,00;;-;2.037
+NA;CALL;Dic-26   16,50;;-;1
+NA;CALL;Dic-26   17,00;;-;76
+NA;CALL;Dic-26   17,50;;-;50
+NA;CALL;Dic-26   18,00;;-;127
+NA;CALL;Dic-26   18,50;;-;368
+NA;CALL;Dic-26   19,00;;-;7
+NA;CALL;Dic-26   19,50;;-;101
+NA;CALL;Dic-26   20,00;;-;56
+NA;CALL;Dic-26   21,00;;-;8
+NA;CALL;Dic-26   22,00;;-;4.060
+NA;CALL;Dic-26   23,00;;-;2
+NA;CALL;Dic-26   24,00;;10;3.515
+NA;CALL;Dic-26   25,00;;-;24
+NA;CALL;Dic-26   26,00;;-;1.003
+NA;CALL;Dic-26   28,00;;-;3
+NA;CALL;Dic-26   29,00;;-;1
+NA;CALL;Dic-26   30,00;;-;11
+NA;CALL;Dic-26   31,00;;-;1
+NA;CALL;Mar-27   10,00;;-;5
+NA;CALL;Mar-27   13,00;;-;22
+NA;CALL;Mar-27   13,50;;-;25
+NA;CALL;Mar-27   14,00;;-;350
+NA;CALL;Mar-27   14,50;;-;5
+NA;CALL;Mar-27   15,00;;-;8
+NA;CALL;Mar-27   15,50;;-;9
+NA;CALL;Mar-27   16,00;;-;1
+NA;CALL;Mar-27   16,50;;-;25
+NA;CALL;Mar-27   17,00;;-;12
+NA;CALL;Mar-27   17,50;;-;2
+NA;CALL;Mar-27   18,00;;-;65
+NA;CALL;Mar-27   18,50;;-;16
+NA;CALL;Mar-27   19,00;;-;10
+NA;CALL;Mar-27   19,50;;-;10
+NA;CALL;Mar-27   22,00;;-;16
+NA;CALL;Mar-27   23,00;;-;3.020
+NA;CALL;Mar-27   24,00;;-;11
+NA;CALL;Mar-27   25,00;;-;1
+NA;CALL;Mar-27   27,00;;-;10
+NA;CALL;Mar-27   29,00;;-;2.000
+NA;CALL;Mar-27   32,00;;-;160
+NA;CALL;Jun-27   11,00;;-;1
+NA;CALL;Jun-27   11,50;;-;5
+NA;CALL;Jun-27   12,50;;-;50
+NA;CALL;Jun-27   13,00;;-;72
+NA;CALL;Jun-27   13,50;;-;27
+NA;CALL;Jun-27   14,00;;-;25
+NA;CALL;Jun-27   14,50;;-;5.050
+NA;CALL;Jun-27   15,00;;-;110
+NA;CALL;Jun-27   15,50;;-;50
+NA;CALL;Jun-27   16,00;;-;2
+NA;CALL;Jun-27   16,50;;-;30
+NA;CALL;Jun-27   17,00;;-;1.021
+NA;CALL;Jun-27   17,50;;-;26
+NA;CALL;Jun-27   19,00;;-;1
+NA;CALL;Jun-27   19,50;;-;1
+NA;CALL;Sep-27   12,50;;-;50
+NA;CALL;Sep-27   13,00;;-;50
+NA;CALL;Sep-27   15,50;;-;1
+NA;CALL;Sep-27   18,00;;-;3.000
+NA;CALL;Sep-27   18,50;;-;3.000
+NA;CALL;Sep-27   20,00;;-;2.000
+NA;CALL;Sep-27   21,00;;-;6
+NA;CALL;Sep-27   22,00;;-;5
+NA;CALL;Sep-27   24,00;;-;2
+NA;CALL;Dic-27   11,00;;-;2
+NA;CALL;Dic-27   12,00;;-;2
+NA;CALL;Dic-27   12,50;;-;50
+NA;CALL;Dic-27   13,00;;-;30
+NA;CALL;Dic-27   13,50;;-;5
+NA;CALL;Dic-27   14,00;;-;5.150
+NA;CALL;Dic-27   14,50;;-;2.100
+NA;CALL;Dic-27   15,00;;-;150
+NA;CALL;Dic-27   15,50;;-;2
+NA;CALL;Dic-27   16,00;;-;3
+NA;CALL;Dic-27   16,50;;-;1.528
+NA;CALL;Dic-27   17,00;;-;24
+NA;CALL;Dic-27   17,50;;-;2
+NA;CALL;Dic-27   19,50;;-;5
+NA;CALL;Dic-27   20,00;;-;10.000
+NA;CALL;Dic-27   24,00;;-;5.000
+NA;CALL;Dic-27   25,00;;-;1
+NA;CALL;Mar-28   16,50;;-;1
+NA;CALL;Mar-28   18,00;;-;1
+NA;CALL;Mar-28   19,00;;-;5
+NA;CALL;Mar-28   24,00;;-;6
+NA;CALL;Mar-28   25,00;;-;1.000
+NA;CALL;Mar-28   27,00;;-;5
+NA;CALL;Jun-28   19,00;;-;6
+NA;CALL;Jun-28   20,00;;-;10
+NA;CALL;Jun-28   22,00;;-;4
+NA;CALL;Dic-28   16,00;;-;2.000
+NA;CALL;Dic-28   17,00;;-;15.000
+NA;CALL;Dic-28   24,00;;-;1.500
+NA;CALL;Dic-29   10,00;;-;200
+NA;CALL;Dic-29   11,50;;-;1
+NA;CALL;Dic-29   12,00;;-;1
+NA;CALL;Dic-29   12,50;;-;803
+NA;CALL;Dic-29   17,00;;-;25
+NA;CALL;Dic-30   22,00;;-;1.500
+NA;CALL;Dic-30   26,00;;-;3.000
+NA;CALL;May-26 w2   21,00;;-;4
+NA;CALL;May-26   15,00;;-;5
+NA;CALL;May-26   17,00;;-;13
+NA;CALL;May-26   18,00;;-;3
+NA;CALL;May-26   18,50;;-;19
+NA;CALL;May-26   19,00;;-;72
+NA;CALL;May-26   19,50;;-;28
+NA;CALL;May-26   20,00;;-;48
+NA;CALL;May-26   21,00;;-;5
+NA;CALL;May-26   22,00;;-;20
+NA;CALL;May-26   23,00;;3;155
+NA;CALL;May-26   24,00;;-;2
+NA;CALL;Jun-26   8,25;;-;25
+NA;CALL;Jun-26   9,25;;-;20
+NA;CALL;Jun-26   9,75;;-;2
+NA;CALL;Jun-26   10,00;;-;5.610
+NA;CALL;Jun-26   10,50;;-;3.072
+NA;CALL;Jun-26   11,00;;-;8.958
+NA;CALL;Jun-26   11,50;;-;16
+NA;CALL;Jun-26   12,00;;-;15.286
+NA;CALL;Jun-26   12,50;;-;399
+NA;CALL;Jun-26   13,00;;-;322
+NA;CALL;Jun-26   13,50;;-;2
+NA;CALL;Jun-26   14,00;;-;128
+NA;CALL;Jun-26   14,50;;-;163
+NA;CALL;Jun-26   15,00;;-;336
+NA;CALL;Jun-26   15,50;;-;129
+NA;CALL;Jun-26   16,00;;-;141
+NA;CALL;Jun-26   16,50;;-;309
+NA;CALL;Jun-26   17,00;;-;309
+NA;CALL;Jun-26   17,50;;-;110
+NA;CALL;Jun-26   18,00;;-;116
+NA;CALL;Jun-26   18,50;;-;101
+NA;CALL;Jun-26   19,00;;-;196
+NA;CALL;Jun-26   19,50;;-;605
+NA;CALL;Jun-26   20,00;;-;10.024
+NA;CALL;Jun-26   21,00;;2;41
+NA;CALL;Jun-26   22,00;;-;8
+NA;CALL;Jun-26   23,00;;-;2.006
+NA;CALL;Jun-26   24,00;;-;15
+NA;CALL;Jun-26   25,00;;-;10
+NA;CALL;Jun-26   27,00;;-;1
+NA;CALL;Jul-26   18,00;;10;10
+NA;CALL;Jul-26   18,50;;-;10
+NA;CALL;Jul-26   19,00;;-;50
+NA;CALL;Jul-26   19,50;;-;152
+NA;CALL;Jul-26   22,00;;4;5
+NA;CALL;Sep-26   6,75;;-;2
+NA;CALL;Sep-26   10,50;;-;9
+NA;CALL;Sep-26   11,00;;-;30
+NA;CALL;Sep-26   11,50;;-;51
+NA;CALL;Sep-26   12,00;;-;295
+NA;CALL;Sep-26   12,50;;-;80
+NA;CALL;Sep-26   13,00;;-;119
+NA;CALL;Sep-26   13,50;;-;12
+NA;CALL;Sep-26   14,00;;-;143
+NA;CALL;Sep-26   14,50;;-;277
+NA;CALL;Sep-26   15,00;;-;35
+NA;CALL;Sep-26   15,50;;-;6
+NA;CALL;Sep-26   16,00;;-;10
+NA;CALL;Sep-26   16,50;;-;200
+NA;CALL;Sep-26   17,00;;-;654
+NA;CALL;Sep-26   17,50;;-;2.214
+NA;CALL;Sep-26   18,00;;-;258
+NA;CALL;Sep-26   18,50;;102;107
+NA;CALL;Sep-26   19,00;;-;14
+NA;CALL;Sep-26   19,50;;-;100
+NA;CALL;Sep-26   20,00;;-;4
+NA;CALL;Sep-26   21,00;;-;16
+NA;CALL;Sep-26   22,00;;-;7
+NA;CALL;Sep-26   23,00;;-;10
+NA;CALL;Sep-26   24,00;;-;1
+NA;CALL;Dic-26   8,00;;-;9.500
+NA;CALL;Dic-26   8,75;;-;1
+NA;CALL;Dic-26   9,00;;-;13.015
+NA;CALL;Dic-26   9,50;;-;750
+NA;CALL;Dic-26   10,00;;-;34.000
+NA;CALL;Dic-26   10,50;;-;1.000
+NA;CALL;Dic-26   11,00;;-;15.621
+NA;CALL;Dic-26   11,50;;-;3.187
+NA;CALL;Dic-26   12,00;;-;15.760
+NA;CALL;Dic-26   12,50;;-;163
+NA;CALL;Dic-26   13,00;;-;12.000
+NA;CALL;Dic-26   13,50;;-;1
+NA;CALL;Dic-26   14,00;;-;11.025
+NA;CALL;Dic-26   14,50;;-;224
+NA;CALL;Dic-26   15,00;;-;4.184
+NA;CALL;Dic-26   15,50;;-;21.501
+NA;CALL;Dic-26   16,00;;-;2.152
+NA;CALL;Dic-26   16,50;;-;11
+NA;CALL;Dic-26   17,00;;-;108
+NA;CALL;Dic-26   17,50;;-;150
+NA;CALL;Dic-26   18,00;;-;16
+NA;CALL;Dic-26   18,50;;-;1
+NA;CALL;Dic-26   19,00;;-;4.000
+NA;CALL;Dic-26   19,50;;-;6
+NA;CALL;Dic-26   20,00;;-;10
+NA;CALL;Dic-26   21,00;;-;150
+NA;CALL;Dic-26   22,00;;10;20
+NA;CALL;Dic-26   23,00;;-;20
+NA;CALL;Dic-26   24,00;;-;10
+NA;CALL;Dic-26   25,00;;-;5
+NA;CALL;Dic-26   27,00;;-;2
+NA;CALL;Dic-26   28,00;;-;20
+NA;CALL;Mar-27   7,25;;-;4
+NA;CALL;Mar-27   8,00;;-;1
+NA;CALL;Mar-27   10,00;;-;245
+NA;CALL;Mar-27   11,50;;-;216
+NA;CALL;Mar-27   12,00;;-;210
+NA;CALL;Mar-27   12,50;;-;401
+NA;CALL;Mar-27   13,50;;-;4
+NA;CALL;Mar-27   14,00;;-;55
+NA;CALL;Mar-27   14,50;;-;100
+NA;CALL;Mar-27   15,00;;-;100
+NA;CALL;Mar-27   15,50;;-;50
+NA;CALL;Mar-27   16,00;;-;100
+NA;CALL;Mar-27   16,50;;-;25
+NA;CALL;Mar-27   17,00;;-;75
+NA;CALL;Mar-27   18,00;;-;2
+NA;CALL;Mar-27   18,50;;-;1
+NA;CALL;Mar-27   19,00;;-;2
+NA;CALL;Mar-27   21,00;;-;210
+NA;CALL;Mar-27   22,00;;-;12
+NA;CALL;Mar-27   23,00;;10;-
+NA;CALL;Mar-27   24,00;;-;1
+NA;CALL;Mar-27   28,00;;-;4
+NA;CALL;Jun-27   8,00;;-;25.000
+NA;CALL;Jun-27   9,50;;-;40
+NA;CALL;Jun-27   10,00;;-;10
+NA;CALL;Jun-27   10,50;;-;2
+NA;CALL;Jun-27   11,50;;-;80
+NA;CALL;Jun-27   12,00;;-;210
+NA;CALL;Jun-27   12,50;;-;200
+NA;CALL;Jun-27   13,00;;-;5.010
+NA;CALL;Jun-27   13,50;;-;183
+NA;CALL;Jun-27   14,00;;-;38
+NA;CALL;Jun-27   16,00;;-;25
+NA;CALL;Jun-27   19,50;;-;100
+NA;CALL;Jun-27   20,00;;-;2
+NA;CALL;Jun-27   21,00;;-;2
+NA;CALL;Jun-27   22,00;;-;1
+NA;CALL;Sep-27   10,50;;-;100
+NA;CALL;Sep-27   11,00;;-;101
+NA;CALL;Sep-27   11,50;;-;100
+NA;CALL;Sep-27   12,00;;-;104
+NA;CALL;Sep-27   14,00;;-;25
+NA;CALL;Sep-27   14,50;;-;270
+NA;CALL;Sep-27   15,50;;-;159
+NA;CALL;Sep-27   18,00;;-;1.000
+NA;CALL;Dic-27   7,75;;-;234
+NA;CALL;Dic-27   8,00;;-;23.000
+NA;CALL;Dic-27   8,50;;-;8.000
+NA;CALL;Dic-27   9,00;;-;7.000
+NA;CALL;Dic-27   9,75;;-;62
+NA;CALL;Dic-27   10,00;;-;11.028
+NA;CALL;Dic-27   10,50;;-;12.938
+NA;CALL;Dic-27   11,00;;-;27.620
+NA;CALL;Dic-27   12,00;;-;1
+NA;CALL;Dic-27   12,50;;-;25
+NA;CALL;Dic-27   13,00;;-;256
+NA;CALL;Dic-27   14,00;;-;15.000
+NA;CALL;Dic-27   14,50;;-;7
+NA;CALL;Dic-27   15,00;;-;7.001
+NA;CALL;Dic-27   16,00;;-;30.000
+NA;CALL;Dic-27   16,50;;-;1.525
+NA;CALL;Dic-27   17,00;;-;25
+NA;CALL;Dic-27   18,00;;-;101
+NA;CALL;Dic-27   20,00;;-;2
+NA;CALL;Dic-27   21,00;;-;50
+NA;CALL;Dic-27   22,00;;-;20
+NA;CALL;Dic-27   24,00;;-;10
+NA;CALL;Mar-28   12,00;;-;1.000
+NA;CALL;Mar-28   18,00;;-;1
+NA;CALL;Mar-28   21,00;;-;120
+NA;CALL;Mar-28   22,00;;-;114
+NA;CALL;Jun-28   19,50;;-;1
+NA;CALL;Dic-28   9,00;;-;40.500
+NA;CALL;Dic-28   10,00;;-;10.000
+NA;CALL;Dic-28   11,50;;-;1.000
+NA;CALL;Dic-28   15,00;;-;28.500
+NA;CALL;Dic-28   16,00;;-;15.000
+NA;CALL;Dic-28   18,00;;-;1.000
+NA;CALL;Dic-28   24,00;;-;1.500
+NA;CALL;Jun-29   11,00;;-;140
+NA;CALL;Dic-29   7,75;;-;30.000
+NA;CALL;Dic-29   8,00;;-;17.000
+NA;CALL;Dic-29   11,00;;-;20.000
+NA;CALL;Dic-29   11,50;;-;17.000
+NA;CALL;Dic-29   12,50;;-;800
+NA;CALL;Dic-29   24,00;;-;20
+NA;CALL;Dic-30   14,00;;-;3.000
+NA;CALL;Dic-30   18,50;;-;3.000
+NA;CALL;May-26 w2   20,00;;-;10
+NA;CALL;May-26 w2   23,00;;-;1
+NA;CALL;May-26   17,50;;-;5
+NA;CALL;May-26   18,00;;-;30
+NA;CALL;May-26   19,00;;-;20
+NA;CALL;May-26   20,00;;-;5
+NA;CALL;May-26   21,00;;-;15
+NA;CALL;May-26   21,00;;-;143
+NA;CALL;May-26   22,00;;-;5
+NA;CALL;May-26   22,00;;-;6
+NA;CALL;May-26   23,00;;-;10
+NA;CALL;May-26   24,00;;-;12
+NA;CALL;May-26   26,00;;-;150
+NA;CALL;Jun-26   14,00;;-;1
+NA;CALL;Jun-26   14,50;;-;1
+NA;CALL;Jun-26   15,00;;-;1
+NA;CALL;Jun-26   16,00;;-;3
+NA;CALL;Jun-26   17,00;;-;10
+NA;CALL;Jun-26   18,00;;-;5
+NA;CALL;Jun-26   19,00;;-;10
+NA;CALL;Jun-26   20,00;;-;10
+NA;CALL;Jun-26   21,00;;-;10
+NA;CALL;Jun-26   22,00;;-;10
+NA;CALL;Jun-26   23,00;;-;3
+NA;CALL;Jun-26   24,00;;-;10
+NA;CALL;Jun-26   25,00;;-;31
+NA;CALL;Jun-26   26,00;;-;25
+NA;CALL;Jun-26   28,00;;-;24
+NA;CALL;Sep-26   14,00;;-;1
+NA;CALL;Sep-26   14,50;;-;1
+NA;CALL;Sep-26   18,00;;-;10
+NA;CALL;Sep-26   21,00;;-;10
+NA;CALL;Sep-26   22,00;;-;73
+NA;CALL;Sep-26   23,00;;-;10
+NA;CALL;Sep-26   24,00;;-;1
+NA;CALL;Dic-26   14,50;;-;1
+NA;CALL;Dic-26   15,00;;-;33
+NA;CALL;Dic-26   17,00;;-;7
+NA;CALL;Dic-26   18,00;;-;27
+NA;CALL;Dic-26   25,00;;-;28
+NA;CALL;Dic-26   27,00;;-;1
+NA;CALL;Dic-27   12,00;;-;15.000
+NA;CALL;Dic-27   16,00;;-;7
+NA;CALL;Dic-28   15,25;;-;750
+NA;CALL;May-26   18,50;;-;1
+NA;CALL;May-26   19,00;;-;10
+NA;CALL;May-26   19,00;;-;100
+NA;CALL;May-26   19,50;;-;16
+NA;CALL;May-26   20,00;;-;10
+NA;CALL;May-26   21,00;;-;20
+NA;CALL;May-26   21,00;;-;10
+NA;CALL;May-26   22,00;;-;15
+NA;CALL;May-26   22,00;;-;15
+NA;CALL;May-26   23,00;;-;20
+NA;CALL;Jun-26   12,00;;-;13
+NA;CALL;Jun-26   13,00;;-;20
+NA;CALL;Jun-26   14,00;;-;1
+NA;CALL;Jun-26   15,00;;-;1
+NA;CALL;Jun-26   16,50;;-;10
+NA;CALL;Jun-26   17,00;;-;2
+NA;CALL;Jun-26   20,00;;-;5
+NA;CALL;Jun-26   21,00;;-;1
+NA;CALL;Jun-26   21,00;;-;10
+NA;CALL;Sep-26   11,00;;-;1.200
+NA;CALL;Sep-26   16,00;;-;10
+NA;CALL;Sep-26   19,00;;-;15
+NA;CALL;Dic-26   11,00;;-;1
+NA;CALL;Dic-26   13,50;;-;150
+NA;CALL;Dic-26   14,50;;-;150
+NA;CALL;Dic-26   15,00;;-;1
+NA;CALL;Dic-26   15,50;;-;450
+NA;CALL;Dic-26   16,00;;-;33
+NA;CALL;Dic-26   17,00;;-;154
+NA;CALL;Dic-26   18,00;;-;2
+NA;CALL;Dic-26   20,00;;-;15
+NA;CALL;Dic-26   25,00;;-;1
+NA;CALL;Mar-27   11,50;;-;1
+NA;CALL;Dic-28   15,25;;-;750
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;Jun-26   3,20;;-;10
+NA;CALL;Jun-26   3,70;;-;10
+NA;CALL;Jun-26   3,80;;-;10
+NA;CALL;Jun-26   4,60;;-;9
+NA;CALL;Sep-26   3,50;;-;10
+NA;CALL;Sep-26   4,00;;-;20
+NA;CALL;Dic-26   3,70;;-;10
+NA;CALL;Dic-26   3,90;;-;25
+NA;CALL;Dic-26   4,00;;-;5
+NA;CALL;Dic-26   4,20;;-;20
+NA;CALL;Dic-26   4,30;;-;43
+NA;CALL;Dic-26   4,50;;-;10
+NA;CALL;Dic-26   4,70;;-;10
+NA;CALL;Dic-26   4,80;;-;10
+NA;CALL;Mar-27   4,80;;-;20.000
+NA;CALL;Jun-27   3,90;;-;25
+NA;CALL;Dic-27   4,00;;-;25
+NA;CALL;Jun-26   3,60;;-;10
+NA;CALL;Jun-26   3,80;;-;102
+NA;CALL;Jun-26   4,90;;-;5
+NA;CALL;Sep-26   3,60;;-;20
+NA;CALL;Dic-26   3,80;;-;5
+NA;CALL;Jun-27   3,40;;-;20
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26 w2   8,75;;-;1
+NA;CALL;May-26 w2   9,00;;-;3
+NA;CALL;May-26 w2   10,00;;-;2
+NA;CALL;May-26 w2   10,50;;-;2
+NA;CALL;May-26 w2   11,00;;-;1
+NA;CALL;May-26   8,50;;150;150
+NA;CALL;May-26   8,75;;150;150
+NA;CALL;May-26   9,00;;-;1
+NA;CALL;May-26   9,75;;-;4
+NA;CALL;May-26   10,00;;5;471
+NA;CALL;May-26   10,50;;-;180
+NA;CALL;May-26   11,00;;-;164
+NA;CALL;May-26   11,50;;-;31
+NA;CALL;May-26   12,00;;-;10
+NA;CALL;May-26 w4   9,00;;-;1
+NA;CALL;Jun-26   3,10;;-;1
+NA;CALL;Jun-26   6,75;;5;5
+NA;CALL;Jun-26   8,00;;-;48
+NA;CALL;Jun-26   8,50;;-;18
+NA;CALL;Jun-26   8,75;;-;53
+NA;CALL;Jun-26   9,00;;-;362
+NA;CALL;Jun-26   9,25;;-;3.248
+NA;CALL;Jun-26   9,50;;-;195
+NA;CALL;Jun-26   9,75;;-;194
+NA;CALL;Jun-26   10,00;;-;141
+NA;CALL;Jun-26   10,50;;-;13.431
+NA;CALL;Jun-26   11,00;;-;630
+NA;CALL;Jun-26   11,50;;-;5.000
+NA;CALL;Jun-26   12,00;;-;581
+NA;CALL;Jun-26   12,50;;-;30
+NA;CALL;Jun-26   13,00;;-;8
+NA;CALL;Jun-26   13,50;;-;13
+NA;CALL;Sep-26   5,50;;-;17
+NA;CALL;Sep-26   5,75;;-;1
+NA;CALL;Sep-26   6,00;;-;2
+NA;CALL;Sep-26   6,50;;5;16
+NA;CALL;Sep-26   7,00;;-;4
+NA;CALL;Sep-26   7,75;;-;30
+NA;CALL;Sep-26   8,00;;-;100
+NA;CALL;Sep-26   8,50;;-;458
+NA;CALL;Sep-26   8,75;;-;3.200
+NA;CALL;Sep-26   9,00;;-;21
+NA;CALL;Sep-26   9,25;;-;59
+NA;CALL;Sep-26   9,50;;-;4
+NA;CALL;Sep-26   9,75;;-;5.025
+NA;CALL;Sep-26   10,00;;-;117
+NA;CALL;Sep-26   10,50;;-;5
+NA;CALL;Sep-26   11,00;;-;42
+NA;CALL;Sep-26   11,50;;-;5
+NA;CALL;Sep-26   12,00;;-;54
+NA;CALL;Sep-26   13,00;;-;20
+NA;CALL;Dic-26   3,00;;-;1
+NA;CALL;Dic-26   4,00;;-;100
+NA;CALL;Dic-26   4,50;;-;1
+NA;CALL;Dic-26   4,80;;-;5.050
+NA;CALL;Dic-26   4,90;;-;50
+NA;CALL;Dic-26   5,00;;-;25
+NA;CALL;Dic-26   5,25;;-;25
+NA;CALL;Dic-26   5,75;;-;6
+NA;CALL;Dic-26   6,00;;-;7
+NA;CALL;Dic-26   6,50;;-;5
+NA;CALL;Dic-26   7,00;;-;86
+NA;CALL;Dic-26   7,50;;-;29
+NA;CALL;Dic-26   7,75;;-;2
+NA;CALL;Dic-26   8,00;;-;10.026
+NA;CALL;Dic-26   8,25;;-;220
+NA;CALL;Dic-26   8,50;;-;100
+NA;CALL;Dic-26   8,75;;-;4
+NA;CALL;Dic-26   9,00;;-;284
+NA;CALL;Dic-26   9,25;;-;1
+NA;CALL;Dic-26   9,50;;-;44
+NA;CALL;Dic-26   9,75;;-;10
+NA;CALL;Dic-26   10,00;;-;86
+NA;CALL;Dic-26   10,50;;-;87
+NA;CALL;Dic-26   11,00;;-;76
+NA;CALL;Dic-26   11,50;;-;135
+NA;CALL;Dic-26   12,00;;-;14
+NA;CALL;Dic-26   12,50;;-;252
+NA;CALL;Dic-26   13,00;;-;2.750
+NA;CALL;Dic-26   13,50;;-;6
+NA;CALL;Dic-26   14,00;;-;100
+NA;CALL;Dic-26   14,50;;-;100
+NA;CALL;Mar-27   4,60;;-;25
+NA;CALL;Mar-27   4,70;;-;25
+NA;CALL;Mar-27   4,80;;-;50
+NA;CALL;Mar-27   4,90;;-;50
+NA;CALL;Mar-27   5,00;;-;50
+NA;CALL;Mar-27   5,25;;-;25
+NA;CALL;Mar-27   6,00;;-;25
+NA;CALL;Mar-27   6,25;;-;25
+NA;CALL;Mar-27   7,50;;-;1
+NA;CALL;Mar-27   8,00;;-;2
+NA;CALL;Mar-27   9,25;;-;60
+NA;CALL;Mar-27   9,50;;-;36
+NA;CALL;Mar-27   10,50;;100;-
+NA;CALL;Mar-27   12,00;;4;14
+NA;CALL;Mar-27   13,00;;-;100
+NA;CALL;Mar-27   13,50;;-;100
+NA;CALL;Jun-27   6,00;;-;25
+NA;CALL;Jun-27   6,25;;-;25
+NA;CALL;Jun-27   6,50;;-;25
+NA;CALL;Jun-27   6,75;;-;25
+NA;CALL;Jun-27   7,00;;-;25
+NA;CALL;Jun-27   7,25;;-;25
+NA;CALL;Jun-27   7,50;;-;10
+NA;CALL;Jun-27   8,25;;5;5
+NA;CALL;Jun-27   9,00;;-;6.000
+NA;CALL;Jun-27   9,75;;-;1
+NA;CALL;Jun-27   10,00;;-;5.000
+NA;CALL;Jun-27   11,00;;-;4
+NA;CALL;Jun-27   12,50;;-;5
+NA;CALL;Sep-27   9,00;;-;150
+NA;CALL;Dic-27   2,30;;-;22
+NA;CALL;Dic-27   4,20;;-;7.000
+NA;CALL;Dic-27   4,90;;-;4
+NA;CALL;Dic-27   5,00;;-;2
+NA;CALL;Dic-27   5,25;;-;3
+NA;CALL;Dic-27   5,50;;-;5
+NA;CALL;Dic-27   7,00;;-;2.545
+NA;CALL;Dic-27   7,50;;-;4
+NA;CALL;Dic-27   8,00;;-;13
+NA;CALL;Dic-27   8,50;;-;2
+NA;CALL;Dic-27   9,00;;-;151
+NA;CALL;Dic-27   9,25;;-;25
+NA;CALL;Dic-27   10,00;;-;20
+NA;CALL;Dic-27   10,50;;-;1
+NA;CALL;Dic-27   11,00;;-;5.000
+NA;CALL;Dic-27   11,50;;-;150
+NA;CALL;Dic-27   12,00;;-;5
+NA;CALL;Mar-28   8,75;;-;1
+NA;CALL;Mar-28   9,00;;-;450
+NA;CALL;Mar-28   9,25;;-;300
+NA;CALL;Mar-28   9,50;;-;50
+NA;CALL;Mar-28   9,75;;-;250
+NA;CALL;Mar-28   10,00;;-;126
+NA;CALL;Mar-28   13,50;;-;150
+NA;CALL;Jun-28   6,00;;-;3
+NA;CALL;Jun-28   7,75;;-;4
+NA;CALL;Jun-28   9,50;;-;5
+NA;CALL;Jun-28   10,00;;-;150
+NA;CALL;Jun-28   12,50;;-;2
+NA;CALL;Dic-28   8,50;;-;3.004
+NA;CALL;Dic-28   9,00;;-;4
+NA;CALL;Dic-30   7,50;;-;1
+NA;CALL;May-26 w2   9,00;;-;10
+NA;CALL;May-26 w2   9,25;;-;20
+NA;CALL;May-26 w2   10,50;;-;2
+NA;CALL;May-26 w2   11,00;;-;1
+NA;CALL;May-26   7,00;;-;20
+NA;CALL;May-26   7,50;;-;50
+NA;CALL;May-26   7,75;;-;2
+NA;CALL;May-26   8,25;;-;11
+NA;CALL;May-26   8,50;;-;7
+NA;CALL;May-26   8,75;;-;3
+NA;CALL;May-26   9,00;;-;30
+NA;CALL;May-26   9,25;;101;265
+NA;CALL;May-26   9,50;;21;290
+NA;CALL;May-26   9,75;;-;37
+NA;CALL;May-26   10,00;;100;21.039
+NA;CALL;May-26   10,50;;-;95
+NA;CALL;May-26   11,00;;50;66
+NA;CALL;May-26   11,50;;-;300
+NA;CALL;May-26   12,00;;150;-
+NA;CALL;Jun-26   3,10;;-;1
+NA;CALL;Jun-26   3,80;;-;25.000
+NA;CALL;Jun-26   4,10;;-;3
+NA;CALL;Jun-26   4,20;;-;5
+NA;CALL;Jun-26   4,30;;-;5
+NA;CALL;Jun-26   4,40;;-;5
+NA;CALL;Jun-26   4,50;;-;3.751
+NA;CALL;Jun-26   4,70;;-;5
+NA;CALL;Jun-26   4,80;;-;6
+NA;CALL;Jun-26   4,90;;-;5
+NA;CALL;Jun-26   5,50;;-;17
+NA;CALL;Jun-26   5,75;;-;116
+NA;CALL;Jun-26   6,00;;-;2
+NA;CALL;Jun-26   6,25;;-;3.500
+NA;CALL;Jun-26   6,50;;-;3.776
+NA;CALL;Jun-26   6,75;;-;100
+NA;CALL;Jun-26   7,00;;-;359
+NA;CALL;Jun-26   7,25;;-;95
+NA;CALL;Jun-26   7,50;;-;536
+NA;CALL;Jun-26   7,75;;-;5.787
+NA;CALL;Jun-26   8,00;;-;55.523
+NA;CALL;Jun-26   8,25;;-;17
+NA;CALL;Jun-26   8,50;;-;65
+NA;CALL;Jun-26   8,75;;-;73
+NA;CALL;Jun-26   9,00;;-;8.785
+NA;CALL;Jun-26   9,25;;-;22.667
+NA;CALL;Jun-26   9,50;;-;108
+NA;CALL;Jun-26   9,75;;1;246
+NA;CALL;Jun-26   10,00;;3;184
+NA;CALL;Jun-26   10,50;;-;235
+NA;CALL;Jun-26   11,00;;50;166
+NA;CALL;Jun-26   11,50;;-;5
+NA;CALL;Jul-26   9,00;;-;10
+NA;CALL;Jul-26   9,50;;1;2
+NA;CALL;Jul-26   11,00;;-;2
+NA;CALL;Sep-26   4,00;;-;2
+NA;CALL;Sep-26   6,00;;-;32.505
+NA;CALL;Sep-26   6,75;;-;103
+NA;CALL;Sep-26   7,00;;20;14.626
+NA;CALL;Sep-26   7,25;;-;30
+NA;CALL;Sep-26   7,50;;-;210
+NA;CALL;Sep-26   7,75;;-;10.010
+NA;CALL;Sep-26   8,00;;-;12.209
+NA;CALL;Sep-26   8,25;;-;91
+NA;CALL;Sep-26   8,50;;-;5.001
+NA;CALL;Sep-26   8,75;;-;55
+NA;CALL;Sep-26   9,00;;-;123
+NA;CALL;Sep-26   9,25;;-;4.011
+NA;CALL;Sep-26   9,50;;-;100
+NA;CALL;Sep-26   9,75;;-;245
+NA;CALL;Sep-26   10,00;;-;33
+NA;CALL;Sep-26   10,50;;-;17
+NA;CALL;Sep-26   11,00;;-;20
+NA;CALL;Sep-26   12,50;;-;200
+NA;CALL;Dic-26   2,50;;-;40
+NA;CALL;Dic-26   2,80;;-;60.000
+NA;CALL;Dic-26   3,20;;-;10
+NA;CALL;Dic-26   3,40;;-;2
+NA;CALL;Dic-26   3,50;;-;5
+NA;CALL;Dic-26   3,60;;-;50.002
+NA;CALL;Dic-26   4,00;;-;25.007
+NA;CALL;Dic-26   4,20;;-;25
+NA;CALL;Dic-26   4,30;;-;15.000
+NA;CALL;Dic-26   4,40;;-;10.000
+NA;CALL;Dic-26   4,60;;-;80
+NA;CALL;Dic-26   4,70;;-;5
+NA;CALL;Dic-26   4,80;;-;15.000
+NA;CALL;Dic-26   4,90;;-;150
+NA;CALL;Dic-26   5,00;;-;20.400
+NA;CALL;Dic-26   5,25;;-;600
+NA;CALL;Dic-26   6,00;;-;5.019
+NA;CALL;Dic-26   6,25;;-;5
+NA;CALL;Dic-26   6,50;;-;155
+NA;CALL;Dic-26   6,75;;-;156
+NA;CALL;Dic-26   7,00;;-;10.173
+NA;CALL;Dic-26   7,25;;-;50
+NA;CALL;Dic-26   7,50;;-;19
+NA;CALL;Dic-26   7,75;;-;51
+NA;CALL;Dic-26   8,00;;-;34.884
+NA;CALL;Dic-26   8,25;;-;610
+NA;CALL;Dic-26   8,50;;-;15.882
+NA;CALL;Dic-26   8,75;;-;854
+NA;CALL;Dic-26   9,00;;-;5.085
+NA;CALL;Dic-26   9,25;;-;156
+NA;CALL;Dic-26   9,50;;-;36
+NA;CALL;Dic-26   9,75;;-;10
+NA;CALL;Dic-26   10,00;;-;27.113
+NA;CALL;Dic-26   10,50;;-;4.556
+NA;CALL;Dic-26   11,00;;-;20
+NA;CALL;Dic-26   11,50;;-;10
+NA;CALL;Dic-26   14,00;;-;3
+NA;CALL;Mar-27   5,25;;-;470
+NA;CALL;Mar-27   5,50;;-;150
+NA;CALL;Mar-27   6,00;;-;150
+NA;CALL;Mar-27   6,75;;-;371
+NA;CALL;Mar-27   7,25;;-;16.000
+NA;CALL;Mar-27   8,00;;-;100
+NA;CALL;Mar-27   8,25;;-;400
+NA;CALL;Mar-27   8,50;;-;101
+NA;CALL;Mar-27   8,75;;-;5
+NA;CALL;Mar-27   9,50;;-;5
+NA;CALL;Mar-27   11,00;;-;2
+NA;CALL;Mar-27   11,50;;-;3
+NA;CALL;Jun-27   3,00;;-;15.000
+NA;CALL;Jun-27   4,00;;-;1
+NA;CALL;Jun-27   5,50;;-;42
+NA;CALL;Jun-27   6,00;;-;20.100
+NA;CALL;Jun-27   7,00;;-;5.000
+NA;CALL;Jun-27   7,50;;-;660
+NA;CALL;Jun-27   8,00;;-;8.000
+NA;CALL;Jun-27   9,00;;-;16.000
+NA;CALL;Sep-27   8,00;;-;310
+NA;CALL;Sep-27   9,50;;-;263
+NA;CALL;Sep-27   9,75;;-;25
+NA;CALL;Sep-27   10,00;;-;5
+NA;CALL;Dic-27   3,30;;-;10
+NA;CALL;Dic-27   3,50;;-;10.040
+NA;CALL;Dic-27   3,90;;-;10
+NA;CALL;Dic-27   4,00;;-;42
+NA;CALL;Dic-27   4,20;;-;7.000
+NA;CALL;Dic-27   4,40;;-;51.025
+NA;CALL;Dic-27   4,70;;-;10
+NA;CALL;Dic-27   5,25;;-;11.500
+NA;CALL;Dic-27   5,50;;-;1
+NA;CALL;Dic-27   5,75;;-;50.000
+NA;CALL;Dic-27   6,00;;-;150
+NA;CALL;Dic-27   6,25;;-;150
+NA;CALL;Dic-27   6,50;;-;151
+NA;CALL;Dic-27   6,75;;-;150
+NA;CALL;Dic-27   7,00;;-;10.500
+NA;CALL;Dic-27   7,25;;-;325
+NA;CALL;Dic-27   7,50;;-;300
+NA;CALL;Dic-27   7,75;;-;5.000
+NA;CALL;Dic-27   8,00;;-;75
+NA;CALL;Dic-27   8,75;;-;23
+NA;CALL;Dic-27   9,00;;-;4.000
+NA;CALL;Dic-27   9,75;;-;25.000
+NA;CALL;Dic-27   10,00;;-;21
+NA;CALL;Dic-27   10,50;;-;4.745
+NA;CALL;Dic-27   11,00;;-;5.002
+NA;CALL;Dic-27   11,50;;-;25
+NA;CALL;Dic-27   12,00;;-;1
+NA;CALL;Mar-28   6,00;;1;-
+NA;CALL;Mar-28   9,00;;-;150
+NA;CALL;Mar-28   9,25;;-;150
+NA;CALL;Mar-28   9,75;;-;5
+NA;CALL;Mar-28   10,00;;-;150
+NA;CALL;Mar-28   10,50;;-;389
+NA;CALL;Mar-28   11,00;;-;300
+NA;CALL;Mar-28   12,00;;-;150
+NA;CALL;Jun-28   5,00;;-;10.000
+NA;CALL;Jun-28   11,00;;-;150
+NA;CALL;Jun-28   11,50;;-;300
+NA;CALL;Jun-28   12,00;;-;300
+NA;CALL;Dic-28   4,20;;-;10.000
+NA;CALL;Dic-28   6,00;;-;12.500
+NA;CALL;Dic-28   8,00;;-;15.500
+NA;CALL;Dic-28   8,50;;-;3.000
+NA;CALL;Dic-28   9,00;;-;5.000
+NA;CALL;Dic-28   10,00;;-;4.000
+NA;CALL;Dic-29   3,90;;-;3.250
+NA;CALL;Dic-29   5,50;;-;25.000
+NA;CALL;Dic-29   10,50;;-;200
+NA;CALL;Dic-30   6,00;;-;10.000
+NA;CALL;May-26 w2   10,50;;-;10
+NA;CALL;May-26   7,75;;-;5
+NA;CALL;May-26   9,00;;-;116
+NA;CALL;May-26   9,50;;-;30
+NA;CALL;May-26   10,00;;70;30
+NA;CALL;May-26   10,00;;-;10
+NA;CALL;May-26   10,50;;-;70
+NA;CALL;May-26   10,50;;-;30
+NA;CALL;May-26   11,00;;-;70
+NA;CALL;May-26   11,00;;-;6.109
+NA;CALL;May-26   11,50;;-;12.158
+NA;CALL;May-26   11,50;;-;10
+NA;CALL;Jun-26   4,30;;-;2
+NA;CALL;Jun-26   7,00;;-;25
+NA;CALL;Jun-26   9,00;;-;10
+NA;CALL;Jun-26   9,50;;-;10
+NA;CALL;Jun-26   9,75;;-;25
+NA;CALL;Jun-26   10,00;;-;15
+NA;CALL;Jun-26   10,00;;-;70
+NA;CALL;Jun-26   10,50;;-;1.090
+NA;CALL;Jun-26   10,50;;-;25
+NA;CALL;Jun-26   11,00;;-;50
+NA;CALL;Jun-26   11,00;;-;25
+NA;CALL;Jun-26   11,50;;-;20
+NA;CALL;Jun-26   12,00;;-;90
+NA;CALL;Jul-26   10,00;;-;40
+NA;CALL;Jul-26   12,50;;-;40
+NA;CALL;Sep-26   9,00;;-;10
+NA;CALL;Sep-26   10,50;;-;10
+NA;CALL;Sep-26   10,50;;-;40
+NA;CALL;Sep-26   11,00;;-;10
+NA;CALL;Sep-26   11,50;;-;40
+NA;CALL;Sep-26   12,00;;-;3
+NA;CALL;Sep-26   13,00;;-;40
+NA;CALL;Dic-26   8,00;;-;2
+NA;CALL;Dic-26   8,50;;-;2
+NA;CALL;Dic-26   9,00;;-;10
+NA;CALL;Dic-26   10,00;;-;10
+NA;CALL;Dic-26   10,50;;-;10
+NA;CALL;Dic-26   11,00;;-;10
+NA;CALL;Dic-26   12,00;;-;20
+NA;CALL;Mar-27   4,00;;-;20
+NA;CALL;Mar-27   5,00;;-;20
+NA;CALL;Sep-27   11,00;;-;1
+NA;CALL;Dic-27   10,00;;-;1
+NA;CALL;May-26   8,00;;-;2
+NA;CALL;May-26   9,00;;-;90
+NA;CALL;May-26   9,00;;-;50.000
+NA;CALL;May-26   9,25;;-;20
+NA;CALL;May-26   9,50;;-;40
+NA;CALL;May-26   9,75;;-;50
+NA;CALL;May-26   10,00;;-;40
+NA;CALL;May-26   10,00;;-;30
+NA;CALL;May-26   10,50;;-;45
+NA;CALL;May-26   11,00;;-;70
+NA;CALL;May-26   11,50;;-;10
+NA;CALL;May-26   13,00;;-;26
+NA;CALL;Jun-26   6,00;;-;1.052
+NA;CALL;Jun-26   7,75;;-;500
+NA;CALL;Jun-26   8,50;;-;1.000
+NA;CALL;Jun-26   9,00;;-;130
+NA;CALL;Jun-26   9,25;;-;10
+NA;CALL;Jun-26   9,50;;-;10
+NA;CALL;Jun-26   9,50;;20;46
+NA;CALL;Jun-26   9,75;;1;1
+NA;CALL;Jun-26   10,00;;-;75
+NA;CALL;Jun-26   10,00;;-;40.000
+NA;CALL;Jun-26   10,50;;-;110
+NA;CALL;Jun-26   11,00;;-;70
+NA;CALL;Jun-26   13,50;;-;20
+NA;CALL;Jul-26   10,00;;-;40
+NA;CALL;Jul-26   13,50;;-;5
+NA;CALL;Sep-26   6,25;;-;1.700
+NA;CALL;Sep-26   7,50;;-;900
+NA;CALL;Sep-26   8,25;;-;50
+NA;CALL;Sep-26   9,75;;-;1
+NA;CALL;Sep-26   11,00;;-;1
+NA;CALL;Dic-26   6,75;;-;2.800
+NA;CALL;Dic-26   9,00;;-;10
+NA;CALL;Dic-26   10,00;;-;7
+NA;CALL;Dic-26   11,00;;-;10
+NA;CALL;Dic-29   10,50;;-;60
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   20,00;;-;10
+NA;CALL;May-26   21,00;;-;10
+NA;CALL;May-26   26,00;;-;1.185
+NA;CALL;Jun-26   12,00;;-;46
+NA;CALL;Jun-26   12,50;;-;46
+NA;CALL;Jun-26   13,00;;-;48
+NA;CALL;Dic-26   18,00;;-;6
+NA;CALL;May-26   17,00;;-;5
+NA;CALL;May-26   22,00;;-;5
+NA;CALL;May-26   23,00;;-;40
+NA;CALL;May-26   24,00;;-;20
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   31,15;;-;5
+NA;CALL;May-26   33,90;;-;10
+NA;CALL;May-26   34,82;;-;1
+NA;CALL;May-26   36,65;;-;11
+NA;CALL;May-26   37,57;;-;3
+NA;CALL;May-26   40,32;;-;1
+NA;CALL;Jun-26   29,32;;-;6
+NA;CALL;Jun-26   34,82;;-;1
+NA;CALL;Jun-26   35,74;;-;1
+NA;CALL;Jun-26   37,57;;-;5
+NA;CALL;Jun-26   38,48;;-;5
+NA;CALL;Sep-26   34,82;;-;60
+NA;CALL;Mar-27   37,00;;-;1
+NA;CALL;May-26   23,82;;-;3
+NA;CALL;May-26   25,66;;-;2
+NA;CALL;May-26   26,57;;-;5
+NA;CALL;May-26   27,49;;-;4
+NA;CALL;May-26   28,41;;-;3
+NA;CALL;May-26   29,32;;-;5
+NA;CALL;May-26   31,15;;-;10
+NA;CALL;May-26   32,07;;-;1
+NA;CALL;May-26   32,99;;-;5
+NA;CALL;Jun-26   15,12;;-;4
+NA;CALL;Jun-26   24,74;;-;10
+NA;CALL;Jun-26   25,66;;-;5
+NA;CALL;Jun-26   27,49;;-;1
+NA;CALL;Jun-26   34,82;;-;1
+NA;CALL;Jul-26   24,74;;-;5
+NA;CALL;Sep-26   18,33;;-;5
+NA;CALL;Sep-26   19,24;;-;5
+NA;CALL;Sep-26   22,91;;-;5
+NA;CALL;Dic-26   18,33;;-;2
+NA;CALL;Dic-26   20,16;;-;1
+NA;CALL;Dic-26   35,74;;-;2
+NA;CALL;Mar-27   30,00;;-;1
+NA;CALL;May-26   34,82;;-;1
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   3,60;;-;16
+NA;CALL;May-26   3,70;;-;3
+NA;CALL;May-26   3,80;;-;20.012
+NA;CALL;May-26   3,90;;-;89
+NA;CALL;May-26   4,00;;-;11
+NA;CALL;May-26   4,10;;-;52
+NA;CALL;May-26   4,30;;-;85
+NA;CALL;May-26   4,40;;-;115
+NA;CALL;Jun-26   3,00;;-;1
+NA;CALL;Jun-26   3,20;;-;3
+NA;CALL;Jun-26   3,30;;-;10.003
+NA;CALL;Jun-26   3,40;;-;100.005
+NA;CALL;Jun-26   3,50;;-;5
+NA;CALL;Jun-26   3,60;;-;23
+NA;CALL;Jun-26   3,70;;-;186
+NA;CALL;Jun-26   3,80;;-;1.520
+NA;CALL;Jun-26   3,90;;-;46
+NA;CALL;Jun-26   4,00;;-;10.042
+NA;CALL;Jun-26   4,10;;-;70
+NA;CALL;Jun-26   4,20;;-;30.040
+NA;CALL;Jun-26   4,30;;-;150
+NA;CALL;Jun-26   4,40;;-;25.011
+NA;CALL;Jun-26   4,50;;-;105
+NA;CALL;Jun-26   4,60;;-;38
+NA;CALL;Jun-26   4,70;;-;150
+NA;CALL;Jun-26   4,80;;-;151
+NA;CALL;Jun-26   4,90;;-;2.503
+NA;CALL;Jun-26   5,00;;-;10
+NA;CALL;Jun-26   5,25;;-;10
+NA;CALL;Sep-26   2,90;;-;150
+NA;CALL;Sep-26   3,00;;-;63
+NA;CALL;Sep-26   3,40;;-;12
+NA;CALL;Sep-26   3,50;;-;12
+NA;CALL;Sep-26   3,60;;-;20
+NA;CALL;Sep-26   3,70;;-;5
+NA;CALL;Sep-26   3,80;;-;1.001
+NA;CALL;Sep-26   3,90;;-;37
+NA;CALL;Sep-26   4,00;;-;315
+NA;CALL;Sep-26   4,10;;-;10.000
+NA;CALL;Sep-26   4,20;;-;594
+NA;CALL;Sep-26   4,30;;-;250
+NA;CALL;Sep-26   4,60;;-;6
+NA;CALL;Dic-26   2,40;;-;40
+NA;CALL;Dic-26   2,90;;-;1
+NA;CALL;Dic-26   3,00;;-;102
+NA;CALL;Dic-26   3,10;;-;10
+NA;CALL;Dic-26   3,30;;-;10
+NA;CALL;Dic-26   3,40;;-;60
+NA;CALL;Dic-26   3,50;;-;185
+NA;CALL;Dic-26   3,60;;-;86.405
+NA;CALL;Dic-26   3,70;;-;545
+NA;CALL;Dic-26   3,80;;-;325
+NA;CALL;Dic-26   3,90;;-;638
+NA;CALL;Dic-26   4,00;;-;100.718
+NA;CALL;Dic-26   4,10;;-;410
+NA;CALL;Dic-26   4,20;;-;1.049
+NA;CALL;Dic-26   4,30;;-;500
+NA;CALL;Dic-26   4,40;;-;2
+NA;CALL;Dic-26   4,50;;-;50.020
+NA;CALL;Dic-26   4,60;;-;35.000
+NA;CALL;Dic-26   4,70;;-;20.010
+NA;CALL;Dic-26   4,90;;-;4
+NA;CALL;Dic-26   5,00;;-;771
+NA;CALL;Dic-26   5,25;;-;8
+NA;CALL;Dic-26   5,50;;-;2
+NA;CALL;Mar-27   2,20;;-;1
+NA;CALL;Mar-27   3,10;;-;30
+NA;CALL;Mar-27   3,40;;-;1
+NA;CALL;Mar-27   3,50;;-;2
+NA;CALL;Mar-27   3,60;;-;52
+NA;CALL;Mar-27   3,70;;-;1
+NA;CALL;Mar-27   4,00;;-;100
+NA;CALL;Mar-27   4,20;;-;12
+NA;CALL;Mar-27   4,30;;-;2
+NA;CALL;Mar-27   4,40;;-;5.000
+NA;CALL;Mar-27   4,60;;-;20.000
+NA;CALL;Mar-27   4,80;;-;25
+NA;CALL;Jun-27   3,00;;-;5
+NA;CALL;Jun-27   3,60;;-;100
+NA;CALL;Jun-27   3,80;;-;25
+NA;CALL;Jun-27   3,90;;-;14
+NA;CALL;Jun-27   4,00;;-;58
+NA;CALL;Jun-27   4,20;;-;20.170
+NA;CALL;Jun-27   4,30;;-;100
+NA;CALL;Jun-27   4,40;;-;100
+NA;CALL;Jun-27   4,50;;-;200
+NA;CALL;Jun-27   4,70;;-;10
+NA;CALL;Jun-27   4,80;;-;150
+NA;CALL;Jun-27   4,90;;-;150
+NA;CALL;Jun-27   5,00;;-;150
+NA;CALL;Jun-27   5,50;;-;5
+NA;CALL;Jun-27   5,75;;-;20
+NA;CALL;Sep-27   3,70;;-;31
+NA;CALL;Sep-27   3,80;;-;4
+NA;CALL;Sep-27   3,90;;-;150
+NA;CALL;Sep-27   5,50;;-;22
+NA;CALL;Dic-27   2,30;;-;10
+NA;CALL;Dic-27   2,40;;-;10
+NA;CALL;Dic-27   2,50;;-;10
+NA;CALL;Dic-27   2,60;;-;10
+NA;CALL;Dic-27   2,70;;-;25
+NA;CALL;Dic-27   2,80;;-;15
+NA;CALL;Dic-27   2,90;;-;15
+NA;CALL;Dic-27   3,10;;-;8
+NA;CALL;Dic-27   3,20;;-;750
+NA;CALL;Dic-27   3,50;;-;38
+NA;CALL;Dic-27   3,60;;-;22
+NA;CALL;Dic-27   3,70;;-;11
+NA;CALL;Dic-27   3,80;;-;10
+NA;CALL;Dic-27   3,90;;-;11
+NA;CALL;Dic-27   4,00;;-;870
+NA;CALL;Dic-27   4,10;;-;102
+NA;CALL;Dic-27   4,20;;-;3
+NA;CALL;Dic-27   4,30;;-;36
+NA;CALL;Dic-27   4,40;;-;15
+NA;CALL;Dic-27   4,50;;-;139
+NA;CALL;Dic-27   4,60;;-;1
+NA;CALL;Dic-27   4,70;;-;30.150
+NA;CALL;Dic-27   5,00;;-;461
+NA;CALL;Dic-27   5,25;;-;167
+NA;CALL;Dic-27   5,50;;-;25
+NA;CALL;Dic-27   6,00;;-;21.000
+NA;CALL;Mar-28   2,10;;-;10
+NA;CALL;Mar-28   2,20;;-;10
+NA;CALL;Mar-28   2,30;;-;10
+NA;CALL;Mar-28   2,40;;-;10
+NA;CALL;Mar-28   2,50;;-;10
+NA;CALL;Mar-28   2,60;;-;10
+NA;CALL;Mar-28   2,70;;-;50
+NA;CALL;Mar-28   2,80;;-;15
+NA;CALL;Mar-28   2,90;;-;15
+NA;CALL;Mar-28   3,00;;-;20
+NA;CALL;Mar-28   3,10;;-;20
+NA;CALL;Mar-28   3,20;;-;28
+NA;CALL;Mar-28   3,30;;-;255
+NA;CALL;Mar-28   3,40;;-;521
+NA;CALL;Mar-28   3,50;;-;25
+NA;CALL;Mar-28   3,60;;-;26
+NA;CALL;Mar-28   3,70;;-;25
+NA;CALL;Mar-28   4,50;;-;100
+NA;CALL;Mar-28   4,60;;-;1
+NA;CALL;Jun-28   4,00;;-;100
+NA;CALL;Jun-28   5,00;;-;4
+NA;CALL;Dic-28   3,80;;-;3
+NA;CALL;Dic-28   4,00;;-;18
+NA;CALL;Dic-28   4,50;;-;30
+NA;CALL;Dic-28   4,80;;-;10
+NA;CALL;Dic-28   5,25;;-;50
+NA;CALL;Dic-29   3,40;;-;10
+NA;CALL;Dic-29   4,30;;-;1
+NA;CALL;Dic-29   4,50;;-;7
+NA;CALL;Dic-29   5,00;;-;543
+NA;CALL;Jun-30   5,75;;-;250
+NA;CALL;Dic-30   4,50;;-;1
+NA;CALL;May-26   3,20;;-;8
+NA;CALL;May-26   3,30;;-;7
+NA;CALL;May-26   3,40;;-;6
+NA;CALL;May-26   3,50;;-;13
+NA;CALL;May-26   3,60;;-;6
+NA;CALL;May-26   3,70;;-;128
+NA;CALL;May-26   3,80;;-;5
+NA;CALL;May-26   3,90;;-;3
+NA;CALL;May-26   4,00;;-;25
+NA;CALL;Jun-26   2,70;;-;1
+NA;CALL;Jun-26   2,90;;-;301
+NA;CALL;Jun-26   3,00;;-;17.218
+NA;CALL;Jun-26   3,10;;-;36
+NA;CALL;Jun-26   3,20;;-;306
+NA;CALL;Jun-26   3,30;;-;110.226
+NA;CALL;Jun-26   3,40;;-;151.331
+NA;CALL;Jun-26   3,50;;1;16.915
+NA;CALL;Jun-26   3,60;;3;3.097
+NA;CALL;Jun-26   3,70;;252;683
+NA;CALL;Jun-26   3,80;;-;666
+NA;CALL;Jun-26   3,90;;-;279
+NA;CALL;Jun-26   4,00;;-;255
+NA;CALL;Jun-26   4,10;;-;60
+NA;CALL;Jun-26   4,20;;-;30.512
+NA;CALL;Jun-26   4,30;;-;39
+NA;CALL;Jun-26   4,40;;-;25.128
+NA;CALL;Jun-26   4,50;;-;151
+NA;CALL;Jun-26   4,60;;-;27
+NA;CALL;Jun-26   4,70;;-;60
+NA;CALL;Jun-26   4,80;;-;152
+NA;CALL;Jun-26   4,90;;-;25
+NA;CALL;Jun-26   5,00;;-;83
+NA;CALL;Jun-26   5,50;;-;300
+NA;CALL;Jun-26   6,50;;-;2
+NA;CALL;Sep-26   2,60;;-;4
+NA;CALL;Sep-26   2,70;;-;5
+NA;CALL;Sep-26   2,90;;-;28
+NA;CALL;Sep-26   3,00;;-;2
+NA;CALL;Sep-26   3,10;;-;120
+NA;CALL;Sep-26   3,20;;-;206
+NA;CALL;Sep-26   3,30;;-;108
+NA;CALL;Sep-26   3,40;;-;50
+NA;CALL;Sep-26   3,50;;-;184
+NA;CALL;Sep-26   3,60;;-;205
+NA;CALL;Sep-26   3,70;;-;10.008
+NA;CALL;Sep-26   3,80;;-;34
+NA;CALL;Sep-26   3,90;;-;303
+NA;CALL;Sep-26   4,00;;-;10.140
+NA;CALL;Sep-26   4,10;;-;767
+NA;CALL;Sep-26   4,20;;-;7
+NA;CALL;Sep-26   4,30;;-;5
+NA;CALL;Sep-26   4,40;;-;59
+NA;CALL;Sep-26   4,50;;-;39
+NA;CALL;Sep-26   4,60;;-;175
+NA;CALL;Sep-26   4,70;;-;150
+NA;CALL;Sep-26   5,00;;-;18
+NA;CALL;Sep-26   6,00;;-;5
+NA;CALL;Dic-26   2,50;;-;8
+NA;CALL;Dic-26   2,80;;-;100
+NA;CALL;Dic-26   2,90;;-;50
+NA;CALL;Dic-26   3,00;;-;1.513
+NA;CALL;Dic-26   3,10;;-;212
+NA;CALL;Dic-26   3,20;;-;375
+NA;CALL;Dic-26   3,30;;-;47
+NA;CALL;Dic-26   3,40;;-;35.260
+NA;CALL;Dic-26   3,50;;-;20.204
+NA;CALL;Dic-26   3,60;;-;65.192
+NA;CALL;Dic-26   3,70;;-;184
+NA;CALL;Dic-26   3,80;;-;328
+NA;CALL;Dic-26   3,90;;-;1.378
+NA;CALL;Dic-26   4,00;;-;107.505
+NA;CALL;Dic-26   4,10;;-;1
+NA;CALL;Dic-26   4,20;;-;22
+NA;CALL;Dic-26   4,30;;-;75
+NA;CALL;Dic-26   4,40;;-;56
+NA;CALL;Dic-26   4,50;;-;62.535
+NA;CALL;Dic-26   4,60;;-;35.010
+NA;CALL;Dic-26   4,70;;-;20.020
+NA;CALL;Dic-26   5,00;;-;26
+NA;CALL;Dic-26   5,75;;-;425
+NA;CALL;Dic-26   6,00;;-;414
+NA;CALL;Dic-26   6,25;;-;17
+NA;CALL;Dic-26   6,75;;-;10
+NA;CALL;Mar-27   3,20;;-;20
+NA;CALL;Mar-27   3,70;;-;12
+NA;CALL;Mar-27   3,80;;-;10
+NA;CALL;Mar-27   3,90;;-;4
+NA;CALL;Mar-27   4,00;;-;50
+NA;CALL;Mar-27   4,10;;-;25
+NA;CALL;Mar-27   4,20;;-;600
+NA;CALL;Mar-27   4,40;;-;5.000
+NA;CALL;Mar-27   4,50;;-;5
+NA;CALL;Mar-27   4,60;;-;20.000
+NA;CALL;Mar-27   5,00;;-;1
+NA;CALL;Mar-27   6,50;;-;90
+NA;CALL;Mar-27   6,75;;-;10
+NA;CALL;Jun-27   3,00;;-;100
+NA;CALL;Jun-27   3,40;;-;10
+NA;CALL;Jun-27   3,50;;-;2
+NA;CALL;Jun-27   3,60;;-;25.000
+NA;CALL;Jun-27   3,70;;-;2
+NA;CALL;Jun-27   3,80;;-;10
+NA;CALL;Jun-27   3,90;;-;19
+NA;CALL;Jun-27   4,00;;-;10
+NA;CALL;Jun-27   4,30;;-;12
+NA;CALL;Jun-27   4,40;;-;5
+NA;CALL;Jun-27   5,00;;-;36
+NA;CALL;Jun-27   5,75;;-;25
+NA;CALL;Jun-27   6,50;;-;25
+NA;CALL;Sep-27   2,50;;-;20
+NA;CALL;Sep-27   2,90;;-;30
+NA;CALL;Sep-27   5,75;;-;25
+NA;CALL;Dic-27   2,20;;-;6.000
+NA;CALL;Dic-27   2,70;;-;100
+NA;CALL;Dic-27   3,00;;-;7.500
+NA;CALL;Dic-27   3,20;;-;1
+NA;CALL;Dic-27   3,30;;-;5
+NA;CALL;Dic-27   3,40;;-;10
+NA;CALL;Dic-27   3,50;;-;10
+NA;CALL;Dic-27   3,60;;-;30.000
+NA;CALL;Dic-27   4,00;;-;3
+NA;CALL;Dic-27   4,10;;-;3
+NA;CALL;Dic-27   4,20;;-;1
+NA;CALL;Dic-27   4,30;;-;4
+NA;CALL;Dic-27   4,40;;-;3
+NA;CALL;Dic-27   4,50;;-;3
+NA;CALL;Dic-27   4,60;;-;250
+NA;CALL;Dic-27   4,70;;-;30.000
+NA;CALL;Dic-27   5,00;;-;5
+NA;CALL;Dic-27   5,50;;-;5
+NA;CALL;Mar-28   3,30;;-;6
+NA;CALL;Mar-28   3,90;;-;40
+NA;CALL;Mar-28   4,00;;-;25
+NA;CALL;Mar-28   4,30;;-;2
+NA;CALL;Mar-28   4,50;;-;1
+NA;CALL;Mar-28   4,60;;-;1
+NA;CALL;Mar-28   5,25;;-;2
+NA;CALL;Dic-28   3,00;;-;20.000
+NA;CALL;Dic-28   4,80;;-;50
+NA;CALL;Dic-29   3,50;;-;150
+NA;CALL;May-26   3,90;;-;10
+NA;CALL;May-26   4,00;;-;70
+NA;CALL;Jun-26   3,60;;-;2
+NA;CALL;Jun-26   4,70;;-;1
+NA;CALL;Sep-26   3,50;;-;1
+NA;CALL;Sep-26   3,60;;-;2
+NA;CALL;Sep-26   3,90;;-;100
+NA;CALL;Sep-26   4,00;;-;2
+NA;CALL;Dic-26   5,25;;-;190
+NA;CALL;Sep-27   3,70;;-;10
+NA;CALL;May-26   3,30;;-;4
+NA;CALL;May-26   3,60;;-;14
+NA;CALL;Jun-26   3,40;;-;4
+NA;CALL;Jun-26   3,50;;-;730
+NA;CALL;Jun-26   3,50;;-;80
+NA;CALL;Jun-26   3,60;;-;25
+NA;CALL;Jun-26   4,10;;-;1.900
+NA;CALL;Jun-26   4,20;;-;550
+NA;CALL;Jun-26   4,40;;-;100
+NA;CALL;Jun-26   5,50;;-;10
+NA;CALL;Sep-26   3,30;;-;5
+NA;CALL;Sep-26   3,50;;-;11
+NA;CALL;Sep-26   3,60;;-;25
+NA;CALL;Sep-26   3,70;;-;25
+NA;CALL;Sep-26   3,80;;-;10
+NA;CALL;Sep-26   4,00;;-;700
+NA;CALL;Sep-26   4,30;;-;100
+NA;CALL;Sep-26   4,50;;-;112
+NA;CALL;Sep-26   5,25;;-;15
+NA;CALL;Dic-26   3,90;;-;10
+NA;CALL;Dic-26   4,20;;-;50
+NA;CALL;Dic-26   7,50;;-;5
+NA;CALL;Dic-26   9,50;;-;50
+NA;CALL;Dic-26   11,00;;-;52
+NA;CALL;Dic-26   12,00;;-;361
+NA;CALL;Dic-26   16,50;;-;14
+NA;CALL;Mar-27   3,20;;-;800
+NA;CALL;Mar-27   7,75;;-;750
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;Sep-26   2,70;;-;200
+NA;CALL;Sep-26   3,00;;-;25
+NA;CALL;Sep-26   3,20;;-;25
+NA;CALL;Sep-26   3,40;;-;25
+NA;CALL;Sep-26   3,50;;-;25
+NA;CALL;Dic-26   2,30;;-;5
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;Jun-26   89,52;;-;1
+NA;CALL;Sep-26   78,10;;-;4
+NA;CALL;May-26   68,57;;-;2
+NA;CALL;May-26   72,38;;-;1
+NA;CALL;Jun-26   57,14;;-;5
+NA;CALL;Jun-26   70,48;;-;11
+NA;CALL;Jun-26   78,10;;-;1
+NA;CALL;Jun-26   80,00;;-;5
+NA;CALL;Jun-26   83,81;;-;1
+NA;CALL;Jun-26   85,71;;-;1
+NA;CALL;Sep-26   66,67;;-;2
+NA;CALL;Sep-26   78,10;;-;1
+NA;CALL;Sep-26   81,90;;-;11
+NA;CALL;Sep-26   87,62;;-;4
+NA;CALL;Sep-26   89,52;;-;2
+NA;CALL;Dic-26   80,00;;-;1
+NA;CALL;Mar-27   72,00;;-;1
+NA;CALL;Mar-27   76,00;;-;10
+NA;CALL;;;04/05/26;
+NA;CALL;;;;
+NA;CALL;;;;
+NA;CALL;May-26   60,00;;-;5
+NA;CALL;May-26   62,00;;-;5
+NA;CALL;May-26   64,00;;-;1
+NA;CALL;Jun-26   45,00;;-;1
+NA;CALL;Jun-26   54,00;;-;1
+NA;CALL;Jun-26   58,00;;-;1
+NA;CALL;Jun-26   60,00;;-;6
+NA;CALL;Jun-26   62,00;;-;4
+NA;CALL;Jun-26   66,00;;-;1
+NA;CALL;Sep-26   46,00;;-;1
+NA;CALL;Sep-26   50,00;;-;1
+NA;CALL;Sep-26   54,00;;-;7
+NA;CALL;Sep-26   56,00;;-;5
+NA;CALL;Sep-26   58,00;;-;5
+NA;CALL;Sep-26   60,00;;-;6
+NA;CALL;Sep-26   62,00;;-;1
+NA;CALL;Sep-26   66,00;;-;1
+NA;CALL;Dic-26   43,00;;-;5
+NA;CALL;Dic-26   47,00;;-;1
+NA;CALL;Dic-26   58,00;;-;1
+NA;CALL;Dic-26   66,00;;-;1
+NA;CALL;Mar-27   74,00;;-;1
+NA;CALL;May-26   52,00;;-;4
+NA;CALL;May-26   54,00;;-;1
+NA;CALL;May-26   56,00;;-;1
+NA;CALL;May-26   58,00;;-;135
+NA;CALL;Jun-26   41,00;;-;1
+NA;CALL;Jun-26   43,00;;-;2
+NA;CALL;Jun-26   44,00;;-;1
+NA;CALL;Jun-26   46,00;;-;1
+NA;CALL;Jun-26   48,00;;-;5
+NA;CALL;Jun-26   50,00;;-;10
+NA;CALL;Jun-26   52,00;;-;2
+NA;CALL;Jun-26   54,00;;-;52
+NA;CALL;Jun-26   56,00;;-;1
+NA;CALL;Jun-26   60,00;;-;2
+NA;CALL;Sep-26   41,00;;-;1
+NA;CALL;Sep-26   43,00;;-;3
+NA;CALL;Sep-26   44,00;;-;3
+NA;CALL;Sep-26   45,00;;-;4
+NA;CALL;Sep-26   46,00;;-;2
+NA;CALL;Sep-26   47,00;;-;2
+NA;CALL;Sep-26   48,00;;-;4
+NA;CALL;Sep-26   50,00;;-;12
+NA;CALL;Sep-26   52,00;;-;3
+NA;CALL;Sep-26   54,00;;-;36
+NA;CALL;Sep-26   56,00;;-;14
+NA;CALL;Sep-26   60,00;;-;4
+NA;CALL;Sep-26   64,00;;-;2
+NA;CALL;Dic-26   41,00;;-;2
+NA;CALL;Dic-26   43,00;;-;1
+NA;CALL;Dic-26   44,00;;-;1
+NA;CALL;Dic-26   45,00;;-;12
+NA;CALL;Dic-26   46,00;;-;1
+NA;CALL;Dic-26   48,00;;-;1
+NA;CALL;Dic-26   49,00;;-;1
+NA;CALL;Dic-26   50,00;;-;5
+NA;CALL;Dic-26   54,00;;-;11
+NA;CALL;Dic-28   45,00;;-;1
+NA;CALL;FSAN15K6C;;-;-
+NA;CALL;Contratos;;Tipo Liquidación;Sólo en caso de Ajuste
+NA;CALL;Futuros no estándar;;C/P;multiplicador
+NA;CALL;Opciones no estándar;;C/P;multiplicador
