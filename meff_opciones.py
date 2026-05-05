@@ -26,11 +26,37 @@ def enviar_email(txt_file):
         return
 
     msg = EmailMessage()
-    msg['Subject'] = f"MEFF - Alerta {datetime.today().strftime('%d/%m/%Y')}"
-    msg['From'] = EMAIL_ORIGEN
-    msg['To'] = EMAIL_DESTINO
-    msg.set_content('Adjunto alerta diaria MEFF')
 
+    # 🔹 Asunto dinámico
+    msg['Subject'] = f"MEFF - Informe {datetime.today().strftime('%d/%m/%Y')}"
+    
+    # 🔹 Remitente más "humano"
+    msg['From'] = f"MEFF Alert <{EMAIL_ORIGEN}>"
+    msg['To'] = EMAIL_DESTINO
+
+    # 🔹 Texto plano
+    msg.set_content(f"""
+Hola,
+
+Adjunto el informe diario de MEFF.
+
+Fecha de generación: {datetime.today().strftime('%d/%m/%Y %H:%M')}
+
+Un saludo
+""")
+
+    # 🔹 Versión HTML (mejora clasificación)
+    msg.add_alternative(f"""
+    <html>
+      <body>
+        <h3>Informe diario MEFF</h3>
+        <p>Se adjunta el informe generado automáticamente.</p>
+        <p><b>Fecha:</b> {datetime.today().strftime('%d/%m/%Y %H:%M')}</p>
+      </body>
+    </html>
+    """, subtype='html')
+
+    # 🔹 Adjuntar TXT
     with open(txt_file, 'rb') as f:
         msg.add_attachment(
             f.read(),
