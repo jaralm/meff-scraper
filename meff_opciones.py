@@ -26,13 +26,18 @@ def enviar_email(txt_file):
         return
 
     msg = EmailMessage()
-    msg['Subject'] = 'MEFF - Alerta diaria'
+    msg['Subject'] = f"MEFF - Alerta {datetime.today().strftime('%d/%m/%Y')}"
     msg['From'] = EMAIL_ORIGEN
     msg['To'] = EMAIL_DESTINO
-    msg['Subject'] = f"MEFF - Alerta {datetime.today().strftime('%d/%m/%Y')}"
+    msg.set_content('Adjunto alerta diaria MEFF')
 
     with open(txt_file, 'rb') as f:
-        msg.add_attachment(f.read(), maintype='text', subtype='plain', filename=os.path.basename(txt_file))
+        msg.add_attachment(
+            f.read(),
+            maintype='text',
+            subtype='plain',
+            filename=os.path.basename(txt_file)
+        )
 
     with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
         smtp.login(EMAIL_ORIGEN, PASSWORD_APP)
@@ -114,7 +119,6 @@ def extraer_tabla(tabla: Tag, accion: str, tipo: str):
 def scrapear(url):
     soup = fetch_page(url)
 
-    # 🔹 FECHA BOLETÍN (ROBUSTO)
     fecha_boletin = ""
     for t in soup.stripped_strings:
         if "BOLET" in t.upper():
