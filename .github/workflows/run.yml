@@ -1,0 +1,38 @@
+name: Ejecutar scraper MEFF
+
+on:
+  schedule:
+    - cron: '0 7 * * *'   # todos los días a las 07:00 UTC (~09:00 España)
+  workflow_dispatch:       # permite ejecutarlo manualmente
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: |
+          pip install requests beautifulsoup4 pandas
+
+      - name: Ejecutar script
+        env:
+          EMAIL_ORIGEN: ${{ secrets.EMAIL_ORIGEN }}
+          EMAIL_DESTINO: ${{ secrets.EMAIL_DESTINO }}
+          PASSWORD_APP: ${{ secrets.PASSWORD_APP }}
+        run: python meff_opciones.py
+
+      - name: Guardar CSV en repo
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@github.com"
+          git add data/*.csv || true
+          git commit -m "update csv $(date +'%Y-%m-%d')" || echo "no changes"
+          git push
