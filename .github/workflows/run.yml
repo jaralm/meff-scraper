@@ -2,26 +2,30 @@ name: Ejecutar scraper MEFF
 
 on:
   schedule:
-    - cron: '0 7 * * *'   # todos los días a las 07:00 UTC (~09:00 España)
-  workflow_dispatch:       # permite ejecutarlo manualmente
+    - cron: '0 7 * * *'   # 07:00 UTC = 09:00 España
+  workflow_dispatch:
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Clonar repo
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Instalar Python
+      # 2. Python
+      - name: Configurar Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
+      # 3. Dependencias
       - name: Instalar dependencias
         run: |
           pip install requests beautifulsoup4 pandas
 
+      # 4. Ejecutar script
       - name: Ejecutar script
         env:
           EMAIL_ORIGEN: ${{ secrets.EMAIL_ORIGEN }}
@@ -29,10 +33,14 @@ jobs:
           PASSWORD_APP: ${{ secrets.PASSWORD_APP }}
         run: python meff_opciones.py
 
-      - name: Guardar CSV en repo
+      # 5. Commit CSV (IMPORTANTE: permisos)
+      - name: Commit y push CSV
         run: |
-          git config user.name "bot"
-          git config user.email "bot@github.com"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          
           git add data/*.csv || true
-          git commit -m "update csv $(date +'%Y-%m-%d')" || echo "no changes"
+          
+          git diff --cached --quiet || git commit -m "CSV actualizado $(date +'%Y-%m-%d')"
+          
           git push
