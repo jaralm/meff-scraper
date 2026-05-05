@@ -29,7 +29,7 @@ def enviar_email(txt_file):
     msg['Subject'] = 'MEFF - Alerta diaria'
     msg['From'] = EMAIL_ORIGEN
     msg['To'] = EMAIL_DESTINO
-    msg.set_content('Adjunto alerta diaria MEFF')
+    msg['Subject'] = f"MEFF - Alerta {datetime.today().strftime('%d/%m/%Y')}"
 
     with open(txt_file, 'rb') as f:
         msg.add_attachment(f.read(), maintype='text', subtype='plain', filename=os.path.basename(txt_file))
