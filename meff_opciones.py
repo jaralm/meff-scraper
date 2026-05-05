@@ -1,5 +1,4 @@
 import re
-import argparse
 import requests
 from bs4 import BeautifulSoup, Tag
 import pandas as pd
@@ -9,16 +8,16 @@ import glob
 import smtplib
 from email.message import EmailMessage
 
-# ── EMAIL (GitHub / local) ────────────────────────────────────────────────
+# ── EMAIL ────────────────────────────────────────────────────────────────
 EMAIL_ORIGEN = os.getenv("EMAIL_ORIGEN")
 EMAIL_DESTINO = os.getenv("EMAIL_DESTINO")
 PASSWORD_APP = os.getenv("PASSWORD_APP")
 
-# ── CARPETA ───────────────────────────────────────────────────────────────
+# ── CARPETA ──────────────────────────────────────────────────────────────
 CARPETA = "data"
 os.makedirs(CARPETA, exist_ok=True)
 
-# ── ROTACIÓN CSV ──────────────────────────────────────────────────────────
+# ── ROTACIÓN CSV ─────────────────────────────────────────────────────────
 def mantener_ultimos_20():
     archivos = sorted(glob.glob(f"{CARPETA}/meff_opciones_*.csv"))
     if len(archivos) > 20:
@@ -26,10 +25,10 @@ def mantener_ultimos_20():
             os.remove(f)
             print(f"Borrado antiguo: {f}")
 
-# ── EMAIL ─────────────────────────────────────────────────────────────────
+# ── EMAIL ────────────────────────────────────────────────────────────────
 def enviar_email(txt_file):
     if not EMAIL_ORIGEN:
-        print("Email no configurado (modo local sin envío)")
+        print("Email no configurado")
         return
 
     msg = EmailMessage()
@@ -39,18 +38,13 @@ def enviar_email(txt_file):
     msg.set_content('Adjunto alerta diaria MEFF')
 
     with open(txt_file, 'rb') as f:
-        msg.add_attachment(
-            f.read(),
-            maintype='text',
-            subtype='plain',
-            filename=os.path.basename(txt_file)
-        )
+        msg.add_attachment(f.read(), maintype='text', subtype='plain', filename=os.path.basename(txt_file))
 
     with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
         smtp.login(EMAIL_ORIGEN, PASSWORD_APP)
         smtp.send_message(msg)
 
-# ── URLs (ORIGINAL) ───────────────────────────────────────────────────────
+# ── URLs ─────────────────────────────────────────────────────────────────
 URLS = {
     "lunes":     "https://www.meff.es/docs/Ficheros/boletin/esp/boletinpmon.htm",
     "martes":    "https://www.meff.es/docs/Ficheros/boletin/esp/boletinptue.htm",
@@ -59,40 +53,32 @@ URLS = {
     "viernes":   "https://www.meff.es/docs/Ficheros/boletin/esp/boletinpfri.htm",
 }
 
-HEADERS_HTTP = {
-    "User-Agent": (
-        "Mozilla/5.0"
-    ),
-    "Accept-Language": "es-ES,es;q=0.9",
+HEADERS = {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Language": "es-ES,es;q=0.9"
 }
 
-# ── FETCH ─────────────────────────────────────────────────────────────────
-def fetch_page(url: str) -> BeautifulSoup:
-    resp = requests.get(url, headers=HEADERS_HTTP, timeout=30)
-    resp.raise_for_status()
-    resp.encoding = resp.apparent_encoding or "iso-8859-1"
-    return BeautifulSoup(resp.text, "html.parser")
+# ── FUNCIONES SCRAPING ───────────────────────────────────────────────────
+def fetch_page(url):
+    r = requests.get(url, headers=HEADERS, timeout=30)
+    r.raise_for_status()
+    r.encoding = r.apparent_encoding or "iso-8859-1"
+    return BeautifulSoup(r.text, "html.parser")
 
-def limpiar(texto: str) -> str:
+def limpiar(texto):
     return re.sub(r"\s+", " ", texto.strip().replace("\xa0", " "))
 
-def es_vacio(v: str) -> bool:
+def es_vacio(v):
     return v.strip() in ("", "-", "–", "—", "N/A")
 
-PATRON_FECHA = re.compile(
-    r"^(\d{0,2}-?[A-Za-z]{3}-\d{2,4})\s*([\d.,]*)$",
-    re.IGNORECASE
-)
-
-def separar_fecha_strike(celda: str):
-    celda = limpiar(celda)
-    m = PATRON_FECHA.match(celda)
+def separar_fecha_strike(celda):
+    m = re.match(r"^(\d{0,2}-?[A-Za-z]{3}-\d{2,4})\s*([\d.,]*)$", celda)
     if m:
         return m.group(1), m.group(2)
     return celda, ""
 
-def indices_columnas(celdas_header: list):
-    norm = [limpiar(h).upper() for h in celdas_header]
+def indices_columnas(headers):
+    norm = [limpiar(h).upper() for h in headers]
     idx_vol, idx_oi = None, None
     for i, h in enumerate(norm):
         if "VOLUMEN" in h:
@@ -101,7 +87,7 @@ def indices_columnas(celdas_header: list):
             idx_oi = i
     return idx_vol, idx_oi
 
-def extraer_tabla(tabla: Tag, accion: str, tipo: str) -> list:
+def extraer_tabla(tabla: Tag, accion: str, tipo: str):
     filas = []
     rows = tabla.find_all("tr")
     if len(rows) < 2:
@@ -114,10 +100,8 @@ def extraer_tabla(tabla: Tag, accion: str, tipo: str) -> list:
 
     for row in rows[1:]:
         cells = row.find_all(["td", "th"])
-        if not cells:
-            continue
-
         vals = [limpiar(c.get_text(" ")) for c in cells]
+
         if not vals or es_vacio(vals[0]):
             continue
 
@@ -138,12 +122,10 @@ def extraer_tabla(tabla: Tag, accion: str, tipo: str) -> list:
         })
     return filas
 
-# ── SCRAPING ORIGINAL (INTOCADO) ──────────────────────────────────────────
-def scrapear(url: str) -> pd.DataFrame:
-    print(f"Descargando: {url}")
+def scrapear(url):
     soup = fetch_page(url)
 
-    titulo = soup.find(string=re.compile(r"BOLETIN DIARIO|BOLET.N DIARIO", re.IGNORECASE))
+    titulo = soup.find(string=re.compile(r"BOLETIN", re.IGNORECASE))
     fecha_boletin = ""
     if titulo:
         m = re.search(r"(\d{2}/\d{2}/\d{2,4})", titulo)
@@ -151,50 +133,25 @@ def scrapear(url: str) -> pd.DataFrame:
             fecha_boletin = m.group(1)
 
     todos = []
-
     PAT_CIERRE = re.compile(r"^Cierre\s+(?!anterior\b)(.+)$", re.IGNORECASE)
 
-    def nombre_de_cierre(texto_raw: str) -> str:
-        nombre = texto_raw.strip()
-        nombre = re.sub(r"\s+\d{1,2}/\d{2}/\d{2,4}\s*$", "", nombre)
-        nombre = re.sub(r"\s+[-\d\.,]+\s*$", "", nombre)
-        return nombre.strip()
-
-    todos_nodos = soup.find_all(
-        ["b", "strong", "font", "p", "td", "th", "table",
-         "h1", "h2", "h3", "h4", "span", "div"]
-    )
-
     accion_actual = None
-    en_opciones = False
     tipo_actual = None
 
-    for elem in todos_nodos:
+    for elem in soup.find_all(["b","strong","p","td","th","table"]):
 
         if elem.name == "table":
-            if en_opciones and accion_actual:
-                primera_fila = elem.find("tr")
-                if primera_fila:
-                    header_texto = limpiar(primera_fila.get_text(" ")).upper()
-                    if "CALL" in header_texto:
-                        tipo_actual = "CALL"
-                    elif "PUT" in header_texto:
-                        tipo_actual = "PUT"
-
-                if tipo_actual:
-                    nuevas = extraer_tabla(elem, accion_actual, tipo_actual)
-                    if nuevas:
-                        todos.extend(nuevas)
+            if accion_actual and tipo_actual:
+                todos.extend(extraer_tabla(elem, accion_actual, tipo_actual))
             continue
 
         texto = limpiar(elem.get_text(" "))
         if not texto:
             continue
 
-        m_cierre = PAT_CIERRE.match(texto)
-        if m_cierre:
-            accion_actual = nombre_de_cierre(m_cierre.group(1))
-            en_opciones = True
+        m = PAT_CIERRE.match(texto)
+        if m:
+            accion_actual = m.group(1)
             tipo_actual = None
             continue
 
@@ -204,32 +161,17 @@ def scrapear(url: str) -> pd.DataFrame:
         elif "PUT" in tu:
             tipo_actual = "PUT"
 
-        if "FUTUROS" in tu and "OPCIONES" not in tu:
-            en_opciones = False
-            tipo_actual = None
-
     df = pd.DataFrame(todos)
     df["fecha_boletin"] = fecha_boletin
     return df
 
-# ── MAIN ──────────────────────────────────────────────────────────────────
+# ── MAIN ─────────────────────────────────────────────────────────────────
 def main():
 
-    # Día de negociación ORIGINAL
     dia_semana = datetime.today().weekday()
-    MAPA_DIA = {
-        0: "viernes",
-        1: "lunes",
-        2: "martes",
-        3: "miercoles",
-        4: "jueves",
-        5: "viernes",
-        6: "viernes",
-    }
-    dia = MAPA_DIA[dia_semana]
+    MAPA = {0:"viernes",1:"lunes",2:"martes",3:"miercoles",4:"jueves",5:"viernes",6:"viernes"}
+    dia = MAPA[dia_semana]
     url = URLS[dia]
-
-    print(f"Día detectado: {dia}")
 
     df = scrapear(url)
 
@@ -241,22 +183,49 @@ def main():
     nombre_csv = f"{CARPETA}/meff_opciones_{hoy}.csv"
     nombre_txt = nombre_csv.replace(".csv", "_top10.txt")
 
-    df.to_csv(nombre_csv, index=False, encoding="utf-8-sig", sep=";")
-
+    df.to_csv(nombre_csv, index=False, sep=";", encoding="utf-8-sig")
     mantener_ultimos_20()
 
-    df_vol = df[df["volumen_contratos"] != ""].copy()
-    df_vol["_vol_num"] = (
-        df_vol["volumen_contratos"]
+    df["vol_num"] = (
+        df["volumen_contratos"]
         .str.replace(".", "", regex=False)
         .str.replace(",", ".", regex=False)
         .pipe(pd.to_numeric, errors="coerce")
     )
 
-    top10 = df_vol.sort_values("_vol_num", ascending=False).head(10)
+    top10 = df.sort_values("vol_num", ascending=False).head(10)
+
+    # ── FORMATO TXT BONITO ────────────────────────────────────────────────
+    COLS = ["fecha_boletin", "accion", "tipo", "fecha_vencimiento",
+            "strike", "volumen_contratos", "posicion_abierta"]
+
+    top10 = top10[[c for c in COLS if c in top10.columns]]
+
+    anchos = {c: max(len(c), top10[c].astype(str).str.len().max()) for c in top10.columns}
+    separador = "  ".join("-" * anchos[c] for c in top10.columns)
+    cabecera  = "  ".join(c.upper().ljust(anchos[c]) for c in top10.columns)
+
+    fecha_boletin_val = df["fecha_boletin"].iloc[0]
+
+    lineas = [
+        "=" * len(separador),
+        f"  MEFF - TOP 10 VOLUMEN CONTRATOS  |  Boletin: {fecha_boletin_val}",
+        "=" * len(separador),
+        "",
+        cabecera,
+        separador,
+    ]
+
+    for _, row in top10.iterrows():
+        lineas.append("  ".join(str(row[c]).ljust(anchos[c]) for c in top10.columns))
+
+    lineas += [
+        separador,
+        f"\nGenerado: {datetime.today().strftime('%d/%m/%Y %H:%M')}",
+    ]
 
     with open(nombre_txt, "w", encoding="utf-8") as f:
-        f.write(top10.to_string(index=False))
+        f.write("\n".join(lineas))
 
     enviar_email(nombre_txt)
 
