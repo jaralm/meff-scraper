@@ -126,30 +126,53 @@ def scrapear(url):
     soup = fetch_page(url)
 
     todos = []
+
+    PAT_CIERRE = re.compile(r"^Cierre\s+(?!anterior\b)(.+)$", re.IGNORECASE)
+
+    def nombre_de_cierre(texto_raw: str) -> str:
+        nombre = texto_raw.strip()
+        nombre = re.sub(r"\s+\d{1,2}/\d{2}/\d{2,4}\s*$", "", nombre)
+        nombre = re.sub(r"\s+[-\d\.,]+\s*$", "", nombre)
+        return nombre.strip()
+
     accion_actual = None
     tipo_actual = None
+    en_opciones = False
 
-    for elem in soup.find_all(["b","strong","p","td","th","table"]):
+    for elem in soup.find_all(["b", "strong", "p", "td", "th", "table"]):
 
+        # TABLAS
         if elem.name == "table":
-            if accion_actual and tipo_actual:
-                todos.extend(extraer_tabla(elem, accion_actual, tipo_actual))
+            if en_opciones and accion_actual and tipo_actual:
+                nuevas = extraer_tabla(elem, accion_actual, tipo_actual)
+                if nuevas:
+                    todos.extend(nuevas)
             continue
 
         texto = limpiar(elem.get_text(" "))
         if not texto:
             continue
 
-        if texto.startswith("Cierre"):
-            accion_actual = re.sub(r"Cierre\s+", "", texto).split()[0]
+        # Detectar inicio de sección (Cierre XXX)
+        m = PAT_CIERRE.match(texto)
+        if m:
+            accion_actual = nombre_de_cierre(m.group(1))
             tipo_actual = None
+            en_opciones = True
             continue
 
         tu = texto.upper()
+
+        # Detectar CALL / PUT
         if "CALL" in tu:
             tipo_actual = "CALL"
         elif "PUT" in tu:
             tipo_actual = "PUT"
+
+        # Salir de bloque si aparece FUTUROS sin OPCIONES
+        if "FUTUROS" in tu and "OPCIONES" not in tu:
+            en_opciones = False
+            tipo_actual = None
 
     df = pd.DataFrame(todos)
     return df
