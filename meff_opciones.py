@@ -125,12 +125,17 @@ def extraer_tabla(tabla: Tag, accion: str, tipo: str):
 def scrapear(url):
     soup = fetch_page(url)
 
-    titulo = soup.find(string=re.compile(r"BOLETIN", re.IGNORECASE))
     fecha_boletin = ""
-    if titulo:
-        m = re.search(r"(\d{2}/\d{2}/\d{2,4})", titulo)
+
+# buscar en todo el HTML una fecha tipo dd/mm/aaaa cerca de BOLETIN
+textos = soup.stripped_strings
+
+for t in textos:
+    if re.search(r"BOLET", t, re.IGNORECASE):
+        m = re.search(r"(\d{2}/\d{2}/\d{2,4})", t)
         if m:
             fecha_boletin = m.group(1)
+            break
 
     todos = []
     PAT_CIERRE = re.compile(r"^Cierre\s+(?!anterior\b)(.+)$", re.IGNORECASE)
