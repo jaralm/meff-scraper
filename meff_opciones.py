@@ -175,6 +175,53 @@ def scrapear(url):
     df["fecha_boletin"] = fecha_boletin
     return df
 
+COLS = ["fecha_boletin", "accion", "tipo", "fecha_vencimiento",
+        "strike", "volumen_contratos", "posicion_abierta"]
+
+
+def vol_a_numero(serie: pd.Series) -> pd.Series:
+    """Convierte la columna volumen_contratos (string) a float para ordenar."""
+    return (
+        serie
+        .str.replace(".", "", regex=False)
+        .str.replace(",", ".", regex=False)
+        .pipe(pd.to_numeric, errors="coerce")
+    )
+
+
+def construir_informe(titulo: str, df_subset: pd.DataFrame, n: int) -> str:
+    """
+    Genera el texto formateado de un informe con las n mayores posiciones
+    por volumen_contratos del DataFrame recibido.
+    Devuelve el texto como string (listo para guardar o enviar).
+    """
+    df_v = df_subset[df_subset["volumen_contratos"] != ""].copy()
+    df_v["_vol_num"] = vol_a_numero(df_v["volumen_contratos"])
+    top = df_v.sort_values("_vol_num", ascending=False).head(n)
+    top = top[[c for c in COLS if c in top.columns]]
+
+    if top.empty:
+        return f"{titulo}\n(sin datos)\n"
+
+    anchos = {c: max(len(c), top[c].astype(str).str.len().max()) for c in top.columns}
+    sep  = "  ".join("-" * anchos[c] for c in top.columns)
+    cab  = "  ".join(c.upper().ljust(anchos[c]) for c in top.columns)
+
+    lineas = [
+        "=" * len(sep),
+        f"  {titulo}",
+        "=" * len(sep),
+        "",
+        cab,
+        sep,
+    ]
+    for _, row in top.iterrows():
+        lineas.append("  ".join(str(row[c]).ljust(anchos[c]) for c in top.columns))
+    lineas += [sep, ""]
+
+    return "\n".join(lineas)
+
+
 def main():
 
     dia_semana = datetime.today().weekday()
@@ -193,45 +240,50 @@ def main():
 
     df.to_csv(nombre_csv, index=False, sep=";", encoding="utf-8-sig")
     mantener_ultimos_20()
+    print(f"CSV guardado: {nombre_csv}")
 
-    df["vol_num"] = (
-        df["volumen_contratos"]
-        .str.replace(".", "", regex=False)
-        .str.replace(",", ".", regex=False)
-        .pipe(pd.to_numeric, errors="coerce")
-    )
+    fecha_boletin_val = df["fecha_boletin"].iloc[0] if not df.empty else hoy
 
-    top10 = df.sort_values("vol_num", ascending=False).head(10)
+    # ── Informe 1: Top 10 general ─────────────────────────────────────────────
+    titulo_top10 = f"MEFF - TOP 10 VOLUMEN CONTRATOS  |  Boletin: {fecha_boletin_val}"
+    txt_top10 = construir_informe(titulo_top10, df, n=10)
+    txt_top10 += f"Generado: {datetime.today().strftime('%d/%m/%Y %H:%M')}\n"
 
-    COLS = ["fecha_boletin","accion","tipo","fecha_vencimiento","strike","volumen_contratos","posicion_abierta"]
-    top10 = top10[COLS]
+    nombre_top10 = f"{CARPETA}/meff_top10_{hoy}.txt"
+    with open(nombre_top10, "w", encoding="utf-8") as f:
+        f.write(txt_top10)
+    print(f"TXT top10 guardado: {nombre_top10}")
+    print(txt_top10)
 
-    anchos = {c: max(len(c), top10[c].astype(str).str.len().max()) for c in top10.columns}
-    separador = "  ".join("-" * anchos[c] for c in top10.columns)
-    cabecera  = "  ".join(c.upper().ljust(anchos[c]) for c in top10.columns)
+    # ── Informe 2: Top 5 MINI IBEX-35 (CALL + PUT combinados) ────────────────
+    # La acción se llama exactamente como aparece en "Cierre MINI IBEX-35"
+    # Buscamos de forma flexible por si hay variaciones menores de nombre
+    mask_mini = df["accion"].str.upper().str.contains("MINI IBEX", na=False)
+    df_mini = df[mask_mini].copy()
 
-    fecha_boletin_val = df["fecha_boletin"].iloc[0]
+    if df_mini.empty:
+        print("No se encontraron datos de MINI IBEX-35 en el boletin de hoy.")
+        txt_mini = ""
+    else:
+        nombre_mini = df_mini["accion"].iloc[0]   # nombre real tal como viene
+        titulo_mini = (
+            f"MEFF - TOP 5 {nombre_mini.upper()} (CALL+PUT)  |  Boletin: {fecha_boletin_val}"
+        )
+        txt_mini = construir_informe(titulo_mini, df_mini, n=5)
+        txt_mini += f"Generado: {datetime.today().strftime('%d/%m/%Y %H:%M')}\n"
 
-    lineas = [
-        "=" * len(separador),
-        f"  MEFF - TOP 10 VOLUMEN CONTRATOS  |  Boletin: {fecha_boletin_val}",
-        "=" * len(separador),
-        "",
-        cabecera,
-        separador,
-    ]
+        nombre_txt_mini = f"{CARPETA}/meff_mini_ibex_{hoy}.txt"
+        with open(nombre_txt_mini, "w", encoding="utf-8") as f:
+            f.write(txt_mini)
+        print(f"TXT MINI IBEX guardado: {nombre_txt_mini}")
+        print(txt_mini)
 
-    for _, row in top10.iterrows():
-        lineas.append("  ".join(str(row[c]).ljust(anchos[c]) for c in top10.columns))
+    # ── Enviar email con ambos informes ───────────────────────────────────────
+    contenido_email = txt_top10
+    if txt_mini:
+        contenido_email += "\n\n" + txt_mini
 
-    lineas += [
-        separador,
-        f"\nGenerado: {datetime.today().strftime('%d/%m/%Y %H:%M')}",
-    ]
-
-    contenido_txt = "\n".join(lineas)
-
-    enviar_email(contenido_txt)
+    enviar_email(contenido_email)
 
 if __name__ == "__main__":
-    main()
+    main
