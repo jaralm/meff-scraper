@@ -1,4 +1,4 @@
-import re
+ import re
 import requests
 from bs4 import BeautifulSoup, Tag
 import pandas as pd
@@ -286,4 +286,4 @@ def main():
     enviar_email(contenido_email)
 
 if __name__ == "__main__":
-    main
+    main()
