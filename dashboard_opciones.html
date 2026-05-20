@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MEFF Opciones — Dashboard</title>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #050508;
+      --bg2:       #0b0b12;
+      --bg3:       #111120;
+      --border:    #1e1e30;
+      --border2:   #2a2a40;
+      --text:      #e2e8f0;
+      --muted:     #64748b;
+      --call:      #22c55e;
+      --call-dim:  rgba(34,197,94,0.15);
+      --put:       #ef4444;
+      --put-dim:   rgba(239,68,68,0.15);
+      --spot:      #f59e0b;
+      --spot-dim:  rgba(245,158,11,0.15);
+      --accent:    #6366f1;
+      --accent-dim:rgba(99,102,241,0.15);
+      --cyan:      #06b6d4;
+      --cyan-dim:  rgba(6,182,212,0.12);
+    }
+
+    html, body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'JetBrains Mono', monospace;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* ── Error screen ──────────────────────────────────────────────────────── */
+    #error-screen {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      gap: 1rem;
+      text-align: center;
+      padding: 2rem;
+    }
+    #error-screen .err-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--put);
+    }
+    #error-screen .err-cmd {
+      background: var(--bg3);
+      border: 1px solid var(--border2);
+      padding: 0.75rem 1.5rem;
+      font-size: 0.85rem;
+      color: var(--spot);
+      border-radius: 4px;
+    }
+    #error-screen .err-sub {
+      font-size: 0.75rem;
+      color: var(--muted);
+      max-width: 480px;
+      line-height: 1.6;
+    }
+
+    /* ── Loading ───────────────────────────────────────────────────────────── */
+    #loading {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      font-size: 0.85rem;
+      color: var(--muted);
+      letter-spacing: 0.1em;
+    }
+
+    /* ── Main layout ───────────────────────────────────────────────────────── */
+    #app { display: none; flex-direction: column; min-height: 100vh; }
+
+    /* ── Header ────────────────────────────────────────────────────────────── */
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1.25rem 2rem;
+      border-bottom: 1px solid var(--border);
+      background: var(--bg2);
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    .header-left {
+      display: flex;
+      flex-direction: column;
+      gap: 0.15rem;
+    }
+    .header-title {
+      font-size: 1.1rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      color: var(--text);
+    }
+    .header-sub {
+      font-size: 0.7rem;
+      color: var(--muted);
+      letter-spacing: 0.06em;
+    }
+    .header-right {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 0.15rem;
+    }
+    .header-fecha {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--spot);
+    }
+    .header-gen {
+      font-size: 0.65rem;
+      color: var(--muted);
+    }
+
+    /* ── KPI strip ─────────────────────────────────────────────────────────── */
+    .kpi-strip {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 0;
+      border-bottom: 1px solid var(--border);
+    }
+    @media (max-width: 700px) {
+      .kpi-strip { grid-template-columns: repeat(2, 1fr); }
+    }
+    .kpi-card {
+      padding: 1.1rem 1.5rem;
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+      background: var(--bg2);
+      transition: background 0.2s;
+    }
+    .kpi-card:last-child { border-right: none; }
+    .kpi-card:hover { background: var(--bg3); }
+    .kpi-label {
+      font-size: 0.62rem;
+      letter-spacing: 0.12em;
+      color: var(--muted);
+      text-transform: uppercase;
+    }
+    .kpi-value {
+      font-size: 1.3rem;
+      font-weight: 700;
+      line-height: 1;
+    }
+    .kpi-sub {
+      font-size: 0.62rem;
+      color: var(--muted);
+      margin-top: 0.1rem;
+    }
+    .kpi-c1 .kpi-value { color: var(--accent); }
+    .kpi-c2 .kpi-value { color: var(--spot); }
+    .kpi-c3 .kpi-value { color: var(--cyan); }
+    .kpi-c4 .kpi-value { color: var(--call); }
+
+    /* ── Tab navigation ────────────────────────────────────────────────────── */
+    .tab-nav {
+      display: flex;
+      padding: 0.75rem 2rem 0;
+      gap: 0;
+      border-bottom: 1px solid var(--border);
+      background: var(--bg2);
+    }
+    .tab-btn {
+      background: transparent;
+      border: none;
+      border-bottom: 2px solid transparent;
+      color: var(--muted);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.72rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 0.5rem 1.25rem 0.65rem;
+      cursor: pointer;
+      transition: color 0.2s, border-color 0.2s;
+    }
+    .tab-btn:hover { color: var(--text); }
+    .tab-btn.active {
+      color: var(--text);
+      border-bottom-color: var(--accent);
+    }
+
+    /* ── Panels ────────────────────────────────────────────────────────────── */
+    .panel { display: none; flex-direction: column; gap: 0; }
+    .panel.active { display: flex; }
+
+    /* ── Chart sections ────────────────────────────────────────────────────── */
+    .chart-section {
+      padding: 1.5rem 2rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .chart-section:last-child { border-bottom: none; }
+    .section-title {
+      font-size: 0.7rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 0.4rem;
+    }
+    .section-sub {
+      font-size: 0.65rem;
+      color: var(--muted);
+      margin-bottom: 1.2rem;
+      opacity: 0.7;
+    }
+    .chart-wrap {
+      position: relative;
+      width: 100%;
+    }
+
+    /* ── Legend ────────────────────────────────────────────────────────────── */
+    .legend {
+      display: flex;
+      gap: 1.5rem;
+      margin-top: 0.75rem;
+      flex-wrap: wrap;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-size: 0.65rem;
+      color: var(--muted);
+      letter-spacing: 0.06em;
+    }
+    .legend-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 2px;
+    }
+    .legend-line {
+      width: 14px;
+      height: 2px;
+    }
+
+    /* ── MINI IBEX stats strip ─────────────────────────────────────────────── */
+    .mini-stats {
+      display: flex;
+      gap: 0;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+    }
+    .mini-stat {
+      flex: 1;
+      padding: 0.65rem 1rem;
+      background: var(--bg3);
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      gap: 0.2rem;
+    }
+    .mini-stat:last-child { border-right: none; }
+    .mini-stat-label {
+      font-size: 0.6rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    .mini-stat-value {
+      font-size: 0.9rem;
+      font-weight: 600;
+    }
+
+    /* ── Top 5 table ───────────────────────────────────────────────────────── */
+    .mini-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.72rem;
+      margin-top: 1rem;
+    }
+    .mini-table th {
+      text-align: left;
+      padding: 0.4rem 0.75rem;
+      color: var(--muted);
+      font-weight: 400;
+      letter-spacing: 0.08em;
+      font-size: 0.62rem;
+      text-transform: uppercase;
+      border-bottom: 1px solid var(--border);
+    }
+    .mini-table td {
+      padding: 0.45rem 0.75rem;
+      border-bottom: 1px solid var(--border);
+      color: var(--text);
+    }
+    .mini-table tr:last-child td { border-bottom: none; }
+    .mini-table tr:hover td { background: var(--bg3); }
+    .tag-call {
+      display: inline-block;
+      padding: 0.15rem 0.4rem;
+      background: var(--call-dim);
+      color: var(--call);
+      border-radius: 3px;
+      font-size: 0.65rem;
+      font-weight: 600;
+    }
+    .tag-put {
+      display: inline-block;
+      padding: 0.15rem 0.4rem;
+      background: var(--put-dim);
+      color: var(--put);
+      border-radius: 3px;
+      font-size: 0.65rem;
+      font-weight: 600;
+    }
+
+    /* ── Footer ────────────────────────────────────────────────────────────── */
+    footer {
+      padding: 1rem 2rem;
+      font-size: 0.62rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      background: var(--bg2);
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Loading -->
+  <div id="loading">CARGANDO DATOS...</div>
+
+  <!-- Error screen -->
+  <div id="error-screen">
+    <div class="err-title">⚠ No se pudo cargar meff_opciones_latest.json</div>
+    <div class="err-sub">
+      Ejecuta primero <strong>meff_opciones.py</strong> para generar el archivo de datos,
+      luego sirve el directorio con un servidor local:
+    </div>
+    <div class="err-cmd">python3 -m http.server 8080</div>
+    <div class="err-sub">
+      Abre <strong>http://localhost:8080/dashboard_opciones.html</strong><br>
+      En producción, el workflow de GitHub Actions actualiza los datos automáticamente.
+    </div>
+  </div>
+
+  <!-- Main app -->
+  <div id="app">
+
+    <!-- Header -->
+    <header>
+      <div class="header-left">
+        <div class="header-title">▸ MEFF OPCIONES</div>
+        <div class="header-sub">MERCADO ESPAÑOL DE DERIVADOS — ACTIVIDAD DIARIA</div>
+      </div>
+      <div class="header-right">
+        <div class="header-fecha" id="hdr-fecha">—</div>
+        <div class="header-gen" id="hdr-gen">—</div>
+      </div>
+    </header>
+
+    <!-- KPI strip -->
+    <div class="kpi-strip">
+      <div class="kpi-card kpi-c1">
+        <div class="kpi-label">Subyacentes activos</div>
+        <div class="kpi-value" id="kpi-sub">—</div>
+        <div class="kpi-sub">acciones e índices</div>
+      </div>
+      <div class="kpi-card kpi-c2">
+        <div class="kpi-label">Volumen total</div>
+        <div class="kpi-value" id="kpi-vol">—</div>
+        <div class="kpi-sub">contratos negociados</div>
+      </div>
+      <div class="kpi-card kpi-c3">
+        <div class="kpi-label">OI total</div>
+        <div class="kpi-value" id="kpi-oi">—</div>
+        <div class="kpi-sub">posición abierta</div>
+      </div>
+      <div class="kpi-card kpi-c4">
+        <div class="kpi-label">Posición más activa</div>
+        <div class="kpi-value" id="kpi-top1" style="font-size:0.75rem; line-height:1.3; padding-top:0.2rem;">—</div>
+        <div class="kpi-sub" id="kpi-top1-vol">—</div>
+      </div>
+    </div>
+
+    <!-- Tab navigation -->
+    <div class="tab-nav">
+      <button class="tab-btn active" onclick="switchTab('general')">Vista General</button>
+      <button class="tab-btn" onclick="switchTab('mini')">MINI IBEX-35</button>
+    </div>
+
+    <!-- ── Panel 1: Vista General ─────────────────────────────────────────── -->
+    <div class="panel active" id="panel-general">
+
+      <!-- Top 10 Volumen -->
+      <div class="chart-section">
+        <div class="section-title">Top 10 Posiciones por Volumen</div>
+        <div class="section-sub">Las 10 posiciones con mayor número de contratos negociados en la sesión</div>
+        <div class="chart-wrap" style="height:340px;">
+          <canvas id="chart-top10"></canvas>
+        </div>
+        <div class="legend">
+          <div class="legend-item">
+            <div class="legend-dot" style="background:var(--call)"></div> CALL
+          </div>
+          <div class="legend-item">
+            <div class="legend-dot" style="background:var(--put)"></div> PUT
+          </div>
+        </div>
+      </div>
+
+      <!-- Volumen por subyacente (excl. índices) -->
+      <div class="chart-section">
+        <div class="section-title">Volumen por Acción (excl. índices)</div>
+        <div class="section-sub">CALL + PUT acumulado por subyacente — top 15 acciones individuales por actividad</div>
+        <div class="chart-wrap" style="height:400px;">
+          <canvas id="chart-acciones"></canvas>
+        </div>
+        <div class="legend">
+          <div class="legend-item">
+            <div class="legend-dot" style="background:var(--call)"></div> Vol CALL
+          </div>
+          <div class="legend-item">
+            <div class="legend-dot" style="background:var(--put)"></div> Vol PUT
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /panel-general -->
+
+    <!-- ── Panel 2: MINI IBEX-35 ──────────────────────────────────────────── -->
+    <div class="panel" id="panel-mini">
+
+      <!-- Stats strip -->
+      <div class="chart-section">
+        <div class="section-title">MINI IBEX-35 — Resumen de sesión</div>
+        <div class="section-sub">Perfil de actividad por strike — Volumen CALL (↑) y PUT (↓)</div>
+
+        <div class="mini-stats" id="mini-stats-strip">
+          <div class="mini-stat">
+            <div class="mini-stat-label">Spot</div>
+            <div class="mini-stat-value" id="ms-spot" style="color:var(--spot)">—</div>
+          </div>
+          <div class="mini-stat">
+            <div class="mini-stat-label">Vol CALL</div>
+            <div class="mini-stat-value" id="ms-vcall" style="color:var(--call)">—</div>
+          </div>
+          <div class="mini-stat">
+            <div class="mini-stat-label">Vol PUT</div>
+            <div class="mini-stat-value" id="ms-vput" style="color:var(--put)">—</div>
+          </div>
+          <div class="mini-stat">
+            <div class="mini-stat-label">Ratio C/(C+P)</div>
+            <div class="mini-stat-value" id="ms-ratio" style="color:var(--text)">—</div>
+          </div>
+          <div class="mini-stat">
+            <div class="mini-stat-label">OI total</div>
+            <div class="mini-stat-value" id="ms-oi" style="color:var(--cyan)">—</div>
+          </div>
+        </div>
+
+        <div class="chart-wrap" style="height:380px;">
+          <canvas id="chart-mini"></canvas>
+        </div>
+        <div class="legend">
+          <div class="legend-item">
+            <div class="legend-dot" style="background:var(--call)"></div> Vol CALL
+          </div>
+          <div class="legend-item">
+            <div class="legend-dot" style="background:var(--put)"></div> Vol PUT
+          </div>
+          <div class="legend-item">
+            <div class="legend-line" style="background:var(--spot)"></div> Spot
+          </div>
+        </div>
+      </div>
+
+      <!-- Top 5 table -->
+      <div class="chart-section">
+        <div class="section-title">Top 5 Posiciones MINI IBEX-35</div>
+        <div class="section-sub">Contratos CALL y PUT ordenados por volumen de la sesión</div>
+        <table class="mini-table" id="mini-table"></table>
+      </div>
+
+    </div><!-- /panel-mini -->
+
+    <footer>
+      <span>MEFF · Mercado Oficial de Futuros y Opciones Financieros en España</span>
+      <span id="footer-gen">—</span>
+    </footer>
+
+  </div><!-- /app -->
+
+  <script>
+  // ──────────────────────────────────────────────────────────────────────────
+  // Utilidades
+  // ──────────────────────────────────────────────────────────────────────────
+  function fmtNum(n, decimals = 0) {
+    if (n == null || isNaN(n)) return '—';
+    return Number(n).toLocaleString('es-ES', {
+      minimumFractionDigits: decimals,
+      maximumFractionDigits: decimals,
+    });
+  }
+  function fmtK(n) {
+    if (n == null || isNaN(n)) return '—';
+    const abs = Math.abs(n);
+    if (abs >= 1e6) return (n / 1e6).toFixed(1) + 'M';
+    if (abs >= 1e3) return (n / 1e3).toFixed(1) + 'K';
+    return String(n);
+  }
+
+  // ──────────────────────────────────────────────────────────────────────────
+  // Plugin: línea vertical del spot (para el gráfico MINI IBEX)
+  // ──────────────────────────────────────────────────────────────────────────
+  const spotLinePlugin = {
+    id: 'spotLine',
+    afterDraw(chart) {
+      const spot = chart.config._spotValue;
+      if (!spot) return;
+      const xScale = chart.scales.x;
+      if (!xScale) return;
+
+      const x = xScale.getPixelForValue(spot);
+      if (x < xScale.left || x > xScale.right) return;
+
+      const { ctx, chartArea } = chart;
+      ctx.save();
+      ctx.strokeStyle = 'rgba(245,158,11,0.9)';
+      ctx.lineWidth = 2;
+      ctx.setLineDash([5, 4]);
+      ctx.beginPath();
+      ctx.moveTo(x, chartArea.top);
+      ctx.lineTo(x, chartArea.bottom);
+      ctx.stroke();
+
+      // Label "SPOT"
+      ctx.fillStyle = 'rgba(245,158,11,0.85)';
+      ctx.font = '600 10px JetBrains Mono, monospace';
+      ctx.textAlign = 'center';
+      ctx.fillText('SPOT', x, chartArea.top - 4);
+      ctx.restore();
+    }
+  };
+
+  // ──────────────────────────────────────────────────────────────────────────
+  // Tab switching
+  // ──────────────────────────────────────────────────────────────────────────
+  function switchTab(tab) {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+    document.getElementById('panel-' + tab).classList.add('active');
+    document.querySelectorAll('.tab-btn').forEach(b => {
+      if (b.textContent.toLowerCase().includes(tab === 'general' ? 'general' : 'mini')) {
+        b.classList.add('active');
+      }
+    });
+    // Resize charts after tab switch (needed for Chart.js responsive)
+    setTimeout(() => {
+      Object.values(Chart.instances).forEach(c => c.resize());
+    }, 50);
+  }
+
+  // ──────────────────────────────────────────────────────────────────────────
+  // Default Chart.js theme
+  // ──────────────────────────────────────────────────────────────────────────
+  Chart.defaults.color = '#64748b';
+  Chart.defaults.borderColor = '#1e1e30';
+  Chart.defaults.font.family = "'JetBrains Mono', monospace";
+  Chart.defaults.font.size = 11;
+
+  // ──────────────────────────────────────────────────────────────────────────
+  // Build charts
+  // ──────────────────────────────────────────────────────────────────────────
+  function buildChartTop10(data) {
+    const rows = data.top10_volumen || [];
+    if (!rows.length) return;
+
+    const labels = rows.map(r =>
+      `${r.accion.length > 14 ? r.accion.slice(0, 14) + '…' : r.accion}  ${r.tipo}  ${r.strike}  ${r.fecha_vencimiento}`
+    );
+    const volumes = rows.map(r => r.volumen);
+    const colors  = rows.map(r => r.tipo === 'CALL' ? 'rgba(34,197,94,0.75)' : 'rgba(239,68,68,0.75)');
+    const borders = rows.map(r => r.tipo === 'CALL' ? '#22c55e' : '#ef4444');
+
+    new Chart(document.getElementById('chart-top10'), {
+      type: 'bar',
+      data: {
+        labels,
+        datasets: [{
+          data: volumes,
+          backgroundColor: colors,
+          borderColor: borders,
+          borderWidth: 1,
+          borderRadius: 2,
+        }]
+      },
+      options: {
+        indexAxis: 'y',
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              label(ctx) {
+                const r = rows[ctx.dataIndex];
+                return [
+                  ` Volumen: ${fmtNum(r.volumen)} contratos`,
+                  ` OI:      ${fmtNum(r.oi)} contratos`,
+                  r.spot ? ` Spot:    ${fmtNum(r.spot, 2)}` : '',
+                ].filter(Boolean);
+              }
+            }
+          }
+        },
+        scales: {
+          x: {
+            grid: { color: '#1a1a28' },
+            ticks: {
+              callback: v => fmtK(v),
+              color: '#64748b',
+            }
+          },
+          y: {
+            grid: { display: false },
+            ticks: {
+              color: '#94a3b8',
+              font: { size: 10 },
+            }
+          }
+        }
+      }
+    });
+  }
+
+  function buildChartAcciones(data) {
+    const all = data.vol_por_subyacente || [];
+    // Exclude index futures (IBEX)
+    const filtered = all.filter(r => !r.accion.toUpperCase().includes('IBEX'));
+    const top15 = filtered.slice(0, 15).reverse(); // reverse for horizontal bar (top at top)
+
+    if (!top15.length) return;
+
+    const labels    = top15.map(r => r.accion);
+    const callData  = top15.map(r => r.vol_call);
+    const putData   = top15.map(r => r.vol_put);
+
+    new Chart(document.getElementById('chart-acciones'), {
+      type: 'bar',
+      data: {
+        labels,
+        datasets: [
+          {
+            label: 'Vol CALL',
+            data: callData,
+            backgroundColor: 'rgba(34,197,94,0.65)',
+            borderColor: '#22c55e',
+            borderWidth: 1,
+            borderRadius: { topRight: 2, bottomRight: 2 },
+          },
+          {
+            label: 'Vol PUT',
+            data: putData,
+            backgroundColor: 'rgba(239,68,68,0.65)',
+            borderColor: '#ef4444',
+            borderWidth: 1,
+            borderRadius: { topRight: 2, bottomRight: 2 },
+          }
+        ]
+      },
+      options: {
+        indexAxis: 'y',
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              afterBody(items) {
+                if (!items.length) return;
+                const idx = items[0].dataIndex;
+                const r = top15[idx];
+                const total = r.vol_total;
+                const ratio = total > 0 ? ((r.vol_call / total) * 100).toFixed(1) : '—';
+                return [`Total: ${fmtNum(total)}`, `Call ratio: ${ratio}%`];
+              }
+            }
+          }
+        },
+        scales: {
+          x: {
+            stacked: true,
+            grid: { color: '#1a1a28' },
+            ticks: {
+              callback: v => fmtK(v),
+              color: '#64748b',
+            }
+          },
+          y: {
+            stacked: true,
+            grid: { display: false },
+            ticks: {
+              color: '#94a3b8',
+              font: { size: 10 },
+            }
+          }
+        }
+      }
+    });
+  }
+
+  function buildChartMini(data) {
+    const strikes = data.mini_ibex_por_strike || [];
+    if (!strikes.length) return;
+
+    const spot = data.mini_ibex_spot;
+
+    // Filter strikes within ±20% of spot for clarity (or all if no spot)
+    const strFiltered = spot
+      ? strikes.filter(s => s.strike >= spot * 0.80 && s.strike <= spot * 1.20)
+      : strikes;
+
+    const labels   = strFiltered.map(s => s.strike);
+    const callData = strFiltered.map(s => s.vol_call);
+    const putData  = strFiltered.map(s => -s.vol_put);   // negated for visual
+
+    const chart = new Chart(document.getElementById('chart-mini'), {
+      type: 'bar',
+      data: {
+        labels,
+        datasets: [
+          {
+            label: 'Vol CALL',
+            data: callData,
+            backgroundColor: 'rgba(34,197,94,0.7)',
+            borderColor: '#22c55e',
+            borderWidth: 1,
+            borderRadius: 2,
+          },
+          {
+            label: 'Vol PUT',
+            data: putData,
+            backgroundColor: 'rgba(239,68,68,0.7)',
+            borderColor: '#ef4444',
+            borderWidth: 1,
+            borderRadius: 2,
+          }
+        ]
+      },
+      plugins: [spotLinePlugin],
+      _spotValue: spot,
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              title(items) {
+                return `Strike: ${fmtNum(items[0].label)}`;
+              },
+              label(ctx) {
+                const s = strFiltered[ctx.dataIndex];
+                if (ctx.datasetIndex === 0) {
+                  return ` CALL  Vol: ${fmtNum(s.vol_call)}  OI: ${fmtNum(s.oi_call)}`;
+                } else {
+                  return ` PUT   Vol: ${fmtNum(s.vol_put)}  OI: ${fmtNum(s.oi_put)}`;
+                }
+              }
+            }
+          }
+        },
+        scales: {
+          x: {
+            grid: { color: '#1a1a28' },
+            ticks: {
+              color: '#64748b',
+              maxRotation: 45,
+              callback: v => fmtNum(labels[v]),
+            }
+          },
+          y: {
+            grid: { color: '#1a1a28' },
+            ticks: {
+              color: '#64748b',
+              callback: v => fmtK(Math.abs(v)),
+            }
+          }
+        }
+      }
+    });
+    return chart;
+  }
+
+  function buildMiniTable(data) {
+    const rows = data.mini_ibex_top5 || [];
+    const table = document.getElementById('mini-table');
+    if (!rows.length) {
+      table.innerHTML = '<tr><td style="color:var(--muted);padding:1rem">Sin datos</td></tr>';
+      return;
+    }
+    const headers = ['#', 'TIPO', 'STRIKE', 'VENCIMIENTO', 'VOLUMEN', 'OI'];
+    const thead = `<thead><tr>${headers.map(h => `<th>${h}</th>`).join('')}</tr></thead>`;
+    const tbody = '<tbody>' + rows.map(r => `
+      <tr>
+        <td style="color:var(--muted)">${r.rank}</td>
+        <td><span class="tag-${r.tipo.toLowerCase()}">${r.tipo}</span></td>
+        <td style="color:var(--text);font-weight:600">${fmtNum(parseFloat(r.strike.replace('.','').replace(',','.')) || 0)}</td>
+        <td style="color:var(--muted)">${r.fecha_vencimiento}</td>
+        <td style="color:var(--text);font-weight:600">${fmtNum(r.volumen)}</td>
+        <td style="color:var(--muted)">${fmtNum(r.oi)}</td>
+      </tr>
+    `).join('') + '</tbody>';
+    table.innerHTML = thead + tbody;
+  }
+
+  // ──────────────────────────────────────────────────────────────────────────
+  // Main: fetch JSON and render
+  // ──────────────────────────────────────────────────────────────────────────
+  async function init() {
+    let data;
+    try {
+      const res = await fetch('data/meff_opciones_latest.json');
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      data = await res.json();
+    } catch (e) {
+      document.getElementById('loading').style.display = 'none';
+      const err = document.getElementById('error-screen');
+      err.style.display = 'flex';
+      return;
+    }
+
+    // ── Populate header ────────────────────────────────────────────────────
+    document.getElementById('hdr-fecha').textContent =
+      'Boletín: ' + (data.meta?.fecha_boletin || '—');
+    document.getElementById('hdr-gen').textContent =
+      'Generado: ' + (data.meta?.generado || '—');
+    document.getElementById('footer-gen').textContent =
+      'Generado: ' + (data.meta?.generado || '—');
+
+    // ── KPI cards ──────────────────────────────────────────────────────────
+    const t = data.totales || {};
+    document.getElementById('kpi-sub').textContent = fmtNum(t.subyacentes);
+    document.getElementById('kpi-vol').textContent = fmtK(t.vol_total);
+    document.getElementById('kpi-oi').textContent  = fmtK(t.oi_total);
+
+    const top1 = (data.top10_volumen || [])[0];
+    if (top1) {
+      document.getElementById('kpi-top1').textContent =
+        `${top1.accion} ${top1.tipo} ${top1.strike}`;
+      document.getElementById('kpi-top1-vol').textContent =
+        `${fmtNum(top1.volumen)} contratos · ${top1.fecha_vencimiento}`;
+    }
+
+    // ── MINI IBEX stats strip ──────────────────────────────────────────────
+    const miniAll = data.vol_por_subyacente?.find(r =>
+      r.accion.toUpperCase().includes('MINI IBEX')
+    );
+    if (miniAll) {
+      document.getElementById('ms-spot').textContent =
+        data.mini_ibex_spot ? fmtNum(data.mini_ibex_spot, 2) : '—';
+      document.getElementById('ms-vcall').textContent = fmtK(miniAll.vol_call);
+      document.getElementById('ms-vput').textContent  = fmtK(miniAll.vol_put);
+      const ratio = miniAll.vol_total > 0
+        ? ((miniAll.vol_call / miniAll.vol_total) * 100).toFixed(1) + '%'
+        : '—';
+      document.getElementById('ms-ratio').textContent = ratio;
+      document.getElementById('ms-oi').textContent = fmtK(miniAll.oi_total);
+    }
+
+    // ── Build charts ───────────────────────────────────────────────────────
+    buildChartTop10(data);
+    buildChartAcciones(data);
+    buildChartMini(data);
+    buildMiniTable(data);
+
+    // ── Show app ───────────────────────────────────────────────────────────
+    document.getElementById('loading').style.display = 'none';
+    const app = document.getElementById('app');
+    app.style.display = 'flex';
+    app.style.opacity = '0';
+    app.style.transition = 'opacity 0.3s ease';
+    requestAnimationFrame(() => { app.style.opacity = '1'; });
+  }
+
+  init();
+  </script>
+</body>
+</html>
