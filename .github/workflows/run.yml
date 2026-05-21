@@ -35,10 +35,10 @@ jobs:
           PASSWORD_APP: ${{ secrets.PASSWORD_APP }}
         run: python meff_opciones.py
 
-      - name: Commit y push CSV
+      - name: Commit y push datos
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add data/*.csv || true
-          git diff --cached --quiet || git commit -m "CSV actualizado $(date +'%Y-%m-%d')"
+          git add data/*.csv data/*.json data/*.txt || true
+          git diff --cached --quiet || git commit -m "datos actualizados $(date +'%Y-%m-%d')"
           git push
