@@ -1,7 +1,7 @@
 {
   "meta": {
     "fecha_boletin": "12/06/26",
-    "generado": "13/06/2026 06:59",
+    "generado": "14/06/2026 07:24",
     "fuente": "MEFF — Mercado Oficial de Futuros y Opciones Financieros en España"
   },
   "totales": {
@@ -20,15 +20,6 @@
       "spot": 583.0
     },
     {
-      "accion": "SANTANDER",
-      "tipo": "PUT",
-      "strike": "8,50",
-      "fecha_vencimiento": "Jun-26",
-      "volumen": 1000,
-      "oi": 2000,
-      "spot": 1103.0
-    },
-    {
       "accion": "MERLIN",
       "tipo": "PUT",
       "strike": "11,00",
@@ -36,6 +27,15 @@
       "volumen": 1000,
       "oi": 300,
       "spot": 1524.0
+    },
+    {
+      "accion": "SANTANDER",
+      "tipo": "PUT",
+      "strike": "8,50",
+      "fecha_vencimiento": "Jun-26",
+      "volumen": 1000,
+      "oi": 2000,
+      "spot": 1103.0
     },
     {
       "accion": "SANTANDER",
@@ -47,15 +47,6 @@
       "spot": 1103.0
     },
     {
-      "accion": "AENA",
-      "tipo": "PUT",
-      "strike": "22,00",
-      "fecha_vencimiento": "Sep-26",
-      "volumen": 500,
-      "oi": 60,
-      "spot": 2594.0
-    },
-    {
       "accion": "ACERINOX",
       "tipo": "CALL",
       "strike": "18,00",
@@ -63,6 +54,15 @@
       "volumen": 500,
       "oi": 500,
       "spot": 1698.0
+    },
+    {
+      "accion": "AENA",
+      "tipo": "PUT",
+      "strike": "22,00",
+      "fecha_vencimiento": "Sep-26",
+      "volumen": 500,
+      "oi": 60,
+      "spot": 2594.0
     },
     {
       "accion": "IBERDROLA",
