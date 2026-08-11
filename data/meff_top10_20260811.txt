@@ -1,0 +1,18 @@
+====================================================================================================
+  MEFF - TOP 10 VOLUMEN CONTRATOS  |  Boletin: 10/08/26
+====================================================================================================
+
+FECHA_BOLETIN  ACCION           TIPO  FECHA_VENCIMIENTO  STRIKE  VOLUMEN_CONTRATOS  POSICION_ABIERTA
+-------------  ---------------  ----  -----------------  ------  -----------------  ----------------
+10/08/26       OBRASCON HUARTE  CALL  Jun-28             0,35    600                900             
+10/08/26       SANTANDER        CALL  Dic-26             14,00   364                364             
+10/08/26       BBVA             CALL  Jun-27             25,00   323                566             
+10/08/26       OBRASCON HUARTE  CALL  Sep-26             0,50    200                200             
+10/08/26       BBVA             CALL  Sep-26             26,00   140                170             
+10/08/26       OBRASCON HUARTE  CALL  Mar-27             0,40    100                300             
+10/08/26       BBVA             PUT   Sep-26             24,00   100                10              
+10/08/26       OBRASCON HUARTE  CALL  Ago-26             0,45    100                100             
+10/08/26       OBRASCON HUARTE  CALL  Ago-26             0,50    100                100             
+10/08/26       SANTANDER        CALL  Ago-26             11,00   100                361             
+-------------  ---------------  ----  -----------------  ------  -----------------  ----------------
+Generado: 11/08/2026 04:20
