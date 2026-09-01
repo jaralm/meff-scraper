@@ -1,274 +1,288 @@
 {
   "meta": {
-    "fecha_boletin": "28/08/26",
-    "generado": "31/08/2026 09:26",
+    "fecha_boletin": "31/08/26",
+    "generado": "01/09/2026 08:23",
     "fuente": "MEFF — Mercado Oficial de Futuros y Opciones Financieros en España"
   },
   "totales": {
     "subyacentes": 48,
-    "vol_total": 15785,
-    "oi_total": 5277545
+    "vol_total": 12878,
+    "oi_total": 5284505
   },
   "top10_volumen": [
     {
       "accion": "SANTANDER",
       "tipo": "CALL",
       "strike": "13,00",
-      "fecha_vencimiento": "Sep-26",
-      "volumen": 10000,
-      "oi": 10064,
-      "spot": 1271.0
-    },
-    {
-      "accion": "IBERDROLA",
-      "tipo": "PUT",
-      "strike": "20,00",
       "fecha_vencimiento": "Dic-26",
-      "volumen": 2500,
-      "oi": 81018,
-      "spot": 2028.0
+      "volumen": 6000,
+      "oi": 16015,
+      "spot": 1266.0
     },
     {
       "accion": "IBERDROLA",
-      "tipo": "PUT",
-      "strike": "20,00",
-      "fecha_vencimiento": "Dic-27",
-      "volumen": 2500,
-      "oi": 9250,
-      "spot": 2028.0
-    },
-    {
-      "accion": "INDRA",
       "tipo": "CALL",
-      "strike": "60,00",
-      "fecha_vencimiento": "Dic-26",
-      "volumen": 200,
-      "oi": 196,
-      "spot": 625.0
-    },
-    {
-      "accion": "IBERDROLA",
-      "tipo": "PUT",
-      "strike": "17,50",
-      "fecha_vencimiento": "Jun-27",
-      "volumen": 48,
-      "oi": 5,
-      "spot": 2028.0
-    },
-    {
-      "accion": "SANTANDER",
-      "tipo": "CALL",
-      "strike": "15,00",
-      "fecha_vencimiento": "Mar-27",
-      "volumen": 30,
-      "oi": 120,
-      "spot": 1271.0
-    },
-    {
-      "accion": "SANTANDER",
-      "tipo": "PUT",
-      "strike": "12,00",
-      "fecha_vencimiento": "Nov-26",
-      "volumen": 20,
-      "oi": 26,
-      "spot": 1271.0
-    },
-    {
-      "accion": "BBVA",
-      "tipo": "PUT",
-      "strike": "23,00",
+      "strike": "20,50",
       "fecha_vencimiento": "Oct-26",
-      "volumen": 20,
-      "oi": 121,
-      "spot": 2504.0
+      "volumen": 5000,
+      "oi": 5001,
+      "spot": 2008.0
     },
     {
-      "accion": "INDRA",
+      "accion": "IAG",
       "tipo": "CALL",
-      "strike": "70,00",
+      "strike": "4,90",
+      "fecha_vencimiento": "Sep-26",
+      "volumen": 210,
+      "oi": 202,
+      "spot": 501.0
+    },
+    {
+      "accion": "ENDESA",
+      "tipo": "CALL",
+      "strike": "56,00",
+      "fecha_vencimiento": "Jun-27",
+      "volumen": 155,
+      "oi": 410,
+      "spot": 421.0
+    },
+    {
+      "accion": "REPSOL",
+      "tipo": "PUT",
+      "strike": "27,00",
+      "fecha_vencimiento": "Sep-26",
+      "volumen": 151,
+      "oi": 302,
+      "spot": 2725.0
+    },
+    {
+      "accion": "IAG",
+      "tipo": "CALL",
+      "strike": "6,50",
+      "fecha_vencimiento": "Mar-27",
+      "volumen": 150,
+      "oi": 150,
+      "spot": 501.0
+    },
+    {
+      "accion": "SANTANDER",
+      "tipo": "CALL",
+      "strike": "14,00",
       "fecha_vencimiento": "Dic-26",
-      "volumen": 20,
-      "oi": 20,
-      "spot": 625.0
+      "volumen": 103,
+      "oi": 112,
+      "spot": 1266.0
+    },
+    {
+      "accion": "CAIXABANK",
+      "tipo": "PUT",
+      "strike": "12,50",
+      "fecha_vencimiento": "Sep-26",
+      "volumen": 100,
+      "oi": 108,
+      "spot": 1316.0
     },
     {
       "accion": "REPSOL",
       "tipo": "CALL",
-      "strike": "27,00",
+      "strike": "28,00",
       "fecha_vencimiento": "Sep-26",
-      "volumen": 20,
-      "oi": 198,
-      "spot": 266.0
+      "volumen": 100,
+      "oi": 297,
+      "spot": 2725.0
+    },
+    {
+      "accion": "MINI IBEX-35",
+      "tipo": "PUT",
+      "strike": "19.600",
+      "fecha_vencimiento": "Sep-26",
+      "volumen": 76,
+      "oi": 80,
+      "spot": 199741.0
     }
   ],
   "vol_por_subyacente": [
     {
       "accion": "SANTANDER",
-      "vol_call": 10046,
-      "vol_put": 41,
-      "vol_total": 10087,
-      "oi_total": 1556066
+      "vol_call": 6163,
+      "vol_put": 35,
+      "vol_total": 6198,
+      "oi_total": 1557104
     },
     {
       "accion": "IBERDROLA",
-      "vol_call": 17,
-      "vol_put": 5050,
-      "vol_total": 5067,
-      "oi_total": 826985
-    },
-    {
-      "accion": "INDRA",
-      "vol_call": 246,
-      "vol_put": 20,
-      "vol_total": 266,
-      "oi_total": 4247
-    },
-    {
-      "accion": "BBVA",
-      "vol_call": 24,
-      "vol_put": 80,
-      "vol_total": 104,
-      "oi_total": 591624
-    },
-    {
-      "accion": "MINI IBEX-35",
-      "vol_call": 16,
-      "vol_put": 26,
-      "vol_total": 42,
-      "oi_total": 115981
-    },
-    {
-      "accion": "REPSOL",
-      "vol_call": 34,
-      "vol_put": 3,
-      "vol_total": 37,
-      "oi_total": 653110
-    },
-    {
-      "accion": "PUIG",
-      "vol_call": 0,
-      "vol_put": 34,
-      "vol_total": 34,
-      "oi_total": 31241
-    },
-    {
-      "accion": "GRIFOLS",
-      "vol_call": 21,
-      "vol_put": 5,
-      "vol_total": 26,
-      "oi_total": 19889
-    },
-    {
-      "accion": "TELEFONICA",
-      "vol_call": 10,
-      "vol_put": 16,
-      "vol_total": 26,
-      "oi_total": 1009160
+      "vol_call": 5072,
+      "vol_put": 15,
+      "vol_total": 5087,
+      "oi_total": 831979
     },
     {
       "accion": "IAG",
-      "vol_call": 15,
+      "vol_call": 360,
+      "vol_put": 10,
+      "vol_total": 370,
+      "oi_total": 28430
+    },
+    {
+      "accion": "REPSOL",
+      "vol_call": 153,
+      "vol_put": 208,
+      "vol_total": 361,
+      "oi_total": 653326
+    },
+    {
+      "accion": "MINI IBEX-35",
+      "vol_call": 47,
+      "vol_put": 126,
+      "vol_total": 173,
+      "oi_total": 116120
+    },
+    {
+      "accion": "ENDESA",
+      "vol_call": 155,
       "vol_put": 0,
-      "vol_total": 15,
-      "oi_total": 28291
+      "vol_total": 155,
+      "oi_total": 8310
+    },
+    {
+      "accion": "BBVA",
+      "vol_call": 65,
+      "vol_put": 56,
+      "vol_total": 121,
+      "oi_total": 591719
+    },
+    {
+      "accion": "CAIXABANK",
+      "vol_call": 1,
+      "vol_put": 102,
+      "vol_total": 103,
+      "oi_total": 183160
+    },
+    {
+      "accion": "TELEFONICA",
+      "vol_call": 58,
+      "vol_put": 10,
+      "vol_total": 68,
+      "oi_total": 1009192
+    },
+    {
+      "accion": "FERROVIAL",
+      "vol_call": 60,
+      "vol_put": 2,
+      "vol_total": 62,
+      "oi_total": 15300
+    },
+    {
+      "accion": "GRIFOLS",
+      "vol_call": 15,
+      "vol_put": 34,
+      "vol_total": 49,
+      "oi_total": 19935
+    },
+    {
+      "accion": "ACCIONA",
+      "vol_call": 3,
+      "vol_put": 30,
+      "vol_total": 33,
+      "oi_total": 230
+    },
+    {
+      "accion": "INDITEX",
+      "vol_call": 28,
+      "vol_put": 3,
+      "vol_total": 31,
+      "oi_total": 38412
+    },
+    {
+      "accion": "INDRA",
+      "vol_call": 4,
+      "vol_put": 15,
+      "vol_total": 19,
+      "oi_total": 4241
+    },
+    {
+      "accion": "COLONIAL",
+      "vol_call": 0,
+      "vol_put": 14,
+      "vol_total": 14,
+      "oi_total": 4435
     },
     {
       "accion": "AMADEUS",
       "vol_call": 6,
-      "vol_put": 7,
-      "vol_total": 13,
-      "oi_total": 19533
-    },
-    {
-      "accion": "ACS",
-      "vol_call": 12,
-      "vol_put": 0,
-      "vol_total": 12,
-      "oi_total": 5238
-    },
-    {
-      "accion": "FERROVIAL",
-      "vol_call": 1,
-      "vol_put": 11,
-      "vol_total": 12,
-      "oi_total": 15242
-    },
-    {
-      "accion": "AENA",
-      "vol_call": 1,
-      "vol_put": 6,
+      "vol_put": 1,
       "vol_total": 7,
-      "oi_total": 2572
-    },
-    {
-      "accion": "LABORAT. ROVI",
-      "vol_call": 0,
-      "vol_put": 7,
-      "vol_total": 7,
-      "oi_total": 4990
+      "oi_total": 19538
     },
     {
       "accion": "MERLIN",
-      "vol_call": 0,
-      "vol_put": 6,
-      "vol_total": 6,
-      "oi_total": 39942
-    },
-    {
-      "accion": "ACERINOX",
-      "vol_call": 0,
-      "vol_put": 5,
-      "vol_total": 5,
-      "oi_total": 4971
-    },
-    {
-      "accion": "ARCELORMITTAL",
       "vol_call": 5,
       "vol_put": 0,
       "vol_total": 5,
-      "oi_total": 1301
+      "oi_total": 39947
     },
     {
-      "accion": "ENDESA",
+      "accion": "ARCELORMITTAL",
       "vol_call": 4,
-      "vol_put": 1,
-      "vol_total": 5,
-      "oi_total": 8155
+      "vol_put": 0,
+      "vol_total": 4,
+      "oi_total": 1305
     },
     {
-      "accion": "SOLARIA",
+      "accion": "LABORAT. ROVI",
+      "vol_call": 4,
+      "vol_put": 0,
+      "vol_total": 4,
+      "oi_total": 4992
+    },
+    {
+      "accion": "MELIA HOTELS",
       "vol_call": 0,
-      "vol_put": 5,
-      "vol_total": 5,
-      "oi_total": 4118
+      "vol_put": 4,
+      "vol_total": 4,
+      "oi_total": 3274
     },
     {
-      "accion": "INDITEX",
+      "accion": "ACS",
+      "vol_call": 2,
+      "vol_put": 0,
+      "vol_total": 2,
+      "oi_total": 5238
+    },
+    {
+      "accion": "B.SABADELL",
+      "vol_call": 2,
+      "vol_put": 0,
+      "vol_total": 2,
+      "oi_total": 16256
+    },
+    {
+      "accion": "NATURGY",
       "vol_call": 1,
       "vol_put": 1,
       "vol_total": 2,
-      "oi_total": 38409
+      "oi_total": 6882
     },
     {
-      "accion": "CELLNEX",
+      "accion": "PUIG",
       "vol_call": 0,
-      "vol_put": 1,
-      "vol_total": 1,
-      "oi_total": 24746
+      "vol_put": 2,
+      "vol_total": 2,
+      "oi_total": 31241
     },
     {
-      "accion": "VISCOFAN",
-      "vol_call": 0,
-      "vol_put": 1,
-      "vol_total": 1,
-      "oi_total": 299
-    },
-    {
-      "accion": "ACCIONA",
-      "vol_call": 0,
+      "accion": "ENAGAS",
+      "vol_call": 1,
       "vol_put": 0,
-      "vol_total": 0,
-      "oi_total": 203
+      "vol_total": 1,
+      "oi_total": 10791
+    },
+    {
+      "accion": "REDEIA",
+      "vol_call": 0,
+      "vol_put": 1,
+      "vol_total": 1,
+      "oi_total": 2564
     },
     {
       "accion": "ACCIONA ENERGIA",
@@ -276,6 +290,20 @@
       "vol_put": 0,
       "vol_total": 0,
       "oi_total": 69
+    },
+    {
+      "accion": "ACERINOX",
+      "vol_call": 0,
+      "vol_put": 0,
+      "vol_total": 0,
+      "oi_total": 4971
+    },
+    {
+      "accion": "AENA",
+      "vol_call": 0,
+      "vol_put": 0,
+      "vol_total": 0,
+      "oi_total": 2572
     },
     {
       "accion": "ALMIRALL",
@@ -292,13 +320,6 @@
       "oi_total": 178
     },
     {
-      "accion": "B.SABADELL",
-      "vol_call": 0,
-      "vol_put": 0,
-      "vol_total": 0,
-      "oi_total": 16258
-    },
-    {
       "accion": "BANKINTER",
       "vol_call": 0,
       "vol_put": 0,
@@ -306,11 +327,11 @@
       "oi_total": 8921
     },
     {
-      "accion": "CAIXABANK",
+      "accion": "CELLNEX",
       "vol_call": 0,
       "vol_put": 0,
       "vol_total": 0,
-      "oi_total": 183160
+      "oi_total": 24746
     },
     {
       "accion": "CIE AUTOMOTIVE",
@@ -320,25 +341,11 @@
       "oi_total": 146
     },
     {
-      "accion": "COLONIAL",
-      "vol_call": 0,
-      "vol_put": 0,
-      "vol_total": 0,
-      "oi_total": 4421
-    },
-    {
       "accion": "EBRO FOODS",
       "vol_call": 0,
       "vol_put": 0,
       "vol_total": 0,
       "oi_total": 24
-    },
-    {
-      "accion": "ENAGAS",
-      "vol_call": 0,
-      "vol_put": 0,
-      "vol_total": 0,
-      "oi_total": 10790
     },
     {
       "accion": "ENCE",
@@ -376,20 +383,6 @@
       "oi_total": 4304
     },
     {
-      "accion": "MELIA HOTELS",
-      "vol_call": 0,
-      "vol_put": 0,
-      "vol_total": 0,
-      "oi_total": 3278
-    },
-    {
-      "accion": "NATURGY",
-      "vol_call": 0,
-      "vol_put": 0,
-      "vol_total": 0,
-      "oi_total": 6882
-    },
-    {
       "accion": "OBRASCON HUARTE",
       "vol_call": 0,
       "vol_put": 0,
@@ -404,18 +397,18 @@
       "oi_total": 183
     },
     {
-      "accion": "REDEIA",
-      "vol_call": 0,
-      "vol_put": 0,
-      "vol_total": 0,
-      "oi_total": 2565
-    },
-    {
       "accion": "SACYR",
       "vol_call": 0,
       "vol_put": 0,
       "vol_total": 0,
       "oi_total": 22784
+    },
+    {
+      "accion": "SOLARIA",
+      "vol_call": 0,
+      "vol_put": 0,
+      "vol_total": 0,
+      "oi_total": 4118
     },
     {
       "accion": "TECNICAS REUNIDAS",
@@ -437,9 +430,16 @@
       "vol_put": 0,
       "vol_total": 0,
       "oi_total": 58
+    },
+    {
+      "accion": "VISCOFAN",
+      "vol_call": 0,
+      "vol_put": 0,
+      "vol_total": 0,
+      "oi_total": 299
     }
   ],
-  "mini_ibex_spot": 200419.0,
+  "mini_ibex_spot": 199741.0,
   "mini_ibex_por_strike": [
     {
       "strike": 7500.0,
@@ -787,9 +787,9 @@
     {
       "strike": 16500.0,
       "vol_call": 0,
-      "vol_put": 0,
+      "vol_put": 1,
       "oi_call": 33,
-      "oi_put": 54
+      "oi_put": 55
     },
     {
       "strike": 16600.0,
@@ -801,7 +801,7 @@
     {
       "strike": 16700.0,
       "vol_call": 0,
-      "vol_put": 2,
+      "vol_put": 0,
       "oi_call": 1532,
       "oi_put": 1517
     },
@@ -857,7 +857,7 @@
     {
       "strike": 17500.0,
       "vol_call": 0,
-      "vol_put": 1,
+      "vol_put": 0,
       "oi_call": 1013,
       "oi_put": 1163
     },
@@ -990,14 +990,14 @@
     {
       "strike": 18750.0,
       "vol_call": 0,
-      "vol_put": 0,
+      "vol_put": 1,
       "oi_call": 0,
-      "oi_put": 5
+      "oi_put": 6
     },
     {
       "strike": 18800.0,
       "vol_call": 0,
-      "vol_put": 0,
+      "vol_put": 1,
       "oi_call": 0,
       "oi_put": 13
     },
@@ -1018,13 +1018,13 @@
     {
       "strike": 18950.0,
       "vol_call": 0,
-      "vol_put": 2,
+      "vol_put": 0,
       "oi_call": 3,
       "oi_put": 6
     },
     {
       "strike": 19000.0,
-      "vol_call": 1,
+      "vol_call": 0,
       "vol_put": 0,
       "oi_call": 15,
       "oi_put": 10928
@@ -1032,21 +1032,21 @@
     {
       "strike": 19050.0,
       "vol_call": 0,
-      "vol_put": 1,
+      "vol_put": 0,
       "oi_call": 0,
       "oi_put": 7
     },
     {
       "strike": 19100.0,
       "vol_call": 0,
-      "vol_put": 1,
+      "vol_put": 0,
       "oi_call": 20,
       "oi_put": 39
     },
     {
       "strike": 19150.0,
       "vol_call": 0,
-      "vol_put": 1,
+      "vol_put": 0,
       "oi_call": 0,
       "oi_put": 5
     },
@@ -1081,7 +1081,7 @@
     {
       "strike": 19400.0,
       "vol_call": 0,
-      "vol_put": 2,
+      "vol_put": 0,
       "oi_call": 6757,
       "oi_put": 6763
     },
@@ -1095,23 +1095,23 @@
     {
       "strike": 19500.0,
       "vol_call": 0,
-      "vol_put": 2,
+      "vol_put": 0,
       "oi_call": 46,
       "oi_put": 32
     },
     {
       "strike": 19550.0,
       "vol_call": 0,
-      "vol_put": 1,
+      "vol_put": 0,
       "oi_call": 2,
       "oi_put": 3
     },
     {
       "strike": 19600.0,
       "vol_call": 0,
-      "vol_put": 3,
+      "vol_put": 77,
       "oi_call": 3,
-      "oi_put": 21
+      "oi_put": 94
     },
     {
       "strike": 19650.0,
@@ -1122,9 +1122,9 @@
     },
     {
       "strike": 19700.0,
-      "vol_call": 0,
-      "vol_put": 1,
-      "oi_call": 6,
+      "vol_call": 1,
+      "vol_put": 0,
+      "oi_call": 7,
       "oi_put": 34
     },
     {
@@ -1137,9 +1137,9 @@
     {
       "strike": 19800.0,
       "vol_call": 1,
-      "vol_put": 0,
+      "vol_put": 2,
       "oi_call": 12,
-      "oi_put": 114
+      "oi_put": 116
     },
     {
       "strike": 19850.0,
@@ -1150,24 +1150,24 @@
     },
     {
       "strike": 19900.0,
-      "vol_call": 0,
-      "vol_put": 6,
-      "oi_call": 125,
-      "oi_put": 40
+      "vol_call": 2,
+      "vol_put": 3,
+      "oi_call": 127,
+      "oi_put": 42
     },
     {
       "strike": 19950.0,
-      "vol_call": 1,
+      "vol_call": 0,
       "vol_put": 0,
       "oi_call": 24,
       "oi_put": 3
     },
     {
       "strike": 20000.0,
-      "vol_call": 2,
-      "vol_put": 1,
-      "oi_call": 99,
-      "oi_put": 104
+      "vol_call": 5,
+      "vol_put": 5,
+      "oi_call": 104,
+      "oi_put": 103
     },
     {
       "strike": 20050.0,
@@ -1178,38 +1178,38 @@
     },
     {
       "strike": 20100.0,
-      "vol_call": 0,
-      "vol_put": 0,
-      "oi_call": 20,
-      "oi_put": 42
+      "vol_call": 3,
+      "vol_put": 29,
+      "oi_call": 23,
+      "oi_put": 67
     },
     {
       "strike": 20150.0,
-      "vol_call": 4,
+      "vol_call": 1,
       "vol_put": 0,
-      "oi_call": 3,
+      "oi_call": 4,
       "oi_put": 10
     },
     {
       "strike": 20200.0,
-      "vol_call": 0,
-      "vol_put": 1,
-      "oi_call": 28,
+      "vol_call": 2,
+      "vol_put": 0,
+      "oi_call": 27,
       "oi_put": 6
     },
     {
       "strike": 20250.0,
-      "vol_call": 0,
+      "vol_call": 3,
       "vol_put": 0,
-      "oi_call": 17,
+      "oi_call": 18,
       "oi_put": 2
     },
     {
       "strike": 20300.0,
-      "vol_call": 1,
-      "vol_put": 0,
+      "vol_call": 3,
+      "vol_put": 5,
       "oi_call": 48,
-      "oi_put": 146
+      "oi_put": 151
     },
     {
       "strike": 20350.0,
@@ -1220,24 +1220,24 @@
     },
     {
       "strike": 20400.0,
-      "vol_call": 3,
+      "vol_call": 0,
       "vol_put": 0,
       "oi_call": 17,
       "oi_put": 1
     },
     {
       "strike": 20450.0,
-      "vol_call": 0,
+      "vol_call": 1,
       "vol_put": 0,
-      "oi_call": 8,
+      "oi_call": 7,
       "oi_put": 0
     },
     {
       "strike": 20500.0,
-      "vol_call": 1,
-      "vol_put": 0,
+      "vol_call": 0,
+      "vol_put": 1,
       "oi_call": 6026,
-      "oi_put": 5
+      "oi_put": 6
     },
     {
       "strike": 20550.0,
@@ -1262,9 +1262,9 @@
     },
     {
       "strike": 20700.0,
-      "vol_call": 1,
+      "vol_call": 14,
       "vol_put": 0,
-      "oi_call": 211,
+      "oi_call": 224,
       "oi_put": 1
     },
     {
@@ -1290,14 +1290,14 @@
     },
     {
       "strike": 21000.0,
-      "vol_call": 0,
+      "vol_call": 9,
       "vol_put": 0,
-      "oi_call": 5213,
+      "oi_call": 5219,
       "oi_put": 0
     },
     {
       "strike": 21050.0,
-      "vol_call": 1,
+      "vol_call": 0,
       "vol_put": 0,
       "oi_call": 2,
       "oi_put": 0
@@ -1325,16 +1325,16 @@
     },
     {
       "strike": 21300.0,
-      "vol_call": 0,
+      "vol_call": 1,
       "vol_put": 0,
-      "oi_call": 18,
+      "oi_call": 17,
       "oi_put": 0
     },
     {
       "strike": 21400.0,
-      "vol_call": 0,
+      "vol_call": 1,
       "vol_put": 0,
-      "oi_call": 1,
+      "oi_call": 2,
       "oi_put": 1
     },
     {
@@ -1433,42 +1433,42 @@
     {
       "rank": 1,
       "tipo": "PUT",
-      "strike": "19.900",
-      "fecha_vencimiento": "Oct-26",
-      "volumen": 5,
-      "oi": 19
+      "strike": "19.600",
+      "fecha_vencimiento": "Sep-26",
+      "volumen": 76,
+      "oi": 80
     },
     {
       "rank": 2,
-      "tipo": "CALL",
-      "strike": "20.150",
+      "tipo": "PUT",
+      "strike": "20.100",
       "fecha_vencimiento": "Sep-26",
-      "volumen": 4,
-      "oi": 3
+      "volumen": 29,
+      "oi": 56
     },
     {
       "rank": 3,
       "tipo": "CALL",
-      "strike": "20.400",
-      "fecha_vencimiento": "Sep-26",
-      "volumen": 3,
-      "oi": 11
+      "strike": "20.700",
+      "fecha_vencimiento": "Oct-26",
+      "volumen": 11,
+      "oi": 112
     },
     {
       "rank": 4,
-      "tipo": "PUT",
-      "strike": "19.500",
-      "fecha_vencimiento": "Sep-26",
-      "volumen": 2,
-      "oi": 22
+      "tipo": "CALL",
+      "strike": "21.000",
+      "fecha_vencimiento": "Oct-26",
+      "volumen": 6,
+      "oi": 6
     },
     {
       "rank": 5,
       "tipo": "PUT",
-      "strike": "18.950",
-      "fecha_vencimiento": "Oct-26",
-      "volumen": 2,
-      "oi": 4
+      "strike": "20.300",
+      "fecha_vencimiento": "Sep-26",
+      "volumen": 5,
+      "oi": 149
     }
   ]
 }
