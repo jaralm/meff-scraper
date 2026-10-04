@@ -1,7 +1,7 @@
 {
   "meta": {
     "fecha_boletin": "02/10/26",
-    "generado": "03/10/2026 08:55",
+    "generado": "04/10/2026 09:26",
     "fuente": "MEFF — Mercado Oficial de Futuros y Opciones Financieros en España"
   },
   "totales": {
@@ -22,19 +22,19 @@
     {
       "accion": "CAIXABANK",
       "tipo": "PUT",
-      "strike": "6,50",
-      "fecha_vencimiento": "Mar-27",
+      "strike": "7,75",
+      "fecha_vencimiento": "Sep-27",
       "volumen": 10000,
-      "oi": 39800,
+      "oi": 10000,
       "spot": 1204.0
     },
     {
       "accion": "CAIXABANK",
       "tipo": "PUT",
-      "strike": "7,75",
-      "fecha_vencimiento": "Sep-27",
+      "strike": "6,50",
+      "fecha_vencimiento": "Mar-27",
       "volumen": 10000,
-      "oi": 10000,
+      "oi": 39800,
       "spot": 1204.0
     },
     {
