@@ -1,7 +1,7 @@
 {
   "meta": {
     "fecha_boletin": "30/10/26",
-    "generado": "01/11/2026 10:10",
+    "generado": "02/11/2026 10:39",
     "fuente": "MEFF — Mercado Oficial de Futuros y Opciones Financieros en España"
   },
   "totales": {
@@ -92,13 +92,13 @@
       "spot": 2603.0
     },
     {
-      "accion": "CELLNEX",
-      "tipo": "CALL",
+      "accion": "BBVA",
+      "tipo": "PUT",
       "strike": "",
-      "fecha_vencimiento": "Dic.-26 29,00",
+      "fecha_vencimiento": "Sep.-27 15,00",
       "volumen": 400,
-      "oi": 2861,
-      "spot": 2603.0
+      "oi": 400,
+      "spot": 2106.0
     }
   ],
   "vol_por_subyacente": [
