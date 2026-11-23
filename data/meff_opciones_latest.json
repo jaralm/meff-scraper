@@ -1,7 +1,7 @@
 {
   "meta": {
     "fecha_boletin": "20/11/26",
-    "generado": "22/11/2026 10:49",
+    "generado": "23/11/2026 11:56",
     "fuente": "MEFF — Mercado Oficial de Futuros y Opciones Financieros en España"
   },
   "totales": {
@@ -48,18 +48,18 @@
     },
     {
       "accion": "TELEFONICA",
-      "tipo": "PUT",
+      "tipo": "CALL",
       "strike": "",
-      "fecha_vencimiento": "Dic.-28 3,20",
+      "fecha_vencimiento": "Dic.-28 3,60",
       "volumen": 8000,
       "oi": 35500,
       "spot": 336.0
     },
     {
       "accion": "TELEFONICA",
-      "tipo": "CALL",
+      "tipo": "PUT",
       "strike": "",
-      "fecha_vencimiento": "Dic.-28 3,60",
+      "fecha_vencimiento": "Dic.-28 3,20",
       "volumen": 8000,
       "oi": 35500,
       "spot": 336.0
